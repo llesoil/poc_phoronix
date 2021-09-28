@@ -1,0 +1,6 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Radeon+RX+6800,AMD Radeon RX 6800,70th,20,378 +/- 14
+1,/s/AMD+Navi+22,AMD Navi 22,51st,5,313 +/- 3
+3,/s/Sapphire+AMD+Radeon+RX+5600+OEM,Sapphire AMD Radeon RX 5600 OEM,31st,6,206 +/- 1
+5,/s/AMD+Radeon+RX+56,AMD Radeon RX 56,20th,4,185
+6,/s/Gigabyte+AMD+Radeon+RX+5500,Gigabyte AMD Radeon RX 5500,20th,4,139

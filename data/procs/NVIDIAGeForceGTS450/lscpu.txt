@@ -1,0 +1,108 @@
+===========
+VULKAN INFO
+===========
+
+Vulkan API Version: 1.0.30
+
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_core_validation.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_swapchain.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_parameter_validation.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_unique_objects.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_object_tracker.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_threading.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_image.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_core_validation.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_swapchain.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_parameter_validation.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_unique_objects.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_object_tracker.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_threading.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_image.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file /etc/vulkan/icd.d/nvidia_icd.json, version "1.0.0"
+
+Instance Extensions:
+====================
+Instance Extensions	count = 5
+	VK_KHR_surface                      : extension revision 25
+	VK_KHR_xcb_surface                  : extension revision  6
+	VK_KHR_xlib_surface                 : extension revision  6
+	VK_EXT_debug_report                 : extension revision  4
+	VK_NV_external_memory_capabilities  : extension revision  1
+Layers: count = 15
+=======
+VK_LAYER_LUNARG_core_validation (LunarG Validation Layer) Vulkan version 1.0.30, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  3
+	Devices 	count = 0
+
+VK_LAYER_LUNARG_swapchain (LunarG Validation Layer) Vulkan version 1.0.30, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  3
+	Devices 	count = 0
+
+VK_LAYER_LUNARG_parameter_validation (LunarG Validation Layer) Vulkan version 1.0.30, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  3
+	Devices 	count = 0
+
+VK_LAYER_GOOGLE_unique_objects (Google Validation Layer) Vulkan version 1.0.30, layer version 1
+	Layer Extensions	count = 0
+	Devices 	count = 0
+
+VK_LAYER_LUNARG_object_tracker (LunarG Validation Layer) Vulkan version 1.0.30, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  3
+	Devices 	count = 0
+
+VK_LAYER_GOOGLE_threading (Google Validation Layer) Vulkan version 1.0.30, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  3
+	Devices 	count = 0
+
+VK_LAYER_LUNARG_image (LunarG Validation Layer) Vulkan version 1.0.30, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  3
+	Devices 	count = 0
+
+VK_LAYER_LUNARG_core_validation (LunarG Validation Layer) Vulkan version 1.0.30, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  3
+	Devices 	count = 0
+
+VK_LAYER_LUNARG_swapchain (LunarG Validation Layer) Vulkan version 1.0.30, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  3
+	Devices 	count = 0
+
+VK_LAYER_LUNARG_parameter_validation (LunarG Validation Layer) Vulkan version 1.0.30, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  3
+	Devices 	count = 0
+
+VK_LAYER_GOOGLE_unique_objects (Google Validation Layer) Vulkan version 1.0.30, layer version 1
+	Layer Extensions	count = 0
+	Devices 	count = 0
+
+VK_LAYER_LUNARG_object_tracker (LunarG Validation Layer) Vulkan version 1.0.30, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  3
+	Devices 	count = 0
+
+VK_LAYER_GOOGLE_threading (Google Validation Layer) Vulkan version 1.0.30, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  3
+	Devices 	count = 0
+
+VK_LAYER_LUNARG_image (LunarG Validation Layer) Vulkan version 1.0.30, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  3
+	Devices 	count = 0
+
+VK_LAYER_LUNARG_standard_validation (LunarG Standard Validation Layer) Vulkan version 1.0.30, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  3
+	Devices 	count = 0
+
+Presentable Surface formats:
+============================
+None found

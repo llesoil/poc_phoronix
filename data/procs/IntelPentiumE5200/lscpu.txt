@@ -1,0 +1,14 @@
+Architecture:          i686
+Opera?n? re?im(y) CPU: 32-bit, 64-bit
+CPU(s):                2
+Vl?ken na j?dro:       1
+Jader na patici:       2
+Patic CPU:             1
+ID v?robce:            GenuineIntel
+Rodina CPU:            6
+Model:                 23
+Stepping:              6
+CPU MHz:               2500.000
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              2048K

@@ -1,0 +1,36 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/NVIDIA+GeForce+RTX+3090,NVIDIA GeForce RTX 3090,96th,10,3.02 +/- 0.01
+1,/s/NVIDIA+GeForce+RTX+3080,NVIDIA GeForce RTX 3080,91st,80,3.40 +/- 0.03
+3,/s/NVIDIA+GeForce+RTX+2080+Ti,NVIDIA GeForce RTX 2080 Ti,75th,10,3.64 +/- 0.32
+4,/s/NVIDIA+GeForce+RTX+3070,NVIDIA GeForce RTX 3070,69th,6,4.34 +/- 0.10
+5,/s/NVIDIA+GeForce+RTX+2080+SUPER,NVIDIA GeForce RTX 2080 SUPER,65th,10,4.70 +/- 0.57
+6,/s/NVIDIA+GeForce+RTX+3060+Ti,NVIDIA GeForce RTX 3060 Ti,65th,13,4.72 +/- 0.36
+7,/s/Zotac+NVIDIA+GeForce+RTX+2080,Zotac NVIDIA GeForce RTX 2080,60th,11,5.12 +/- 0.68
+8,/s/ASUS+AMD+Radeon+RX+5600+OEM,ASUS AMD Radeon RX 5600 OEM,60th,3,5.23 +/- 0.38
+9,/s/NVIDIA+GeForce+RTX+2070+SUPER,NVIDIA GeForce RTX 2070 SUPER,58th,10,5.32 +/- 0.35
+10,/s/AMD+Radeon+RX+56,AMD Radeon RX 56,58th,12,5.45 +/- 0.61
+11,/s/ASUS+NVIDIA+GeForce+RTX+2070,ASUS NVIDIA GeForce RTX 2070,55th,9,5.72 +/- 0.31
+12,/s/NVIDIA+GeForce+RTX+2060+SUPER,NVIDIA GeForce RTX 2060 SUPER,52nd,12,5.92 +/- 0.28
+13,/s/NVIDIA+Quadro+RTX+5000+with+Max-Q+Design,NVIDIA Quadro RTX 5000 with Max-Q Design,52nd,4,5.92 +/- 0.23
+15,/s/AMD+Radeon+RX+5600+OEM,AMD Radeon RX 5600 OEM,47th,14,6.27 +/- 0.52
+16,/s/eVGA+NVIDIA+GeForce+RTX+3060,eVGA NVIDIA GeForce RTX 3060,46th,3,6.45
+17,/s/NVIDIA+GeForce+RTX+2060,NVIDIA GeForce RTX 2060,44th,9,6.60 +/- 0.31
+18,/s/Sapphire+AMD+Radeon+RX+5600+OEM,Sapphire AMD Radeon RX 5600 OEM,42nd,4,6.76 +/- 0.08
+19,/s/MSI+AMD+Radeon+RX+5600+OEM,MSI AMD Radeon RX 5600 OEM,39th,3,7.15 +/- 0.12
+20,/s/Sapphire+AMD+Radeon+RX+470,Sapphire AMD Radeon RX 470,39th,3,7.40 +/- 0.09
+21,/s/MSI+AMD+Radeon+RX+470,MSI AMD Radeon RX 470,37th,4,8.40 +/- 0.33
+22,/s/Gigabyte+AMD+Radeon+RX+5500,Gigabyte AMD Radeon RX 5500,36th,4,8.95 +/- 0.09
+23,/s/NVIDIA+GeForce+GTX+1080,NVIDIA GeForce GTX 1080,36th,3,9.26
+24,/s/Sapphire+AMD+Radeon+RX+5500,Sapphire AMD Radeon RX 5500,34th,3,9.39 +/- 0.12
+25,/s/Gigabyte+AMD+Radeon+RX+470,Gigabyte AMD Radeon RX 470,32nd,3,10.60 +/- 0.13
+26,/s/Intel+8th+Gen+Core+Gaussian+Mixture+Model,Intel 8th Gen Core Gaussian Mixture Model,31st,3,10.79 +/- 0.37
+27,/s/Gigabyte+Intel+HD+530,Gigabyte Intel HD 530,31st,3,10.85 +/- 0.19
+28,/s/Gigabyte+Intel+HD+630,Gigabyte Intel HD 630,30th,3,10.91 +/- 0.36
+29,/s/MSI+Intel+HD+630,MSI Intel HD 630,30th,3,10.92 +/- 0.09
+30,/s/i915drmfb,i915drmfb,30th,84,10.96
+32,/s/Intel+HD+530,Intel HD 530,9th,3,11.07 +/- 0.38
+33,/s/MSI+Intel+HD+P530,MSI Intel HD P530,8th,3,11.11 +/- 0.15
+34,/s/ASUS+Intel+UHD+630,ASUS Intel UHD 630,6th,3,13.87 +/- 0.21
+35,/s/MSI+Intel+Iris+Pro+6200,MSI Intel Iris Pro 6200,5th,3,15.35 +/- 0.63
+36,/s/Intel+HD+5500,Intel HD 5500,4th,3,16.18 +/- 0.03
+37,/s/Intel+Iris+Plus+G7,Intel Iris Plus G7,1st,3,41.47 +/- 0.28

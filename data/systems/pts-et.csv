@@ -1,0 +1,6 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Gallium+0.4+on+AMD+BARTS,Gallium 0.4 on AMD BARTS,87th,3,169 +/- 4
+1,/s/2+x+AMD+Radeon+HD+6800+1024MB+CrossFire,2 x AMD Radeon HD 6800 1024MB CrossFire,87th,3,165 +/- 11
+2,/s/Intel+Xeon+E3-1200+v2,Intel Xeon E3-1200 v2,86th,84,152
+4,/s/NVIDIA+GeForce+210,NVIDIA GeForce 210,44th,85,67
+6,/s/Intel+2nd+Generation+Core+Family+IGP,Intel 2nd Generation Core Family IGP,15th,84,10

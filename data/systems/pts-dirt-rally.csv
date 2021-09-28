@@ -1,0 +1,7 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/NVIDIA+GeForce+GTX+1080,NVIDIA GeForce GTX 1080,96th,3,152 +/- 5
+1,/s/AMD+Radeon+RX+56,AMD Radeon RX 56,95th,6,149 +/- 6
+2,/s/MSI+AMD+Radeon+RX+580,MSI AMD Radeon RX 580,87th,4,135 +/- 4
+4,/s/MSI+AMD+Radeon+HD+7970,MSI AMD Radeon HD 7970,34th,3,106 +/- 2
+5,/s/MSI+AMD+Radeon+HD+7900,MSI AMD Radeon HD 7900,28th,98,105 +/- 3
+7,/s/ASUS+NVIDIA+GeForce+GTX+970,ASUS NVIDIA GeForce GTX 970,9th,8,93 +/- 2

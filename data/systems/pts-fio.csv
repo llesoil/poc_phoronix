@@ -1,0 +1,8 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Samsung+SSD+970+PRO,Samsung SSD 970 PRO,100th,3,1676 +/- 12
+1,/s/Samsung+SSD+970+EVO+Plus,Samsung SSD 970 EVO Plus,99th,5,1202 +/- 44
+2,/s/500GB+Western+Digital+WDS500G3X0C-00SJG0,500GB Western Digital WDS500G3X0C-00SJG0,98th,3,1096 +/- 9
+3,/s/1000GB+Samsung+SSD+980+PRO+1TB,1000GB Samsung SSD 980 PRO 1TB,97th,4,983 +/- 131
+4,/s/500GB+Seagate+FireCuda+520+SSD+ZP500GM30002,500GB Seagate FireCuda 520 SSD ZP500GM30002,95th,3,443 +/- 46
+5,/s/Toshiba+KBG40ZPZ512G+NVMe,Toshiba KBG40ZPZ512G NVMe,91st,3,109 +/- 7
+6,/s/120GB+ADATA+SU700,120GB ADATA SU700,86th,3,49 +/- 1

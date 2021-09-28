@@ -1,0 +1,3 @@
+Processor	: ARMv7 Processor rev 0 (v7l)
+processor	: 0
+BogoMIPS	: 2790.21

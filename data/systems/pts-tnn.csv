@@ -1,0 +1,57 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Ryzen+9+5950X+16-Core,AMD Ryzen 9 5950X 16-Core,95th,24,2415 +/- 19
+1,/s/AMD+Ryzen+9+5900X+12-Core,AMD Ryzen 9 5900X 12-Core,90th,7,2520 +/- 25
+2,/s/AMD+Ryzen+Threadripper+3960X+24-Core,AMD Ryzen Threadripper 3960X 24-Core,89th,3,2549 +/- 3
+3,/s/AMD+Ryzen+9+5900HX,AMD Ryzen 9 5900HX,86th,9,2589 +/- 12
+4,/s/AMD+Ryzen+5+5600X+6-Core,AMD Ryzen 5 5600X 6-Core,84th,5,2615 +/- 39
+5,/s/AMD+Ryzen+9+3950X+16-Core,AMD Ryzen 9 3950X 16-Core,83rd,3,2638 +/- 7
+6,/s/AMD+Ryzen+Threadripper+3970X+32-Core,AMD Ryzen Threadripper 3970X 32-Core,82nd,3,2655 +/- 4
+7,/s/Intel+Core+i9-11900K,Intel Core i9-11900K,79th,11,2714 +/- 22
+8,/s/AMD+Ryzen+7+5700G,AMD Ryzen 7 5700G,78th,6,2722 +/- 3
+10,/s/AMD+Ryzen+5+5600G,AMD Ryzen 5 5600G,72nd,4,2836 +/- 5
+11,/s/AMD+Ryzen+Threadripper+3990X+64-Core,AMD Ryzen Threadripper 3990X 64-Core,72nd,5,2843 +/- 106
+12,/s/Intel+Core+i9-10900K,Intel Core i9-10900K,71st,3,2868 +/- 15
+13,/s/AMD+Ryzen+7+5800X+8-Core,AMD Ryzen 7 5800X 8-Core,71st,4,2871 +/- 243
+14,/s/Ampere+Altra+ARMv8+Neoverse-N1+160-Core,Ampere Altra ARMv8 Neoverse-N1 160-Core,71st,5,2877 +/- 165
+15,/s/AMD+Ryzen+7+3800XT+8-Core,AMD Ryzen 7 3800XT 8-Core,70th,3,2883 +/- 6
+16,/s/AMD+EPYC+7543+32-Core,AMD EPYC 7543 32-Core,67th,16,2984 +/- 94
+17,/s/AMD+Ryzen+7+3700X+8-Core,AMD Ryzen 7 3700X 8-Core,63rd,3,3005 +/- 13
+18,/s/AMD+Ryzen+9+3900XT+12-Core,AMD Ryzen 9 3900XT 12-Core,62nd,3,3014 +/- 16
+19,/s/AMD+Ryzen+Threadripper+2970WX+24-Core,AMD Ryzen Threadripper 2970WX 24-Core,61st,5,3031 +/- 6
+20,/s/Intel+Xeon+E-2288G,Intel Xeon E-2288G,57th,3,3137 +/- 14
+21,/s/Intel+Core+i5-10600K,Intel Core i5-10600K,55th,4,3277 +/- 19
+23,/s/AMD+Ryzen+5+5500U,AMD Ryzen 5 5500U,50th,11,3455 +/- 24
+24,/s/Intel+Core+i7-8700K,Intel Core i7-8700K,49th,3,3475 +/- 12
+25,/s/Intel+Core+i9-10980XE,Intel Core i9-10980XE,48th,8,3490 +/- 35
+26,/s/AMD+Ryzen+7+2700X+Eight-Core,AMD Ryzen 7 2700X Eight-Core,45th,7,3519 +/- 31
+27,/s/AMD+Ryzen+7+2700+Eight-Core,AMD Ryzen 7 2700 Eight-Core,42nd,3,3655 +/- 3
+28,/s/AMD+EPYC+7551+32-Core,AMD EPYC 7551 32-Core,41st,3,3674 +/- 4
+29,/s/AMD+Ryzen+5+3400G,AMD Ryzen 5 3400G,40th,3,3728 +/- 9
+30,/s/AMD+EPYC+72F3+8-Core,AMD EPYC 72F3 8-Core,38th,3,3793 +/- 3
+31,/s/2+x+Intel+Xeon+Gold+5220R,2 x Intel Xeon Gold 5220R,36th,3,3806 +/- 18
+32,/s/Intel+Xeon+Gold+6226R,Intel Xeon Gold 6226R,34th,3,3956 +/- 1
+33,/s/2+x+Intel+Xeon+Platinum+8280,2 x Intel Xeon Platinum 8280,34th,4,3962 +/- 52
+34,/s/Intel+Core+i7-4770K,Intel Core i7-4770K,33rd,3,4026 +/- 9
+35,/s/Intel+Xeon+E3-1231+v3,Intel Xeon E3-1231 v3,31st,6,4081 +/- 12
+36,/s/Intel+Core+i5-8400,Intel Core i5-8400,28th,3,4253 +/- 142
+37,/s/Intel+Core+i7-10700T,Intel Core i7-10700T,28th,3,4255 +/- 36
+38,/s/Intel+Xeon+E3-1275+v6,Intel Xeon E3-1275 v6,28th,3,4257 +/- 5
+39,/s/Intel+Core+i7-1165G7,Intel Core i7-1165G7,28th,7,4264 +/- 182
+40,/s/Intel+Core+i5-7600K,Intel Core i5-7600K,26th,3,4290 +/- 7
+42,/s/Intel+Core+i7-1185G7,Intel Core i7-1185G7,21st,3,4463 +/- 117
+43,/s/Intel+Xeon+E3-1270+v5,Intel Xeon E3-1270 v5,21st,4,4467 +/- 26
+44,/s/Intel+Xeon+E3-1280+v5,Intel Xeon E3-1280 v5,20th,3,4523 +/- 5
+45,/s/AMD+Ryzen+5+4500U,AMD Ryzen 5 4500U,18th,4,4544 +/- 24
+46,/s/Intel+Core+i7-3770K,Intel Core i7-3770K,17th,3,4565 +/- 5
+47,/s/Intel+Xeon+Silver+4216,Intel Xeon Silver 4216,16th,3,4738 +/- 8
+48,/s/Intel+Core+i7-2700K,Intel Core i7-2700K,14th,3,4873 +/- 44
+49,/s/Intel+Core+i3-8100,Intel Core i3-8100,14th,3,4878 +/- 1
+50,/s/Intel+Core+i7-8550U,Intel Core i7-8550U,12th,3,4999 +/- 7
+51,/s/Intel+Core+i7-8565U,Intel Core i7-8565U,11th,4,5056 +/- 96
+52,/s/Intel+Core+i7-1065G7,Intel Core i7-1065G7,10th,5,5280 +/- 195
+53,/s/Intel+Core+i3-7100,Intel Core i3-7100,8th,3,5822 +/- 11
+54,/s/Intel+Xeon+E3-1235L+v5,Intel Xeon E3-1235L v5,7th,3,6179 +/- 5
+55,/s/AMD+Ryzen+3+3200U,AMD Ryzen 3 3200U,6th,3,6188 +/- 41
+56,/s/AMD+FX-8150+Eight-Core,AMD FX-8150 Eight-Core,5th,4,7748 +/- 8
+57,/s/Intel+Core+i5-6300U,Intel Core i5-6300U,3rd,4,8548 +/- 10
+58,/s/ARMv8+Cortex-A72+4-Core,ARMv8 Cortex-A72 4-Core,1st,4,21542 +/- 42

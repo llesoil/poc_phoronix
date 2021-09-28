@@ -1,0 +1,6 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Core+i7-7740K,Intel Core i7-7740K,85th,16,4.84
+2,/s/Intel+Core+i7-6770HQ,Intel Core i7-6770HQ,63rd,4,3.67 +/- 0.07
+3,/s/Intel+Core+i9-7920X,Intel Core i9-7920X,51st,6,2.86 +/- 0.03
+5,/s/Intel+Core+i9-7980XE,Intel Core i9-7980XE,35th,9,2.70 +/- 0.02
+7,/s/Intel+Core+i9-9900K,Intel Core i9-9900K,17th,12,2.41 +/- 0.04

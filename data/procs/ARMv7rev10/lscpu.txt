@@ -1,0 +1,8 @@
+Architecture:          armv7l
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0
+Off-line CPU(s) list:  1
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1

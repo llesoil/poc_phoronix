@@ -1,0 +1,14 @@
+===========
+VULKAN INFO
+===========
+
+Vulkan Instance Version: 1.1.70
+
+WARNING: [Loader Message] Code 0 : Skipping manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_object_tracker.json - The file has already been read once
+WARNING: [Loader Message] Code 0 : Skipping manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_parameter_validation.json - The file has already been read once
+WARNING: [Loader Message] Code 0 : Skipping manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_threading.json - The file has already been read once
+WARNING: [Loader Message] Code 0 : Skipping manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_unique_objects.json - The file has already been read once
+WARNING: [Loader Message] Code 0 : Skipping manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_core_validation.json - The file has already been read once
+WARNING: [Loader Message] Code 0 : Skipping manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_standard_validation.json - The file has already been read once
+Cannot create Vulkan instance.
+/build/vulkan-Kbdbga/vulkan-1.1.70+dfsg1/demos/vulkaninfo.c:768: failed with VK_ERROR_INCOMPATIBLE_DRIVER

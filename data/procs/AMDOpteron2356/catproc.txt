@@ -1,0 +1,25 @@
+processor	: 0
+vendor_id	: AuthenticAMD
+cpu family	: 15
+model		: 6
+model name	: Common KVM processor
+stepping	: 1
+cpu MHz		: 2311.846
+cache size	: 512 KB
+physical id	: 0
+siblings	: 4
+core id		: 0
+cpu cores	: 4
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 5
+wp		: yes
+flags		: fpu de pse tsc msr pae mce cx8 apic mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx lm rep_good extd_apicid unfair_spinlock pni cx16 hypervisor cmp_legacy
+bogomips	: 4623.69
+TLB size	: 1024 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 40 bits physical, 48 bits virtual
+power management:

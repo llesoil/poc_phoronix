@@ -1,0 +1,9 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Core+i9-10900K,Intel Core i9-10900K,91st,3,2203 +/- 10
+1,/s/Intel+Core+i7-1165G7,Intel Core i7-1165G7,78th,4,2106 +/- 6
+3,/s/Intel+Core+i7-9750H,Intel Core i7-9750H,68th,3,1875 +/- 6
+4,/s/AMD+Ryzen+Threadripper+3970X+32-Core,AMD Ryzen Threadripper 3970X 32-Core,55th,3,1829 +/- 8
+6,/s/Intel+Core+i7-1065G7,Intel Core i7-1065G7,45th,3,1631 +/- 39
+7,/s/Intel+Core+i7-10700T,Intel Core i7-10700T,35th,4,1520 +/- 7
+9,/s/AMD+Ryzen+5+4500U,AMD Ryzen 5 4500U,21st,4,1421 +/- 9
+10,/s/Intel+Core+i7-8565U,Intel Core i7-8565U,11th,3,1237 +/- 8

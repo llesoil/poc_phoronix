@@ -1,0 +1,11 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/NVIDIA+GeForce+RTX+2080+Ti,NVIDIA GeForce RTX 2080 Ti,91st,3,159 +/- 3
+1,/s/ASUS+NVIDIA+GeForce+RTX+2070,ASUS NVIDIA GeForce RTX 2070,84th,5,107 +/- 2
+2,/s/NVIDIA+GeForce+GTX+1080,NVIDIA GeForce GTX 1080,82nd,6,96 +/- 1
+4,/s/Zotac+NVIDIA+GeForce+GTX+1070+Ti,Zotac NVIDIA GeForce GTX 1070 Ti,74th,4,84 +/- 4
+5,/s/NVIDIA+GeForce+GTX+1070,NVIDIA GeForce GTX 1070,56th,6,76 +/- 2
+7,/s/NVIDIA+GeForce+GTX+980+Ti,NVIDIA GeForce GTX 980 Ti,41st,3,67
+9,/s/NVIDIA+GeForce+GTX+1060,NVIDIA GeForce GTX 1060,21st,6,55 +/- 1
+10,/s/NVIDIA+GeForce+GTX+980,NVIDIA GeForce GTX 980,21st,3,55 +/- 2
+11,/s/MSI+AMD+Radeon+RX+470,MSI AMD Radeon RX 470,20th,8,53 +/- 1
+12,/s/eVGA+NVIDIA+GeForce+GTX+970,eVGA NVIDIA GeForce GTX 970,12th,3,46 +/- 3

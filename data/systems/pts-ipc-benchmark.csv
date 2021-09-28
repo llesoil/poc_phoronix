@@ -1,0 +1,14 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Ryzen+9+5900X+12-Core,AMD Ryzen 9 5900X 12-Core,100th,5,4353652 +/- 124692
+1,/s/Intel+Core+i9-9900KS,Intel Core i9-9900KS,98th,3,4062090 +/- 34424
+2,/s/Intel+Core+i9-10980XE,Intel Core i9-10980XE,95th,3,3673785 +/- 61247
+3,/s/AMD+Ryzen+Threadripper+3970X+32-Core,AMD Ryzen Threadripper 3970X 32-Core,95th,3,3643403 +/- 63270
+4,/s/AMD+Ryzen+7+3700X+8-Core,AMD Ryzen 7 3700X 8-Core,94th,3,3631166 +/- 48026
+5,/s/AMD+EPYC+7702P+64-Core,AMD EPYC 7702P 64-Core,84th,3,3075983 +/- 12775
+7,/s/AMD+EPYC+3255+8-Core+Temp,AMD EPYC 3255 8-Core Temp,50th,9,1999976 +/- 137637
+8,/s/2+x+Intel+Xeon+Silver+4214,2 x Intel Xeon Silver 4214,31st,3,1409555 +/- 7200
+10,/s/Intel+Core+i5-6500,Intel Core i5-6500,24th,7,1245938 +/- 39991
+11,/s/Intel+Core+i3-2120,Intel Core i3-2120,24th,3,1239314 +/- 1255
+12,/s/ARMv8+Cortex-A73+6-Core,ARMv8 Cortex-A73 6-Core,20th,4,1115343 +/- 92333
+13,/s/Intel+Core+2+Duo+P7350,Intel Core 2 Duo P7350,13th,5,806054 +/- 93389
+14,/s/Intel+Atom+N2600,Intel Atom N2600,5th,5,271634 +/- 25940

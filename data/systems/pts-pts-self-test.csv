@@ -1,0 +1,15 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Core+i7-6820HQ,Intel Core i7-6820HQ,100th,5,0.1
+1,/s/AMD+Ryzen+3+1300X,AMD Ryzen 3 1300X,96th,4,0.1
+2,/s/Intel+Core+i9-10900K,Intel Core i9-10900K,87th,10,0.4 +/- 0.1
+4,/s/AMD+Ryzen+5+2600+Six-Core,AMD Ryzen 5 2600 Six-Core,73rd,29,0.5
+5,/s/Intel+Core+i5-4590,Intel Core i5-4590,71st,14,0.5
+6,/s/Intel+Core+i7+950,Intel Core i7 950,57th,5,0.7
+7,/s/Intel+Core+i9-9900K,Intel Core i9-9900K,56th,7,0.7 +/- 0.1
+8,/s/AMD+EPYC+7642+48-Core,AMD EPYC 7642 48-Core,52nd,7,0.8 +/- 0.1
+9,/s/AMD+Ryzen+7+5800X+8-Core,AMD Ryzen 7 5800X 8-Core,51st,6,0.9 +/- 0.1
+11,/s/Intel+Core+i5-4440S,Intel Core i5-4440S,50th,3,0.9
+12,/s/Intel+Core+i7-3517U,Intel Core i7-3517U,50th,4,1.0 +/- 0.1
+13,/s/Intel+Core+i5-10210U,Intel Core i5-10210U,37th,5,1.2
+14,/s/2+x+AMD+EPYC+7742+64-Core,2 x AMD EPYC 7742 64-Core,36th,3,1.7
+16,/s/Intel+Xeon+E3-1271+v3,Intel Xeon E3-1271 v3,19th,84,10.7

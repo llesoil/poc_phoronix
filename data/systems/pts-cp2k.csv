@@ -1,0 +1,24 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Ryzen+3+3300X+4-Core,AMD Ryzen 3 3300X 4-Core,96th,4,826 +/- 4
+1,/s/Intel+Core+i9-11900K,Intel Core i9-11900K,91st,3,846 +/- 2
+2,/s/AMD+Ryzen+9+5950X+16-Core,AMD Ryzen 9 5950X 16-Core,88th,3,850 +/- 6
+3,/s/AMD+Ryzen+7+3800XT+8-Core,AMD Ryzen 7 3800XT 8-Core,85th,3,898 +/- 1
+4,/s/Intel+Core+i9-10900K,Intel Core i9-10900K,80th,5,939 +/- 6
+6,/s/AMD+Ryzen+7+3700X+8-Core,AMD Ryzen 7 3700X 8-Core,75th,3,952 +/- 6
+7,/s/Intel+Core+i3-10100,Intel Core i3-10100,70th,3,998 +/- 50
+8,/s/Intel+Core+i7-8086K,Intel Core i7-8086K,70th,3,1010 +/- 27
+9,/s/Intel+Xeon+E3-1275+v6,Intel Xeon E3-1275 v6,68th,3,1032 +/- 4
+10,/s/AMD+EPYC+72F3+8-Core,AMD EPYC 72F3 8-Core,60th,4,1125 +/- 12
+11,/s/Intel+Core+i5-7600K,Intel Core i5-7600K,55th,3,1130 +/- 4
+12,/s/Intel+Xeon+E-2288G,Intel Xeon E-2288G,52nd,3,1138 +/- 7
+14,/s/AMD+Ryzen+Threadripper+3960X+24-Core,AMD Ryzen Threadripper 3960X 24-Core,49th,3,1145 +/- 8
+15,/s/Intel+Core+i5-9400F,Intel Core i5-9400F,44th,3,1162 +/- 13
+16,/s/Intel+Xeon+E3-1245+v5,Intel Xeon E3-1245 v5,43rd,6,1197 +/- 60
+17,/s/AMD+EPYC+7313+16-Core,AMD EPYC 7313 16-Core,39th,7,1215 +/- 9
+18,/s/AMD+EPYC+7F32+8-Core,AMD EPYC 7F32 8-Core,33rd,3,1232
+19,/s/Intel+Core+i7-6800K,Intel Core i7-6800K,27th,3,1341 +/- 6
+21,/s/AMD+Ryzen+7+1700+Eight-Core,AMD Ryzen 7 1700 Eight-Core,24th,3,1358 +/- 11
+22,/s/AMD+Ryzen+Threadripper+2950X+16-Core,AMD Ryzen Threadripper 2950X 16-Core,18th,4,1396 +/- 17
+23,/s/AMD+Ryzen+Threadripper+2990WX+32-Core,AMD Ryzen Threadripper 2990WX 32-Core,13th,3,1557 +/- 3
+24,/s/AMD+Ryzen+Threadripper+2970WX+24-Core,AMD Ryzen Threadripper 2970WX 24-Core,8th,4,1632 +/- 14
+25,/s/AMD+EPYC+7551+32-Core,AMD EPYC 7551 32-Core,3rd,3,1726 +/- 9

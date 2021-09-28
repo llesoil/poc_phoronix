@@ -1,0 +1,38 @@
+===========
+VULKAN INFO
+===========
+
+Vulkan API Version: 1.0.21
+
+INFO: [loader] Code 0 : Found manifest file /home/steam/.local/share/vulkan/implicit_layer.d/steamoverlay_i386.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file /home/steam/.local/share/vulkan/implicit_layer.d/steamoverlay_x86_64.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file //etc/vulkan/icd.d/radeon_icd.i686.json, version "1.0.0"
+WARNING: [loader] Code 0 : /usr/lib/i386-linux-gnu/libvulkan_radeon.so: wrong ELF class: ELFCLASS32
+INFO: [loader] Code 0 : Found manifest file //etc/vulkan/icd.d/intel_icd.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file //etc/vulkan/icd.d/radeon_icd.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file //etc/vulkan/icd.d/radeon_icd.x86_64.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file //etc/vulkan/icd.d/intel_icd.i686.json, version "1.0.0"
+WARNING: [loader] Code 0 : /usr/lib/i386-linux-gnu/libvulkan_intel.so: wrong ELF class: ELFCLASS32
+INFO: [loader] Code 0 : Found manifest file //etc/vulkan/icd.d/intel_icd.x86_64.json, version "1.0.0"
+
+Instance Extensions:
+====================
+Instance Extensions	count = 5
+	VK_KHR_surface                      : extension revision 25
+	VK_KHR_xcb_surface                  : extension revision  6
+	VK_KHR_xlib_surface                 : extension revision  6
+	VK_KHR_get_physical_device_properties2: extension revision  1
+	VK_EXT_debug_report                 : extension revision  3
+Layers: count = 2
+=======
+VK_LAYER_VALVE_steam_overlay_32 (Steam Overlay Layer) Vulkan version 1.0.3, layer version 1
+	Layer Extensions	count = 0
+	Devices 	count = 0
+
+VK_LAYER_VALVE_steam_overlay_64 (Steam Overlay Layer) Vulkan version 1.0.3, layer version 1
+	Layer Extensions	count = 0
+	Devices 	count = 0
+
+Presentable Surface formats:
+============================
+None found

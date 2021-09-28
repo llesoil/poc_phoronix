@@ -1,0 +1,2 @@
+'DISPLAY' environment variable not set... skipping surface info
+/build/vulkan-tools-KEbD_A/vulkan-tools-1.2.131.1+dfsg1/vulkaninfo/vulkaninfo.h:477: failed with ERROR_INITIALIZATION_FAILED

@@ -1,0 +1,8 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/MSI+NVIDIA+GeForce+GTX+1080+Ti,MSI NVIDIA GeForce GTX 1080 Ti,100th,84,982
+2,/s/Intel+HD+630,Intel HD 630,68th,84,905
+3,/s/NVIDIA+GeForce+GT+750M,NVIDIA GeForce GT 750M,51st,84,547
+5,/s/NVIDIA+Quadro+K600,NVIDIA Quadro K600,35th,85,334
+6,/s/Intel+Xeon+E3-1200+v3,Intel Xeon E3-1200 v3,33rd,84,113
+8,/s/Intel+2nd+Generation+Core+Family+IGP,Intel 2nd Generation Core Family IGP,18th,84,110
+9,/s/AMD+Radeon+HD+2400+PRO,AMD Radeon HD 2400 PRO,2nd,5,57

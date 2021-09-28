@@ -1,0 +1,23 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Core+i7-7700K,Intel Core i7-7700K,95th,5,7968 +/- 72
+1,/s/Intel+Core+i7-8700K,Intel Core i7-8700K,91st,5,7776 +/- 132
+2,/s/Intel+Xeon+E3-1280+v5,Intel Xeon E3-1280 v5,90th,5,7719 +/- 153
+3,/s/AMD+Ryzen+Threadripper+2990WX+32-Core,AMD Ryzen Threadripper 2990WX 32-Core,86th,3,7510 +/- 103
+4,/s/Intel+Core+i5-8400,Intel Core i5-8400,83rd,5,7176 +/- 93
+5,/s/Intel+Core+i9-7980XE,Intel Core i9-7980XE,77th,5,6860 +/- 210
+6,/s/Intel+Xeon+E3-1275+v6,Intel Xeon E3-1275 v6,77th,5,6824 +/- 117
+8,/s/Intel+Core+i5-7600K,Intel Core i5-7600K,75th,4,6789 +/- 88
+9,/s/Intel+Core+i3-8100,Intel Core i3-8100,68th,4,6576 +/- 102
+10,/s/Intel+Core+i7-4960X,Intel Core i7-4960X,64th,7,6238 +/- 265
+11,/s/Intel+Core+i5-8265U,Intel Core i5-8265U,62nd,3,6145 +/- 164
+12,/s/Intel+Core+i5-8250U,Intel Core i5-8250U,57th,6,5947 +/- 125
+13,/s/Intel+Core+i7-4770K,Intel Core i7-4770K,55th,7,5828 +/- 331
+14,/s/Intel+Core+i5-6500,Intel Core i5-6500,52nd,4,5763 +/- 180
+16,/s/Intel+Xeon+E5-2687W+v3,Intel Xeon E5-2687W v3,48th,5,5570 +/- 183
+17,/s/Intel+Core+i7-7900X,Intel Core i7-7900X,37th,5,5102 +/- 221
+18,/s/Intel+Xeon+E5-1680+v3,Intel Xeon E5-1680 v3,36th,10,4998 +/- 368
+19,/s/Intel+Core+i3-4130,Intel Core i3-4130,35th,5,4976 +/- 238
+21,/s/Intel+Core+i7-5600U,Intel Core i7-5600U,24th,10,4728 +/- 379
+22,/s/Intel+Core+i7-5960X,Intel Core i7-5960X,21st,15,4628 +/- 201
+23,/s/Intel+Core+i7-4558U,Intel Core i7-4558U,15th,4,4488 +/- 65
+24,/s/Intel+Core+i5-5300U,Intel Core i5-5300U,9th,10,4377 +/- 249

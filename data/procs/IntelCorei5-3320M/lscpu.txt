@@ -1,0 +1,21 @@
+Architecture :        x86_64
+Mode(s) opératoire(s) des processeurs : 32-bit, 64-bit
+Boutisme :            Little Endian
+Processeur(s) :       4
+Liste de processeur(s) en ligne : 0-3
+Thread(s) par cœur : 2
+Cœur(s) par socket : 2
+Socket(s) :           1
+Nœud(s) NUMA :       1
+Identifiant constructeur : GenuineIntel
+Famille de processeur : 6
+Modèle :             58
+Révision :           9
+Vitesse du processeur en MHz : 1200.000
+BogoMIPS :            5188.37
+Virtualisation :      VT-x
+Cache L1d :           32K
+Cache L1i :           32K
+Cache L2 :            256K
+Cache L3 :            3072K
+Nœud NUMA 0 de processeur(s) : 0-3

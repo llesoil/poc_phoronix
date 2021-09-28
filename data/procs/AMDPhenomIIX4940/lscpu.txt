@@ -1,0 +1,19 @@
+Architecture:          i686
+Mode(s) opératoire(s) des processeurs :32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) par cœur : 1
+Cœur(s) par socket : 4
+Socket(s):             1
+Identifiant constructeur :AuthenticAMD
+Famille de processeur :16
+Modèle :             4
+Révision :           2
+Vitesse du processeur en MHz :800.000
+BogoMIPS:              5999.89
+Virtualisation :      AMD-V
+Cache L1d :           64K
+Cache L1i :           64K
+Cache L2 :            512K
+Cache L3 :            6144K

@@ -1,0 +1,8 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/ASUS+NVIDIA+GeForce+GTX+1070,ASUS NVIDIA GeForce GTX 1070,100th,3,141 +/- 10
+1,/s/eVGA+NVIDIA+GeForce+GTX+1070,eVGA NVIDIA GeForce GTX 1070,100th,4,139 +/- 4
+2,/s/Sapphire+AMD+Radeon+R9+FURY,Sapphire AMD Radeon R9 FURY,98th,88,113 +/- 2
+4,/s/AMD+Radeon+RX+470,AMD Radeon RX 470,46th,88,101 +/- 1
+6,/s/ASUS+NVIDIA+GeForce+GTX+1050+Ti,ASUS NVIDIA GeForce GTX 1050 Ti,18th,84,77
+7,/s/MSI+AMD+Radeon+HD+7900,MSI AMD Radeon HD 7900,18th,3,77 +/- 1
+8,/s/AMD+Radeon+RX+460,AMD Radeon RX 460,5th,3,13 +/- 1

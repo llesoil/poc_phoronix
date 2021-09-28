@@ -1,0 +1,6 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Ryzen+7+3700X+8-Core,AMD Ryzen 7 3700X 8-Core,100th,6,4.167
+1,/s/2+x+Intel+Xeon+Platinum+8259CL,2 x Intel Xeon Platinum 8259CL,86th,18,4.156 +/- 0.012
+3,/s/2+x+Intel+Xeon+Platinum+8175M,2 x Intel Xeon Platinum 8175M,54th,19,4.105 +/- 0.032
+5,/s/Intel+Xeon+E3-1275+v6,Intel Xeon E3-1275 v6,28th,11,4.074 +/- 0.006
+7,/s/2+x+Intel+Xeon+Gold+6138,2 x Intel Xeon Gold 6138,12th,12,4.065 +/- 0.019

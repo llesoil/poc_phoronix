@@ -1,0 +1,24 @@
+Architektur:           x86_64
+CPU Operationsmodus:   32-bit, 64-bit
+Byte-Reihenfolge:      Little Endian
+CPU(s):                4
+Liste der Online-CPU(s):0-3
+Thread(s) pro Kern:    1
+Kern(e) pro Socket:    4
+Sockel:                1
+NUMA-Knoten:           1
+Anbieterkennung:       AuthenticAMD
+Prozessorfamilie:      16
+Modell:                5
+Modellname:            AMD Athlon(tm) II X4 640 Processor
+Stepping:              3
+CPU MHz:               800.000
+Maximale Taktfrequenz der CPU:3000,0000
+Minimale Taktfrequenz der CPU:800,0000
+BogoMIPS:              6028.53
+Virtualisierung:       AMD-V
+L1d Cache:             64K
+L1i Cache:             64K
+L2 Cache:              512K
+NUMA-Knoten0 CPU(s):   0-3
+Markierungen:          fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm 3dnowext 3dnow constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid pni monitor cx16 popcnt lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt hw_pstate vmmcall npt lbrv svm_lock nrip_save

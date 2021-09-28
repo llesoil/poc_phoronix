@@ -1,0 +1,45 @@
+===========
+VULKAN INFO
+===========
+
+Vulkan API Version: 1.0.61
+
+WARNING: [loader] Code 0 : Skipping manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_standard_validation.json - The file has already been read once
+WARNING: [loader] Code 0 : Skipping manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_threading.json - The file has already been read once
+WARNING: [loader] Code 0 : Skipping manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_core_validation.json - The file has already been read once
+WARNING: [loader] Code 0 : Skipping manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_object_tracker.json - The file has already been read once
+WARNING: [loader] Code 0 : Skipping manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_unique_objects.json - The file has already been read once
+WARNING: [loader] Code 0 : Skipping manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_parameter_validation.json - The file has already been read once
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_standard_validation.json, version "1.1.1"
+INFO: [loader] Code 0 : Encountered meta-layer VK_LAYER_LUNARG_standard_validation
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_threading.json, version "1.1.0"
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_core_validation.json, version "1.1.0"
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_object_tracker.json, version "1.1.0"
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_unique_objects.json, version "1.1.0"
+INFO: [loader] Code 0 : Found manifest file /usr/share/vulkan/explicit_layer.d/VkLayer_parameter_validation.json, version "1.1.0"
+INFO: [loader] Code 0 : Found manifest file /home/phoronix/.local/share/vulkan/implicit_layer.d/steamoverlay_x86_64.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file /home/phoronix/.local/share/vulkan/implicit_layer.d/steamoverlay_i386.json, version "1.0.0"
+INFO: [loader] Code 0 : Meta-layer VK_LAYER_LUNARG_standard_validation all 5 component layers appear to be valid.
+WARNING: [loader] Code 0 : Skipping manifest file /usr/share/vulkan/icd.d/intel_icd.x86_64.json - The file has already been read once
+INFO: [loader] Code 0 : Found ICD manifest file /etc/vulkan/icd.d/nvidia_icd.json, version "1.0.0"
+INFO: [loader] Code 0 : Found ICD manifest file /usr/share/vulkan/icd.d/intel_icd.x86_64.json, version "1.0.0"
+
+Instance Extensions:
+====================
+Instance Extensions	count = 15
+	VK_EXT_acquire_xlib_display         : extension revision  1
+	VK_EXT_debug_report                 : extension revision  9
+	VK_EXT_direct_mode_display          : extension revision  1
+	VK_EXT_display_surface_counter      : extension revision  1
+	VK_KHR_display                      : extension revision 21
+	VK_KHR_get_physical_device_properties2: extension revision  1
+	VK_KHR_get_surface_capabilities2    : extension revision  1
+	VK_KHR_surface                      : extension revision 25
+	VK_KHR_xcb_surface                  : extension revision  6
+	VK_KHR_xlib_surface                 : extension revision  6
+	VK_KHX_device_group_creation        : extension revision  1
+	VK_KHR_external_fence_capabilities  : extension revision  1
+	VK_KHR_external_memory_capabilities : extension revision  1
+	VK_KHR_external_semaphore_capabilities: extension revision  1
+	VK_KHR_wayland_surface              : extension revision  6
+/build/vulkan-L06RNr/vulkan-1.0.61.1+dfsg1/demos/vulkaninfo.c:1722: failed with VK_ERROR_INITIALIZATION_FAILED

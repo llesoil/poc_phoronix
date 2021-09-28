@@ -1,0 +1,33 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Ryzen+Threadripper+3970X+32-Core,AMD Ryzen Threadripper 3970X 32-Core,98th,3,303 +/- 3
+1,/s/AMD+EPYC+7543+32-Core,AMD EPYC 7543 32-Core,89th,10,327 +/- 2
+2,/s/2+x+Intel+Xeon+Platinum+8280,2 x Intel Xeon Platinum 8280,82nd,5,335 +/- 4
+3,/s/2+x+AMD+EPYC+7763+64-Core,2 x AMD EPYC 7763 64-Core,82nd,16,340 +/- 41
+4,/s/AMD+Ryzen+Threadripper+3990X+64-Core,AMD Ryzen Threadripper 3990X 64-Core,80th,4,341 +/- 1
+5,/s/AMD+Ryzen+Threadripper+3960X+24-Core,AMD Ryzen Threadripper 3960X 24-Core,76th,4,362 +/- 1
+7,/s/Intel+Core+i9-10980XE,Intel Core i9-10980XE,64th,5,467 +/- 1
+8,/s/2+x+Intel+Xeon+Gold+5220R,2 x Intel Xeon Gold 5220R,62nd,3,473 +/- 52
+9,/s/Ampere+Altra+ARMv8+Neoverse-N1+160-Core,Ampere Altra ARMv8 Neoverse-N1 160-Core,62nd,6,476 +/- 61
+10,/s/AMD+Ryzen+9+5900X+12-Core,AMD Ryzen 9 5900X 12-Core,62nd,3,486 +/- 1
+11,/s/AMD+Ryzen+9+3900XT+12-Core,AMD Ryzen 9 3900XT 12-Core,57th,4,538 +/- 6
+12,/s/AMD+EPYC+72F3+8-Core,AMD EPYC 72F3 8-Core,55th,3,552 +/- 8
+13,/s/2+x+Intel+Xeon+Platinum+8380,2 x Intel Xeon Platinum 8380,51st,5,562 +/- 3
+14,/s/AMD+Ryzen+9+3950X+16-Core,AMD Ryzen 9 3950X 16-Core,51st,3,564 +/- 6
+16,/s/AMD+Ryzen+7+3800XT+8-Core,AMD Ryzen 7 3800XT 8-Core,47th,3,689 +/- 3
+17,/s/Intel+Xeon+E-2288G,Intel Xeon E-2288G,44th,5,781 +/- 9
+18,/s/AMD+Ryzen+9+5950X+16-Core,AMD Ryzen 9 5950X 16-Core,41st,3,807 +/- 1
+19,/s/AMD+Ryzen+9+5900HX,AMD Ryzen 9 5900HX,39th,3,947 +/- 8
+20,/s/Intel+Core+i7-10700T,Intel Core i7-10700T,35th,4,1154 +/- 10
+21,/s/Intel+Xeon+E3-1275+v6,Intel Xeon E3-1275 v6,35th,3,1160 +/- 8
+22,/s/AMD+Ryzen+7+4700U,AMD Ryzen 7 4700U,31st,3,1249 +/- 21
+23,/s/Intel+Xeon+E3-1280+v5,Intel Xeon E3-1280 v5,31st,3,1250 +/- 5
+24,/s/AMD+Ryzen+5+4500U,AMD Ryzen 5 4500U,28th,3,1283 +/- 21
+26,/s/Intel+Core+i9-10900K,Intel Core i9-10900K,25th,3,1352 +/- 1
+27,/s/AMD+Ryzen+7+2700+Eight-Core,AMD Ryzen 7 2700 Eight-Core,23rd,4,1358 +/- 2
+28,/s/AMD+Ryzen+5+5600X+6-Core,AMD Ryzen 5 5600X 6-Core,21st,3,1379 +/- 1
+29,/s/Intel+Core+i9-11900K,Intel Core i9-11900K,19th,3,1505 +/- 8
+30,/s/Intel+Xeon+Silver+4216,Intel Xeon Silver 4216,13th,3,1691 +/- 26
+31,/s/Intel+Core+i7-8565U,Intel Core i7-8565U,11th,4,2026 +/- 74
+32,/s/Intel+Core+i5-10600K,Intel Core i5-10600K,10th,3,2062 +/- 9
+33,/s/Intel+Core+i7-1065G7,Intel Core i7-1065G7,5th,4,2134 +/- 44
+34,/s/Intel+Core+i7-1165G7,Intel Core i7-1165G7,3rd,4,4375 +/- 41

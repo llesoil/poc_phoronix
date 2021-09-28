@@ -1,0 +1,6 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/2+x+Intel+Xeon+Platinum+8259CL,2 x Intel Xeon Platinum 8259CL,81st,20,13818 +/- 336
+2,/s/2+x+Intel+Xeon+Platinum+8175M,2 x Intel Xeon Platinum 8175M,59th,20,15117 +/- 539
+4,/s/2+x+Intel+Xeon+Gold+6138,2 x Intel Xeon Gold 6138,36th,12,18099 +/- 1316
+6,/s/Intel+Xeon+E3-1275+v6,Intel Xeon E3-1275 v6,14th,11,35872 +/- 2634
+7,/s/2+x+Intel+Xeon+E5-2403+v2,2 x Intel Xeon E5-2403 v2,4th,5,60994 +/- 485

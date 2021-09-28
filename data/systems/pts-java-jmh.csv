@@ -1,0 +1,21 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/2+x+Intel+Xeon+Gold+6138,2 x Intel Xeon Gold 6138,100th,6,101297920410 +/- 4595842133
+1,/s/Intel+Core+i9-7980XE,Intel Core i9-7980XE,98th,99,61168881633 +/- 634340087
+2,/s/2+x+AMD+EPYC+7401+24-Core,2 x AMD EPYC 7401 24-Core,81st,5,60181524085 +/- 434995678
+3,/s/Intel+Core+i7-7900X,Intel Core i7-7900X,78th,4,41594894822 +/- 314046769
+4,/s/AMD+EPYC+7601+32-Core,AMD EPYC 7601 32-Core,77th,6,41014982005 +/- 757689866
+6,/s/AMD+Ryzen+Threadripper+1950X+16-Core,AMD Ryzen Threadripper 1950X 16-Core,75th,4,27948935098 +/- 185182864
+7,/s/Intel+Core+i7-8700K,Intel Core i7-8700K,59th,92,25773164443 +/- 4898247
+8,/s/Intel+Core+i7-4790K,Intel Core i7-4790K,53rd,3,17728554731 +/- 416415242
+9,/s/Intel+Xeon+Silver+4108,Intel Xeon Silver 4108,52nd,4,16654472360 +/- 174371818
+11,/s/Intel+Xeon+X5650,Intel Xeon X5650,37th,84,15847728852
+12,/s/Intel+Core+i5-6600K,Intel Core i5-6600K,37th,3,15582043013 +/- 747925
+13,/s/AMD+Ryzen+7+1800X+Eight-Core,AMD Ryzen 7 1800X Eight-Core,34th,7,14770435718 +/- 29319698
+14,/s/Intel+Xeon+E3-1280+v5,Intel Xeon E3-1280 v5,33rd,9,14707652996 +/- 94007526
+15,/s/Intel+Core+i3-8100,Intel Core i3-8100,32nd,4,14528030429 +/- 171518708
+16,/s/AMD+Ryzen+7+1700+Eight-Core,AMD Ryzen 7 1700 Eight-Core,29th,4,12762611258 +/- 22934751
+17,/s/AMD+Ryzen+5+1600X+Six-Core,AMD Ryzen 5 1600X Six-Core,27th,4,11472849362 +/- 507699790
+19,/s/Intel+Core+i3-4130,Intel Core i3-4130,23rd,3,6716525642 +/- 41567095
+20,/s/Intel+Core+i7+920,Intel Core i7 920,21st,3,6262890103 +/- 817908077
+21,/s/AMD+Ryzen+3+1200,AMD Ryzen 3 1200,21st,3,6179453673 +/- 10340309
+22,/s/POWER9+altivec+supported+64-Core,POWER9 altivec supported 64-Core,3rd,4,3487616679 +/- 487792

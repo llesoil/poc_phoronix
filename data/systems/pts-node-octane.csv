@@ -1,0 +1,28 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Ryzen+9+5900X+12-Core,AMD Ryzen 9 5900X 12-Core,100th,6,64310 +/- 7164
+1,/s/Intel+Core+i9-9900K,Intel Core i9-9900K,96th,32,55486 +/- 3132
+2,/s/Intel+Core+i7-8700K,Intel Core i7-8700K,96th,6,55185 +/- 958
+3,/s/Intel+Core+i7-8086K,Intel Core i7-8086K,90th,8,52439 +/- 2357
+4,/s/AMD+Ryzen+9+3900X+12-Core,AMD Ryzen 9 3900X 12-Core,84th,9,49278 +/- 3390
+5,/s/AMD+Ryzen+7+3700X+8-Core,AMD Ryzen 7 3700X 8-Core,83rd,3,48825 +/- 4409
+6,/s/Intel+Core+i9-7980XE,Intel Core i9-7980XE,81st,30,46420 +/- 5486
+7,/s/Intel+Core+i9-7960X,Intel Core i9-7960X,76th,23,44834 +/- 2483
+9,/s/Intel+Core+i5-8400,Intel Core i5-8400,73rd,3,43439 +/- 214
+10,/s/AMD+Ryzen+7+2700X+Eight-Core,AMD Ryzen 7 2700X Eight-Core,71st,5,43025 +/- 2258
+11,/s/AMD+EPYC+7F72+24-Core,AMD EPYC 7F72 24-Core,67th,7,41748 +/- 459
+12,/s/Intel+Core+i7-6800K,Intel Core i7-6800K,65th,3,40699 +/- 412
+13,/s/Intel+Core+i7-5775C,Intel Core i7-5775C,64th,4,40276 +/- 2573
+14,/s/AMD+Ryzen+Threadripper+2990WX+32-Core,AMD Ryzen Threadripper 2990WX 32-Core,62nd,15,39360 +/- 1323
+15,/s/AMD+Ryzen+Threadripper+2950X+16-Core,AMD Ryzen Threadripper 2950X 16-Core,58th,8,38795 +/- 801
+16,/s/AMD+EPYC+7742+64-Core,AMD EPYC 7742 64-Core,56th,4,38553 +/- 373
+18,/s/Intel+Core+i7-7700HQ,Intel Core i7-7700HQ,46th,3,37141 +/- 1267
+19,/s/Intel+Core+i5-6500,Intel Core i5-6500,45th,5,37124 +/- 580
+20,/s/AMD+Ryzen+5+2400G,AMD Ryzen 5 2400G,44th,4,36890 +/- 1027
+21,/s/AMD+EPYC+7302P+16-Core,AMD EPYC 7302P 16-Core,43rd,9,36789 +/- 567
+22,/s/2+x+Intel+Xeon+Gold+6138,2 x Intel Xeon Gold 6138,41st,14,36247 +/- 4854
+23,/s/AMD+EPYC+7601+32-Core,AMD EPYC 7601 32-Core,32nd,11,29755 +/- 2118
+25,/s/2+x+AMD+EPYC+7601+32-Core,2 x AMD EPYC 7601 32-Core,25th,21,28185 +/- 2510
+26,/s/AMD+EPYC+7351P+16-Core,AMD EPYC 7351P 16-Core,23rd,7,27243 +/- 1130
+27,/s/2+x+Intel+Xeon+E5-2680+v2,2 x Intel Xeon E5-2680 v2,15th,4,21766 +/- 1412
+28,/s/POWER9+altivec+supported+44-Core,POWER9 altivec supported 44-Core,14th,5,21603 +/- 238
+29,/s/Intel+Pentium+Silver+J5005,Intel Pentium Silver J5005,9th,3,17272 +/- 139

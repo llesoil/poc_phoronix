@@ -1,0 +1,46 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/NVIDIA+GeForce+RTX+3090,NVIDIA GeForce RTX 3090,100th,5,408 +/- 5
+1,/s/NVIDIA+GeForce+RTX+3060+Ti,NVIDIA GeForce RTX 3060 Ti,100th,3,405 +/- 3
+2,/s/Sapphire+AMD+Radeon+RX+6800,Sapphire AMD Radeon RX 6800,100th,11,397 +/- 4
+3,/s/MSI+NVIDIA+GeForce+RTX+2070,MSI NVIDIA GeForce RTX 2070,100th,3,361 +/- 21
+4,/s/eVGA+NVIDIA+GeForce+RTX+2080+SUPER,eVGA NVIDIA GeForce RTX 2080 SUPER,100th,6,331 +/- 20
+5,/s/NVIDIA+GeForce+RTX+2080+Super,NVIDIA GeForce RTX 2080 Super,96th,84,318
+6,/s/NVIDIA+GeForce+RTX+2070,NVIDIA GeForce RTX 2070,93rd,84,311
+7,/s/MSI+NVIDIA+GeForce+GTX+1070,MSI NVIDIA GeForce GTX 1070,93rd,6,306 +/- 24
+8,/s/eVGA+NVIDIA+GeForce+GTX+1060,eVGA NVIDIA GeForce GTX 1060,92nd,84,273
+9,/s/NVIDIA+GeForce+GTX+1650+Ti,NVIDIA GeForce GTX 1650 Ti,86th,84,268
+10,/s/NVIDIA+GeForce+RTX+2070+with+Max-Q+Design,NVIDIA GeForce RTX 2070 with Max-Q Design,85th,168,261 +/- 1
+12,/s/Gigabyte+NVIDIA+GeForce+GTX+1060,Gigabyte NVIDIA GeForce GTX 1060,75th,84,258
+13,/s/MSI+NVIDIA+GeForce+GTX+1060,MSI NVIDIA GeForce GTX 1060,74th,9,233 +/- 2
+14,/s/Zotac+NVIDIA+GeForce+GTX+1080,Zotac NVIDIA GeForce GTX 1080,74th,3,233 +/- 6
+15,/s/AMD+Radeon+R9+Fury,AMD Radeon R9 Fury,74th,84,227
+16,/s/MSI+NVIDIA+GeForce+GTX+970,MSI NVIDIA GeForce GTX 970,70th,3,221 +/- 1
+17,/s/ASUS+NVIDIA+GeForce+GTX+970,ASUS NVIDIA GeForce GTX 970,70th,7,213 +/- 23
+18,/s/Zotac+NVIDIA+GeForce+GTX+780,Zotac NVIDIA GeForce GTX 780,70th,3,196 +/- 2
+20,/s/XFX+AMD+Radeon+R9+290,XFX AMD Radeon R9 290,48th,16,139 +/- 10
+21,/s/ASUS+AMD+Radeon+HD+7800,ASUS AMD Radeon HD 7800,43rd,6,107 +/- 10
+22,/s/AMD+Radeon+HD+6900,AMD Radeon HD 6900,43rd,85,107
+23,/s/NVIDIA+GeForce+GTX+660,NVIDIA GeForce GTX 660,43rd,86,106
+24,/s/XFX+AMD+Radeon+HD+7950,XFX AMD Radeon HD 7950,39th,4,103 +/- 8
+25,/s/Gigabyte+AMD+Radeon+R9+270X,Gigabyte AMD Radeon R9 270X,32nd,10,95 +/- 13
+26,/s/MSI+AMD+Radeon+R9+270,MSI AMD Radeon R9 270,32nd,7,93 +/- 5
+27,/s/ECS+NVIDIA+GeForce+GTX+560,ECS NVIDIA GeForce GTX 560,31st,84,87
+29,/s/AMD+Radeon+Vega+10,AMD Radeon Vega 10,24th,84,85
+30,/s/Gigabyte+AMD+Radeon+HD+7850,Gigabyte AMD Radeon HD 7850,24th,85,82
+31,/s/MSI+NVIDIA+GeForce+GTX+460,MSI NVIDIA GeForce GTX 460,21st,7,79
+32,/s/Sapphire+AMD+Radeon+HD+6950,Sapphire AMD Radeon HD 6950,20th,8,77 +/- 6
+33,/s/Gigabyte+NVIDIA+GeForce+GTX+460,Gigabyte NVIDIA GeForce GTX 460,20th,3,73 +/- 4
+34,/s/MSI+AMD+Radeon+R7+360,MSI AMD Radeon R7 360,20th,85,69
+35,/s/Sapphire+AMD+Radeon+HD+6870,Sapphire AMD Radeon HD 6870,16th,10,67 +/- 3
+36,/s/eVGA+NVIDIA+GeForce+GTX+550+Ti,eVGA NVIDIA GeForce GTX 550 Ti,15th,3,55 +/- 5
+37,/s/AMD+FirePro+V7900,AMD FirePro V7900,15th,9,55 +/- 5
+38,/s/Intel+HD+4600,Intel HD 4600,15th,3,47 +/- 2
+39,/s/AMD+Radeon+HD+5750,AMD Radeon HD 5750,9th,3,31
+40,/s/NVIDIA+GeForce+GTS+450,NVIDIA GeForce GTS 450,9th,4,30 +/- 3
+41,/s/eVGA+NVIDIA+GeForce+GT+740,eVGA NVIDIA GeForce GT 740,8th,84,28
+42,/s/AMD+Radeon+R7,AMD Radeon R7,4th,4,22 +/- 1
+43,/s/Sapphire+AMD+Radeon+HD+6570,Sapphire AMD Radeon HD 6570,4th,5,20 +/- 3
+44,/s/AMD+Radeon+HD+7700,AMD Radeon HD 7700,3rd,4,14
+45,/s/Zotac+NVIDIA+GeForce+GT+610,Zotac NVIDIA GeForce GT 610,2nd,3,9
+46,/s/eVGA+NVIDIA+GeForce+GT+520,eVGA NVIDIA GeForce GT 520,2nd,3,9
+47,/s/HIS+AMD+Radeon+HD+6450,HIS AMD Radeon HD 6450,2nd,3,7

@@ -1,0 +1,22 @@
+Architecture:          x86_64
+Operační režim(y) CPU:32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Vláken na jádro:     1
+Jader na patici:       4
+Socket(s):             1
+Uzly NUMA:             1
+ID výrobce:           GenuineIntel
+Rodina CPU:            6
+Model:                 42
+Stepping:              7
+CPU MHz:               3009.321
+BogoMIPS:              6021.19
+Výrobce hypervizoru:  Microsoft
+Druh virtualizace:     full
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              256K
+L3 cache:              6144K
+NUMA node0 CPU(s):     0-3

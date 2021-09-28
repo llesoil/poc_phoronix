@@ -1,0 +1,5 @@
+Architecture:          armv7l
+CPU(s):                4
+Thread(s) per core:    1
+Core(s) per socket:    1
+CPU socket(s):         4

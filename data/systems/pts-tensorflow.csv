@@ -1,0 +1,8 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Ryzen+Threadripper+3970X+32-Core,AMD Ryzen Threadripper 3970X 32-Core,86th,4,43 +/- 2
+2,/s/AMD+EPYC+7232P+8-Core,AMD EPYC 7232P 8-Core,54th,3,80 +/- 6
+4,/s/AMD+Ryzen+7+2700+Eight-Core,AMD Ryzen 7 2700 Eight-Core,47th,3,101 +/- 2
+5,/s/Intel+Xeon+E3-1270+v5,Intel Xeon E3-1270 v5,45th,3,104 +/- 1
+6,/s/Intel+Core+i7-4790K,Intel Core i7-4790K,42nd,3,114
+8,/s/ARMv8+rev+0+8-Core,ARMv8 rev 0 8-Core,3rd,84,261
+9,/s/Intel+Core+i5-2520M,Intel Core i5-2520M,1st,3,546 +/- 1

@@ -1,0 +1,32 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Core+i9-9900K,Intel Core i9-9900K,98th,4,48 +/- 1
+1,/s/Intel+Core+i7-8700K,Intel Core i7-8700K,97th,10,49 +/- 2
+2,/s/Intel+Core+i9-10900K,Intel Core i9-10900K,95th,3,50
+3,/s/Intel+Core+i7-7700K,Intel Core i7-7700K,94th,8,52 +/- 7
+4,/s/Intel+Core+i7-5775C,Intel Core i7-5775C,92nd,5,54 +/- 1
+5,/s/Intel+Core+i5-3570K,Intel Core i5-3570K,88th,5,60 +/- 2
+6,/s/Intel+Core+i5-2500K,Intel Core i5-2500K,85th,3,63 +/- 6
+7,/s/Intel+Core+i7-6800K,Intel Core i7-6800K,77th,16,66 +/- 2
+8,/s/Intel+Xeon+E3-1280+v5,Intel Xeon E3-1280 v5,77th,11,66 +/- 1
+10,/s/Intel+Core+i7-5557U,Intel Core i7-5557U,74th,6,67 +/- 1
+11,/s/Intel+Core+i7-5960X,Intel Core i7-5960X,68th,4,69 +/- 2
+12,/s/Intel+Core+i7-7900X,Intel Core i7-7900X,64th,3,70 +/- 1
+13,/s/Intel+Core+i9-7980XE,Intel Core i9-7980XE,64th,16,70
+14,/s/AMD+Ryzen+9+3950X+16-Core,AMD Ryzen 9 3950X 16-Core,64th,4,70
+15,/s/AMD+Ryzen+5+2400G+with+Radeon+Vega,AMD Ryzen 5 2400G with Radeon Vega,53rd,3,72 +/- 1
+16,/s/AMD+Ryzen+5+2600X+Six-Core,AMD Ryzen 5 2600X Six-Core,53rd,4,72 +/- 5
+18,/s/AMD+Ryzen+9+3900X+12-Core,AMD Ryzen 9 3900X 12-Core,50th,12,73 +/- 8
+19,/s/Intel+Core+i5-3230M,Intel Core i5-3230M,50th,4,73 +/- 1
+20,/s/AMD+FX-8350+Eight-Core,AMD FX-8350 Eight-Core,47th,5,74 +/- 9
+21,/s/2+x+Intel+Xeon+E5-2680+v2,2 x Intel Xeon E5-2680 v2,43rd,5,75 +/- 1
+22,/s/AMD+Ryzen+7+3700X+8-Core,AMD Ryzen 7 3700X 8-Core,40th,4,76 +/- 9
+23,/s/Intel+Core+i9-10980XE,Intel Core i9-10980XE,38th,3,77
+24,/s/AMD+Ryzen+Threadripper+2990WX+32-Core,AMD Ryzen Threadripper 2990WX 32-Core,38th,4,77 +/- 8
+25,/s/AMD+Ryzen+7+2700X+Eight-Core,AMD Ryzen 7 2700X Eight-Core,36th,5,79 +/- 8
+26,/s/AMD+Ryzen+7+1800X+Eight-Core,AMD Ryzen 7 1800X Eight-Core,26th,7,86 +/- 12
+28,/s/AMD+EPYC+7601+32-Core,AMD EPYC 7601 32-Core,21st,3,91
+29,/s/AMD+Ryzen+7+1700X+Eight-Core,AMD Ryzen 7 1700X Eight-Core,17th,4,97 +/- 12
+30,/s/AMD+Ryzen+Threadripper+1950X+16-Core,AMD Ryzen Threadripper 1950X 16-Core,14th,10,103 +/- 10
+31,/s/AMD+Ryzen+7+1700+Eight-Core,AMD Ryzen 7 1700 Eight-Core,13th,6,104 +/- 9
+32,/s/AMD+Ryzen+5+1500X,AMD Ryzen 5 1500X,11th,3,105 +/- 6
+33,/s/ARMv8+rev+3+6-Core,ARMv8 rev 3 6-Core,2nd,4,157 +/- 3

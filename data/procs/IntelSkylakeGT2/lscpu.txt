@@ -1,0 +1,117 @@
+===========
+VULKAN INFO
+===========
+
+Vulkan API Version: 1.0.65
+
+ERROR: [loader] Code 0 : libVkICD_mock_icd.so: cannot open shared object file: No such file or directory
+Instance Extensions:
+====================
+Instance Extensions	count = 10
+	VK_KHR_external_fence_capabilities  : extension revision  1
+	VK_KHR_external_memory_capabilities : extension revision  1
+	VK_KHR_external_semaphore_capabilities: extension revision  1
+	VK_KHR_get_physical_device_properties2: extension revision  1
+	VK_KHR_get_surface_capabilities2    : extension revision  1
+	VK_KHR_surface                      : extension revision 25
+	VK_KHR_wayland_surface              : extension revision  6
+	VK_KHR_xcb_surface                  : extension revision  6
+	VK_KHR_xlib_surface                 : extension revision  6
+	VK_EXT_debug_report                 : extension revision  8
+
+
+Layers: count = 12
+=======
+VK_LAYER_GOOGLE_threading (Google Validation Layer) Vulkan version 1.0.65, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  6
+	Devices 	count = 1
+		GPU id       : 0 (Intel(R) HD Graphics 520 (Skylake GT2))
+		Layer-Device Extensions	count = 0
+
+VK_LAYER_LUNARG_standard_validation (LunarG Standard Validation) Vulkan version 1.0.65, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  6
+	Devices 	count = 1
+		GPU id       : 0 (Intel(R) HD Graphics 520 (Skylake GT2))
+		Layer-Device Extensions	count = 1
+			VK_EXT_debug_marker                 : extension revision  4
+
+VK_LAYER_LUNARG_object_tracker (LunarG Validation Layer) Vulkan version 1.0.65, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  6
+	Devices 	count = 1
+		GPU id       : 0 (Intel(R) HD Graphics 520 (Skylake GT2))
+		Layer-Device Extensions	count = 1
+			VK_EXT_debug_marker                 : extension revision  4
+
+VK_LAYER_LUNARG_parameter_validation (LunarG Validation Layer) Vulkan version 1.0.65, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  6
+	Devices 	count = 1
+		GPU id       : 0 (Intel(R) HD Graphics 520 (Skylake GT2))
+		Layer-Device Extensions	count = 1
+			VK_EXT_debug_marker                 : extension revision  4
+
+VK_LAYER_LUNARG_core_validation (LunarG Validation Layer) Vulkan version 1.0.65, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  6
+	Devices 	count = 1
+		GPU id       : 0 (Intel(R) HD Graphics 520 (Skylake GT2))
+		Layer-Device Extensions	count = 1
+			VK_EXT_debug_marker                 : extension revision  4
+
+VK_LAYER_GOOGLE_unique_objects (Google Validation Layer) Vulkan version 1.0.65, layer version 1
+	Layer Extensions	count = 0
+	Devices 	count = 1
+		GPU id       : 0 (Intel(R) HD Graphics 520 (Skylake GT2))
+		Layer-Device Extensions	count = 0
+
+VK_LAYER_GOOGLE_threading (Google Validation Layer) Vulkan version 1.0.65, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  6
+	Devices 	count = 1
+		GPU id       : 0 (Intel(R) HD Graphics 520 (Skylake GT2))
+		Layer-Device Extensions	count = 0
+
+VK_LAYER_LUNARG_standard_validation (LunarG Standard Validation) Vulkan version 1.0.65, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  6
+	Devices 	count = 1
+		GPU id       : 0 (Intel(R) HD Graphics 520 (Skylake GT2))
+		Layer-Device Extensions	count = 1
+			VK_EXT_debug_marker                 : extension revision  4
+
+VK_LAYER_LUNARG_object_tracker (LunarG Validation Layer) Vulkan version 1.0.65, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  6
+	Devices 	count = 1
+		GPU id       : 0 (Intel(R) HD Graphics 520 (Skylake GT2))
+		Layer-Device Extensions	count = 1
+			VK_EXT_debug_marker                 : extension revision  4
+
+VK_LAYER_LUNARG_parameter_validation (LunarG Validation Layer) Vulkan version 1.0.65, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  6
+	Devices 	count = 1
+		GPU id       : 0 (Intel(R) HD Graphics 520 (Skylake GT2))
+		Layer-Device Extensions	count = 1
+			VK_EXT_debug_marker                 : extension revision  4
+
+VK_LAYER_LUNARG_core_validation (LunarG Validation Layer) Vulkan version 1.0.65, layer version 1
+	Layer Extensions	count = 1
+		VK_EXT_debug_report                 : extension revision  6
+	Devices 	count = 1
+		GPU id       : 0 (Intel(R) HD Graphics 520 (Skylake GT2))
+		Layer-Device Extensions	count = 1
+			VK_EXT_debug_marker                 : extension revision  4
+
+VK_LAYER_GOOGLE_unique_objects (Google Validation Layer) Vulkan version 1.0.65, layer version 1
+	Layer Extensions	count = 0
+	Devices 	count = 1
+		GPU id       : 0 (Intel(R) HD Graphics 520 (Skylake GT2))
+		Layer-Device Extensions	count = 0
+
+Presentable Surfaces:
+=====================
+'DISPLAY' environment variable not set... Exiting!

@@ -1,0 +1,28 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Sapphire+AMD+Radeon+RX+6800,Sapphire AMD Radeon RX 6800,100th,11,777 +/- 7
+1,/s/NVIDIA+GeForce+RTX+3090,NVIDIA GeForce RTX 3090,100th,5,717 +/- 5
+2,/s/NVIDIA+GeForce+RTX+3060+Ti,NVIDIA GeForce RTX 3060 Ti,100th,3,643 +/- 3
+3,/s/MSI+NVIDIA+GeForce+GTX+1080,MSI NVIDIA GeForce GTX 1080,100th,85,568
+4,/s/eVGA+NVIDIA+GeForce+RTX+2080+SUPER,eVGA NVIDIA GeForce RTX 2080 SUPER,97th,6,545 +/- 30
+5,/s/MSI+NVIDIA+GeForce+RTX+2070,MSI NVIDIA GeForce RTX 2070,96th,3,536 +/- 16
+6,/s/NVIDIA+GeForce+GTX+1650+Ti,NVIDIA GeForce GTX 1650 Ti,96th,84,532
+7,/s/NVIDIA+GeForce+RTX+2080+Super,NVIDIA GeForce RTX 2080 Super,89th,84,529
+8,/s/MSI+NVIDIA+GeForce+RTX+2080+Ti,MSI NVIDIA GeForce RTX 2080 Ti,88th,84,434
+9,/s/NVIDIA+GeForce+RTX+2070,NVIDIA GeForce RTX 2070,81st,84,430
+10,/s/AMD+Radeon+RX+64,AMD Radeon RX 64,77th,85,417
+11,/s/Zotac+NVIDIA+GeForce+GTX+1080,Zotac NVIDIA GeForce GTX 1080,77th,3,400 +/- 9
+12,/s/NVIDIA+GeForce+RTX+2070+with+Max-Q+Design,NVIDIA GeForce RTX 2070 with Max-Q Design,76th,168,355 +/- 1
+14,/s/MSI+NVIDIA+GeForce+GTX+1660,MSI NVIDIA GeForce GTX 1660,69th,3,350 +/- 17
+15,/s/Gigabyte+NVIDIA+GeForce+GTX+1060,Gigabyte NVIDIA GeForce GTX 1060,68th,84,328
+16,/s/AMD+Radeon+RX+470,AMD Radeon RX 470,64th,4,298 +/- 19
+17,/s/Zotac+NVIDIA+GeForce+GTX+780,Zotac NVIDIA GeForce GTX 780,64th,3,295 +/- 9
+18,/s/AMD+Radeon+R9+Fury,AMD Radeon R9 Fury,64th,168,293
+20,/s/ASUS+NVIDIA+GeForce+GTX+970,ASUS NVIDIA GeForce GTX 970,34th,3,249 +/- 16
+21,/s/ASUS+AMD+Radeon+R7+370+R9+270X,ASUS AMD Radeon R7 370 R9 270X,33rd,6,181 +/- 3
+22,/s/NVIDIA+GeForce+GTX+660,NVIDIA GeForce GTX 660,32nd,86,143
+24,/s/Gigabyte+AMD+Radeon+HD+7850,Gigabyte AMD Radeon HD 7850,24th,84,124
+25,/s/AMD+Radeon+Vega+10,AMD Radeon Vega 10,24th,84,122
+26,/s/MSI+NVIDIA+GeForce+GTX+460,MSI NVIDIA GeForce GTX 460,12th,10,93 +/- 1
+27,/s/Gigabyte+NVIDIA+GeForce+GTX+460,Gigabyte NVIDIA GeForce GTX 460,12th,3,85 +/- 5
+28,/s/Sapphire+AMD+Radeon+HD+5700,Sapphire AMD Radeon HD 5700,8th,3,53
+29,/s/Gigabyte+Intel+2nd+Generation+Core+IGP,Gigabyte Intel 2nd Generation Core IGP,2nd,84,6

@@ -1,0 +1,21 @@
+Architecture:          x86_64
+mode(s) opératoire(s) des microprocesseurs :32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) par cœur : 2
+Cœur(s) par socket : 2
+Socket(s):             1
+Nœud(s) NUMA :       1
+Identifiant constructeur :AuthenticAMD
+Famille de microprocesseur :21
+Modèle :             1
+Version :             2
+Vitesse du microprocesseur en MHz :3817.064
+BogoMIPS:              7633.59
+Virtualisation :      AMD-V
+cache L1d :           16K
+cache L1i :           64K
+cache L2 :            2048K
+cache L3 :            8192K
+NUMA node0 CPU(s):     0-3

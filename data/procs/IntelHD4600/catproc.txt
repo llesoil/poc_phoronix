@@ -1,0 +1,7 @@
+ATTENTION: default value of option vblank_mode overridden by environment.
+libGL error: No matching fbConfigs or visuals found
+libGL error: failed to load driver: swrast
+X Error of failed request:  GLXBadContext
+  Major opcode of failed request:  153 (GLX)
+  Minor opcode of failed request:  6 (X_GLXIsDirect)
+name of display: localhost:11.0

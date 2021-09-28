@@ -1,0 +1,13 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Xeon+Silver+4108,Intel Xeon Silver 4108,94th,23,32 +/- 2
+1,/s/Intel+Xeon+E5-2609+v4,Intel Xeon E5-2609 v4,84th,18,35
+2,/s/Intel+Core+i7-7700K,Intel Core i7-7700K,80th,13,40
+4,/s/Intel+Xeon+E3-1245+v5,Intel Xeon E3-1245 v5,73rd,20,49
+5,/s/Intel+Core+i5-6500,Intel Core i5-6500,66th,16,51
+6,/s/Intel+Xeon+E3-1260L+v5,Intel Xeon E3-1260L v5,62nd,18,52
+7,/s/Intel+Xeon+E3-1235L+v5,Intel Xeon E3-1235L v5,55th,20,55
+8,/s/Intel+Pentium+G4400,Intel Pentium G4400,52nd,14,86
+10,/s/AMD+Ryzen+9+5900X+12-Core,AMD Ryzen 9 5900X 12-Core,29th,3,124 +/- 1
+12,/s/Intel+Xeon+E3-1280+v5,Intel Xeon E3-1280 v5,21st,5,137 +/- 3
+13,/s/AMD+Ryzen+Threadripper+2990WX+32-Core,AMD Ryzen Threadripper 2990WX 32-Core,16th,20,146 +/- 16
+14,/s/AMD+Ryzen+5+2600+Six-Core,AMD Ryzen 5 2600 Six-Core,14th,3,152 +/- 1

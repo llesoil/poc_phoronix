@@ -1,0 +1,30 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Radeon+RX+6800,AMD Radeon RX 6800,97th,7,85.0 +/- 4.0
+1,/s/NVIDIA+GeForce+RTX+2080+Ti,NVIDIA GeForce RTX 2080 Ti,80th,6,60.0 +/- 1.0
+2,/s/AMD+Navi+22,AMD Navi 22,78th,6,59.0 +/- 0.2
+4,/s/NVIDIA+GeForce+RTX+3070,NVIDIA GeForce RTX 3070,75th,7,55.5 +/- 6.6
+5,/s/NVIDIA+GeForce+RTX+3060+Ti,NVIDIA GeForce RTX 3060 Ti,71st,8,49.3 +/- 4.6
+6,/s/NVIDIA+GeForce+RTX+2080+SUPER,NVIDIA GeForce RTX 2080 SUPER,70th,5,48.2 +/- 1.9
+7,/s/Zotac+NVIDIA+GeForce+RTX+2080,Zotac NVIDIA GeForce RTX 2080,67th,9,47.8 +/- 1.1
+8,/s/NVIDIA+GeForce+GTX+1080+Ti,NVIDIA GeForce GTX 1080 Ti,61st,3,45.9 +/- 0.5
+9,/s/NVIDIA+GeForce+RTX+2070+SUPER,NVIDIA GeForce RTX 2070 SUPER,59th,5,44.8 +/- 1.6
+10,/s/eVGA+NVIDIA+GeForce+RTX+3060,eVGA NVIDIA GeForce RTX 3060,55th,4,42.8 +/- 3.9
+12,/s/AMD+Vega+20,AMD Vega 20,48th,6,40.9 +/- 0.6
+13,/s/AMD+Radeon+RX+5600+OEM,AMD Radeon RX 5600 OEM,47th,14,40.6 +/- 3.1
+14,/s/AMD+Navi+10,AMD Navi 10,46th,15,40.5 +/- 3.5
+15,/s/ASUS+NVIDIA+GeForce+RTX+2070,ASUS NVIDIA GeForce RTX 2070,46th,6,40.4 +/- 2.1
+16,/s/NVIDIA+GeForce+RTX+2060+SUPER,NVIDIA GeForce RTX 2060 SUPER,41st,5,38.5 +/- 2.4
+17,/s/NVIDIA+GeForce+GTX+1080,NVIDIA GeForce GTX 1080,36th,3,36.4 +/- 0.1
+18,/s/Sapphire+AMD+Navi+10,Sapphire AMD Navi 10,33rd,3,35.6 +/- 3.3
+19,/s/NVIDIA+GeForce+RTX+2060,NVIDIA GeForce RTX 2060,32nd,7,35.2 +/- 1.2
+20,/s/AMD+Radeon+RX+56,AMD Radeon RX 56,26th,14,33.2 +/- 1.7
+22,/s/Zotac+NVIDIA+GeForce+GTX+1070+Ti,Zotac NVIDIA GeForce GTX 1070 Ti,22nd,3,32.0
+23,/s/Sapphire+AMD+Radeon+RX+5600+OEM,Sapphire AMD Radeon RX 5600 OEM,21st,8,31.8 +/- 3.1
+24,/s/AMD+Radeon+RX+64,AMD Radeon RX 64,21st,9,31.6 +/- 1.9
+25,/s/NVIDIA+GeForce+GTX+1070,NVIDIA GeForce GTX 1070,19th,3,30.5 +/- 0.1
+26,/s/eVGA+NVIDIA+GeForce+GTX+1660+Ti,eVGA NVIDIA GeForce GTX 1660 Ti,14th,4,28.0 +/- 2.0
+27,/s/eVGA+NVIDIA+GeForce+GTX+1660+SUPER,eVGA NVIDIA GeForce GTX 1660 SUPER,13th,3,26.3 +/- 0.6
+28,/s/ASUS+NVIDIA+GeForce+GTX+1660,ASUS NVIDIA GeForce GTX 1660,12th,3,25.0
+29,/s/Sapphire+AMD+Radeon+RX+470,Sapphire AMD Radeon RX 470,9th,7,23.7 +/- 0.8
+30,/s/NVIDIA+GeForce+GTX+1060,NVIDIA GeForce GTX 1060,6th,5,21.2 +/- 1.2
+31,/s/MSI+AMD+Radeon+RX+470,MSI AMD Radeon RX 470,5th,6,20.9 +/- 0.2

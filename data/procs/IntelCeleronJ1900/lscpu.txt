@@ -1,0 +1,20 @@
+Architecture:          x86_64
+Tryb(y) pracy CPU:     32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Wątków na rdzeń:    1
+Rdzeni na gniazdo:     4
+Socket(s):             1
+Węzłów NUMA:        1
+ID producenta:         GenuineIntel
+Rodzina CPU:           6
+Model:                 55
+Wersja:                3
+CPU MHz:               2424.000
+BogoMIPS:              3993.60
+Wirtualizacja:         VT-x
+Cache L1d:             24K
+Cache L1i:             32K
+Cache L2:              1024K
+NUMA node0 CPU(s):     0-3

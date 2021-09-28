@@ -1,0 +1,21 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                24
+On-line CPU(s) list:   0-23
+Thread(s) per core:    1
+Core(s) per socket:    12
+Socket(s):             2
+NUMA node(s):          1
+Vendor ID:             AuthenticAMD
+CPU family:            16
+Model:                 9
+Stepping:              1
+CPU MHz:               2200.128
+BogoMIPS:              4400.46
+Virtualization:        AMD-V
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              512K
+L3 cache:              5118K
+NUMA node0 CPU(s):     0-23

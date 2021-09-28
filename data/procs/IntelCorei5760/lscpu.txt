@@ -1,0 +1,21 @@
+Architecture:          x86_64
+Tryb(y) pracy CPU:     32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Wątków na rdzeń:    1
+Rdzeni na gniazdo:     4
+Socket(s):             1
+Węzłów NUMA:        1
+ID producenta:         GenuineIntel
+Rodzina CPU:           6
+Model:                 30
+Wersja:                5
+CPU MHz:               2879.880
+BogoMIPS:              5759.76
+Wirtualizacja:         VT-x
+Cache L1d:             32K
+Cache L1i:             32K
+Cache L2:              256K
+Cache L3:              8192K
+NUMA node0 CPU(s):     0-3

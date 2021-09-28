@@ -1,0 +1,27 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/NVIDIA+GeForce+GTX+1080,NVIDIA GeForce GTX 1080,100th,3,740
+1,/s/NVIDIA+GeForce+GTX+1060,NVIDIA GeForce GTX 1060,100th,3,738
+2,/s/NVIDIA+GeForce+RTX+3080,NVIDIA GeForce RTX 3080,98th,3,719
+3,/s/NVIDIA+GeForce+RTX+2060+SUPER,NVIDIA GeForce RTX 2060 SUPER,95th,3,716
+4,/s/NVIDIA+GeForce+RTX+3060+Ti,NVIDIA GeForce RTX 3060 Ti,94th,3,713
+5,/s/AMD+Radeon+RX+6800+XT,AMD Radeon RX 6800 XT,90th,4,678 +/- 25
+6,/s/AMD+Radeon+RX+6800,AMD Radeon RX 6800,79th,15,649 +/- 40
+8,/s/Sapphire+AMD+Radeon+RX+5600+OEM,Sapphire AMD Radeon RX 5600 OEM,75th,4,620 +/- 4
+9,/s/Gigabyte+AMD+Radeon+RX+5500,Gigabyte AMD Radeon RX 5500,72nd,6,579 +/- 5
+10,/s/Sapphire+AMD+Radeon+RX+470,Sapphire AMD Radeon RX 470,70th,6,566 +/- 80
+11,/s/NVIDIA+GeForce+RTX+2060,NVIDIA GeForce RTX 2060,68th,4,550 +/- 5
+12,/s/MSI+AMD+Radeon+R7+370,MSI AMD Radeon R7 370,65th,3,508 +/- 2
+13,/s/AMD+Radeon+RX+56,AMD Radeon RX 56,62nd,4,502 +/- 15
+14,/s/Sapphire+AMD+Radeon+RX+5500,Sapphire AMD Radeon RX 5500,52nd,3,469 +/- 4
+16,/s/Gigabyte+AMD+Radeon+RX+470,Gigabyte AMD Radeon RX 470,47th,3,373 +/- 7
+17,/s/Sapphire+AMD+Radeon+RX+550+640SP,Sapphire AMD Radeon RX 550 640SP,46th,3,371 +/- 2
+18,/s/Intel+Xe+TGL+GT2,Intel Xe TGL GT2,39th,5,235 +/- 23
+19,/s/MSI+Intel+Iris+Pro+6200,MSI Intel Iris Pro 6200,38th,4,227 +/- 1
+20,/s/Intel+UHD+630,Intel UHD 630,26th,4,204 +/- 1
+22,/s/ASUS+Intel+UHD+630,ASUS Intel UHD 630,23rd,3,189 +/- 1
+23,/s/Intel+Iris+Plus+G7,Intel Iris Plus G7,21st,3,177 +/- 7
+24,/s/Intel+8th+Gen+Core+Gaussian+Mixture+Model,Intel 8th Gen Core Gaussian Mixture Model,19th,3,158 +/- 1
+25,/s/Gigabyte+Intel+UHD+630,Gigabyte Intel UHD 630,15th,3,143 +/- 1
+26,/s/Intel+UHD+620,Intel UHD 620,11th,4,133
+27,/s/Intel+HD+5500,Intel HD 5500,9th,4,85
+28,/s/AMD+FirePro+V3800,AMD FirePro V3800,5th,4,69

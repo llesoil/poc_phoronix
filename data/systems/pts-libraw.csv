@@ -1,0 +1,123 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Ryzen+7+5800X+8-Core,AMD Ryzen 7 5800X 8-Core,92nd,14,51.0 +/- 3.2
+1,/s/Intel+Core+i7-11700K,Intel Core i7-11700K,91st,3,50.3 +/- 2.9
+2,/s/AMD+Ryzen+5+5600X+6-Core,AMD Ryzen 5 5600X 6-Core,90th,15,49.2 +/- 0.2
+3,/s/AMD+Ryzen+9+5900HX,AMD Ryzen 9 5900HX,89th,7,48.3 +/- 5.2
+4,/s/AMD+EPYC+75F3+32-Core,AMD EPYC 75F3 32-Core,87th,3,46.0 +/- 0.1
+5,/s/AMD+Ryzen+5+5600G,AMD Ryzen 5 5600G,86th,7,44.6 +/- 0.4
+6,/s/AMD+Ryzen+9+3900XT+12-Core,AMD Ryzen 9 3900XT 12-Core,83rd,7,43.0 +/- 0.9
+7,/s/AMD+Ryzen+Threadripper+3960X+24-Core,AMD Ryzen Threadripper 3960X 24-Core,83rd,4,42.9 +/- 0.2
+8,/s/2+x+AMD+EPYC+75F3+32-Core,2 x AMD EPYC 75F3 32-Core,83rd,10,42.9 +/- 6.3
+9,/s/AMD+Ryzen+9+3900X+12-Core,AMD Ryzen 9 3900X 12-Core,82nd,7,42.8 +/- 0.4
+10,/s/Intel+Core+i5-11600K,Intel Core i5-11600K,80th,7,41.5 +/- 1.9
+11,/s/AMD+Ryzen+7+4700U,AMD Ryzen 7 4700U,78th,6,41.0 +/- 0.4
+12,/s/Intel+Core+i9-10900K,Intel Core i9-10900K,78th,20,40.7 +/- 2.4
+13,/s/Intel+Core+i9-9900KS,Intel Core i9-9900KS,76th,3,40.1 +/- 0.1
+15,/s/AMD+EPYC+7713+64-Core,AMD EPYC 7713 64-Core,75th,5,39.7 +/- 0.9
+16,/s/AMD+Ryzen+9+3950X+16-Core,AMD Ryzen 9 3950X 16-Core,75th,7,39.2 +/- 5.0
+17,/s/AMD+Ryzen+5+3600X+6-Core,AMD Ryzen 5 3600X 6-Core,74th,3,39.0
+18,/s/Intel+Core+i7-7900X,Intel Core i7-7900X,73rd,3,38.8 +/- 0.1
+19,/s/Intel+Core+i9-9900K,Intel Core i9-9900K,72nd,5,38.5 +/- 1.2
+20,/s/AMD+EPYC+7F52+16-Core,AMD EPYC 7F52 16-Core,71st,15,38.0 +/- 1.1
+21,/s/2+x+AMD+EPYC+7713+64-Core,2 x AMD EPYC 7713 64-Core,70th,6,37.1 +/- 0.3
+22,/s/2+x+AMD+EPYC+7763+64-Core,2 x AMD EPYC 7763 64-Core,69th,6,36.8 +/- 0.4
+23,/s/AMD+EPYC+7F72+24-Core,AMD EPYC 7F72 24-Core,67th,15,35.9 +/- 0.8
+24,/s/AMD+EPYC+7F32+8-Core,AMD EPYC 7F32 8-Core,67th,14,35.7 +/- 2.6
+25,/s/Intel+Core+i5-10600K,Intel Core i5-10600K,67th,11,35.7 +/- 2.4
+26,/s/2+x+AMD+EPYC+7F52+16-Core,2 x AMD EPYC 7F52 16-Core,66th,3,35.4 +/- 0.2
+27,/s/2+x+Intel+Xeon+Platinum+8380,2 x Intel Xeon Platinum 8380,66th,5,35.4 +/- 3.0
+28,/s/Intel+Core+i7-8700K,Intel Core i7-8700K,66th,3,35.4 +/- 0.7
+29,/s/AMD+EPYC+7742+64-Core,AMD EPYC 7742 64-Core,65th,5,34.8 +/- 0.2
+30,/s/Intel+Xeon+E-2288G,Intel Xeon E-2288G,63rd,10,34.3 +/- 1.4
+31,/s/Intel+Core+i7-7740K,Intel Core i7-7740K,62nd,3,34.0
+32,/s/AMD+EPYC+7702+64-Core,AMD EPYC 7702 64-Core,61st,10,33.7 +/- 0.9
+33,/s/AMD+EPYC+7502P+32-Core,AMD EPYC 7502P 32-Core,61st,13,33.7 +/- 0.8
+34,/s/Intel+Core+i7-7700K,Intel Core i7-7700K,59th,3,33.6 +/- 0.1
+35,/s/AMD+EPYC+7542+32-Core,AMD EPYC 7542 32-Core,59th,8,33.6 +/- 0.9
+36,/s/AMD+EPYC+7662+64-Core,AMD EPYC 7662 64-Core,59th,10,33.4 +/- 0.8
+37,/s/AMD+EPYC+7402P+24-Core,AMD EPYC 7402P 24-Core,59th,10,33.2 +/- 0.9
+38,/s/AMD+Ryzen+7+3700X+8-Core,AMD Ryzen 7 3700X 8-Core,57th,3,33.0 +/- 0.1
+39,/s/AMD+EPYC+7302P+16-Core,AMD EPYC 7302P 16-Core,57th,10,33.0 +/- 0.9
+40,/s/Intel+Core+i9-7980XE,Intel Core i9-7980XE,57th,3,32.9 +/- 3.1
+41,/s/2+x+AMD+EPYC+7F72+24-Core,2 x AMD EPYC 7F72 24-Core,55th,9,32.7 +/- 1.1
+42,/s/AMD+EPYC+7552+48-Core,AMD EPYC 7552 48-Core,54th,10,32.6 +/- 1.1
+43,/s/AMD+EPYC+7532+32-Core,AMD EPYC 7532 32-Core,52nd,10,32.3 +/- 1.0
+44,/s/Intel+Xeon+Gold+6258R,Intel Xeon Gold 6258R,52nd,3,32.2 +/- 0.1
+45,/s/Intel+Core+i9-10885H,Intel Core i9-10885H,52nd,4,32.2 +/- 2.4
+46,/s/2+x+AMD+EPYC+7742+64-Core,2 x AMD EPYC 7742 64-Core,51st,11,32.2 +/- 4.5
+47,/s/Intel+Xeon+Platinum+8280,Intel Xeon Platinum 8280,51st,3,32.2 +/- 0.1
+48,/s/AMD+EPYC+7282+16-Core,AMD EPYC 7282 16-Core,51st,10,32.2 +/- 1.1
+49,/s/AMD+EPYC+7452+32-Core,AMD EPYC 7452 32-Core,51st,5,32.1
+51,/s/AMD+EPYC+7642+48-Core,AMD EPYC 7642 48-Core,49th,9,31.8 +/- 0.6
+52,/s/AMD+Ryzen+5+3600XT+6-Core,AMD Ryzen 5 3600XT 6-Core,49th,3,31.8
+53,/s/Intel+Core+i3-10100,Intel Core i3-10100,49th,3,31.8 +/- 0.3
+54,/s/Intel+Xeon+Gold+5220R,Intel Xeon Gold 5220R,49th,3,31.7 +/- 0.2
+55,/s/Intel+Xeon+E5-1680+v3,Intel Xeon E5-1680 v3,49th,4,31.7 +/- 0.1
+56,/s/AMD+EPYC+7272+12-Core,AMD EPYC 7272 12-Core,49th,8,31.6 +/- 2.2
+57,/s/Intel+Core+i7-4790K,Intel Core i7-4790K,48th,3,31.6 +/- 0.1
+58,/s/Intel+Core+i7-9750H,Intel Core i7-9750H,47th,5,31.3 +/- 2.4
+59,/s/AMD+EPYC+7232P+8-Core,AMD EPYC 7232P 8-Core,45th,10,30.9 +/- 1.7
+60,/s/AMD+Ryzen+Threadripper+2970WX+24-Core,AMD Ryzen Threadripper 2970WX 24-Core,45th,3,30.8 +/- 0.1
+61,/s/AMD+Ryzen+3+3300X+4-Core,AMD Ryzen 3 3300X 4-Core,44th,3,30.8 +/- 0.1
+62,/s/2+x+AMD+EPYC+7272+12-Core,2 x AMD EPYC 7272 12-Core,43rd,3,30.6 +/- 0.2
+63,/s/Intel+Core+i7-6800K,Intel Core i7-6800K,42nd,3,30.3 +/- 0.1
+64,/s/AMD+EPYC+7262+8-Core,AMD EPYC 7262 8-Core,42nd,3,30.3
+65,/s/Intel+Xeon+E3-1275+v6,Intel Xeon E3-1275 v6,42nd,3,30.3 +/- 0.1
+66,/s/Intel+Core+i9-10980XE,Intel Core i9-10980XE,42nd,10,30.1 +/- 2.1
+67,/s/AMD+EPYC+7352+24-Core,AMD EPYC 7352 24-Core,41st,5,30.1
+68,/s/Intel+Core+i7-5960X,Intel Core i7-5960X,40th,4,29.6
+69,/s/AMD+Ryzen+Threadripper+2950X+16-Core,AMD Ryzen Threadripper 2950X 16-Core,40th,4,29.3 +/- 0.1
+70,/s/AMD+Ryzen+7+2700X+Eight-Core,AMD Ryzen 7 2700X Eight-Core,39th,3,29.1 +/- 0.1
+71,/s/2+x+Intel+Xeon+Gold+5220R,2 x Intel Xeon Gold 5220R,39th,6,29.1 +/- 1.1
+72,/s/Intel+Core+i7-5775C,Intel Core i7-5775C,36th,4,28.2 +/- 0.2
+73,/s/Intel+Xeon+E3-1280+v5,Intel Xeon E3-1280 v5,36th,3,28.1
+74,/s/AMD+EPYC+7252+8-Core,AMD EPYC 7252 8-Core,35th,3,27.7
+75,/s/Intel+Xeon+E3-1245+v5,Intel Xeon E3-1245 v5,34th,3,27.6 +/- 0.1
+76,/s/Intel+Xeon+Gold+5218,Intel Xeon Gold 5218,34th,6,27.3 +/- 3.1
+77,/s/AMD+Ryzen+5+3400G,AMD Ryzen 5 3400G,33rd,3,27.2
+78,/s/Intel+Core+i5-9400F,Intel Core i5-9400F,33rd,3,27.1 +/- 0.1
+79,/s/Intel+Core+i7-9700TE,Intel Core i7-9700TE,33rd,5,27.1 +/- 0.5
+80,/s/Intel+Core+i5-8400,Intel Core i5-8400,31st,3,26.9
+81,/s/AMD+Ryzen+7+2700+Eight-Core,AMD Ryzen 7 2700 Eight-Core,31st,3,26.9 +/- 0.2
+82,/s/Intel+Xeon+E3-1231+v3,Intel Xeon E3-1231 v3,31st,3,26.8 +/- 0.1
+83,/s/AMD+Ryzen+7+1800X+Eight-Core,AMD Ryzen 7 1800X Eight-Core,31st,8,26.7 +/- 1.4
+84,/s/Intel+Core+i5-7600K,Intel Core i5-7600K,30th,3,26.4
+85,/s/Intel+Xeon+E5-2687W+v3,Intel Xeon E5-2687W v3,30th,3,26.3 +/- 2.6
+86,/s/Intel+Core+i7-4960X,Intel Core i7-4960X,28th,3,25.8
+87,/s/Intel+Xeon+Gold+6226R,Intel Xeon Gold 6226R,28th,4,25.7
+88,/s/Intel+Xeon+Silver+4215R,Intel Xeon Silver 4215R,27th,3,25.5
+90,/s/Intel+Xeon+Silver+4216,Intel Xeon Silver 4216,24th,10,24.7 +/- 3.0
+91,/s/Intel+Xeon+Gold+5217,Intel Xeon Gold 5217,24th,4,24.6
+92,/s/Intel+Core+i7-1065G7,Intel Core i7-1065G7,24th,10,24.5 +/- 1.2
+93,/s/Intel+Core+i3-8100,Intel Core i3-8100,24th,3,24.5
+94,/s/AMD+Ryzen+7+1700+Eight-Core,AMD Ryzen 7 1700 Eight-Core,23rd,3,24.2 +/- 0.1
+95,/s/AMD+EPYC+7601+32-Core,AMD EPYC 7601 32-Core,23rd,6,23.8 +/- 0.1
+96,/s/Intel+Core+i5-4670,Intel Core i5-4670,22nd,3,23.6 +/- 0.2
+97,/s/Intel+Xeon+E3-1260L+v5,Intel Xeon E3-1260L v5,22nd,3,23.5
+98,/s/Intel+Core+i5-6500,Intel Core i5-6500,21st,3,23.1
+99,/s/Intel+Core+i7-3770K,Intel Core i7-3770K,21st,3,23.1
+100,/s/Intel+Xeon+Silver+4214R,Intel Xeon Silver 4214R,20th,3,22.8
+101,/s/AMD+Ryzen+5+2400G,AMD Ryzen 5 2400G,19th,3,22.3 +/- 2.0
+102,/s/Intel+Core+i7-8550U,Intel Core i7-8550U,19th,5,22.0 +/- 0.7
+103,/s/Intel+Core+i7-8565U,Intel Core i7-8565U,18th,7,21.8 +/- 1.4
+104,/s/AMD+Ryzen+3+1300X,AMD Ryzen 3 1300X,18th,3,21.4
+105,/s/2+x+AMD+EPYC+7601+32-Core,2 x AMD EPYC 7601 32-Core,17th,8,21.1 +/- 0.3
+106,/s/Intel+Core+i5-2500K,Intel Core i5-2500K,16th,4,20.1 +/- 2.3
+107,/s/AMD+Ryzen+3+2200G,AMD Ryzen 3 2200G,16th,7,20.0 +/- 0.4
+108,/s/Intel+Core+i5-3470,Intel Core i5-3470,16th,3,19.9
+109,/s/Intel+Core+i3-7100,Intel Core i3-7100,14th,3,18.9 +/- 0.1
+110,/s/Intel+Xeon+E3-1235L+v5,Intel Xeon E3-1235L v5,14th,3,18.9
+111,/s/POWER9+44-Core,POWER9 44-Core,14th,7,18.8 +/- 0.1
+112,/s/Intel+Core+i7-2700K,Intel Core i7-2700K,13th,3,18.4 +/- 0.2
+113,/s/AMD+FX-8370+Eight-Core,AMD FX-8370 Eight-Core,12th,4,18.0
+114,/s/Intel+Xeon+E5-2609+v4,Intel Xeon E5-2609 v4,12th,3,17.5
+115,/s/AMD+FX-8150+Eight-Core,AMD FX-8150 Eight-Core,11th,4,16.5 +/- 0.2
+116,/s/Intel+Core+i3-4130,Intel Core i3-4130,11th,3,15.4
+117,/s/Intel+Core+i7-5600U,Intel Core i7-5600U,11th,3,15.2
+118,/s/AMD+Ryzen+3+3200U,AMD Ryzen 3 3200U,10th,3,14.5 +/- 0.1
+119,/s/AMD+A10-7850K+APU,AMD A10-7850K APU,10th,3,13.2
+120,/s/Intel+Core+i5-2520M,Intel Core i5-2520M,8th,3,11.0
+121,/s/Apple+M1,Apple M1,7th,6,10.7
+122,/s/Intel+Core+i7-8700B,Intel Core i7-8700B,6th,7,10.4
+123,/s/ARMv8+Cortex-A72+4-Core,ARMv8 Cortex-A72 4-Core,3rd,10,6.0 +/- 0.5
+124,/s/ARMv7+rev+3+4-Core,ARMv7 rev 3 4-Core,2nd,3,4.5 +/- 0.5

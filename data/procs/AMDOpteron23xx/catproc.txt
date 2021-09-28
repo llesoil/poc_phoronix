@@ -1,0 +1,19 @@
+processor	: 0
+vendor_id	: AuthenticAMD
+cpu family	: 15
+model		: 6
+model name	: AMD Opteron 23xx (Gen 3 Class Opteron)
+stepping	: 1
+cpu MHz		: 2100.000
+cache size	: 512 KB
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 5
+wp		: yes
+flags		: fpu de pse tsc msr pae mce cx8 apic mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx lm up rep_good extd_apicid unfair_spinlock pni cx16 x2apic popcnt hypervisor abm sse4a misalignsse
+bogomips	: 4200.00
+TLB size	: 1024 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 48 bits physical, 48 bits virtual
+power management:

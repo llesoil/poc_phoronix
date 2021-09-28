@@ -1,0 +1,15 @@
+Architecture:          i686
+CPU op-mode(s):        64-bit
+CPU(s):                4
+Thread(s) per core:    1
+Core(s) per socket:    4
+CPU socket(s):         1
+Vendor ID:             AuthenticAMD
+CPU family:            16
+Model:                 5
+Stepping:              2
+CPU MHz:               800.000
+Virtualization:        AMD-V
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              512K

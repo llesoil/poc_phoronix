@@ -1,0 +1,17 @@
+Architecture:        loongarch64
+Byte Order:          Little Endian
+CPU(s):              4
+On-line CPU(s) list: 0-3
+Thread(s) per core:  1
+Core(s) per socket:  4
+Socket(s):           1
+NUMA node(s):        1
+Model name:          Loongson-3A5000
+CPU max MHz:         2500.0000
+CPU min MHz:         225.0000
+BogoMIPS:            4992.00
+L1d cache:           64K
+L1i cache:           64K
+L2 cache:            256K
+L3 cache:            16384K
+NUMA node0 CPU(s):   0-3

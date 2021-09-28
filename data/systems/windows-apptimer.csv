@@ -1,0 +1,24 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Core+i7-7700K,Intel Core i7-7700K,100th,5,0.04
+1,/s/Intel+Core+i9-7960X,Intel Core i9-7960X,100th,4,0.04
+2,/s/Intel+Core+i5-8400,Intel Core i5-8400,99th,4,0.04
+3,/s/Intel+Core+i7-8700K,Intel Core i7-8700K,99th,5,0.05
+4,/s/Intel+Core+i5-8250U,Intel Core i5-8250U,96th,4,0.05
+5,/s/Intel+Xeon+E3-1280+v5,Intel Xeon E3-1280 v5,91st,5,0.05 +/- 0.01
+6,/s/Intel+Core+i5-4670,Intel Core i5-4670,86th,6,0.06 +/- 0.01
+7,/s/Intel+Core+i7+990X,Intel Core i7 990X,85th,5,0.06
+8,/s/Intel+Core+i7-4770K,Intel Core i7-4770K,84th,7,0.06 +/- 0.01
+9,/s/Intel+Core+i7-4960X,Intel Core i7-4960X,81st,7,0.06
+10,/s/Intel+Xeon+E5-1680+v3,Intel Xeon E5-1680 v3,80th,10,0.06 +/- 0.01
+11,/s/2+x+Intel+Xeon+Platinum+8280,2 x Intel Xeon Platinum 8280,76th,3,0.06
+13,/s/Intel+Core+i7-3960X,Intel Core i7-3960X,73rd,5,0.07 +/- 0.01
+14,/s/Intel+Core+i9-7980XE,Intel Core i9-7980XE,73rd,5,0.07
+15,/s/Intel+Core+i5-6500,Intel Core i5-6500,72nd,4,0.07
+16,/s/Intel+Xeon+E3-1275+v6,Intel Xeon E3-1275 v6,72nd,5,0.07 +/- 0.01
+17,/s/Intel+Core+i7-7900X,Intel Core i7-7900X,72nd,5,0.07 +/- 0.01
+18,/s/2+x+Intel+Xeon+Gold+6138,2 x Intel Xeon Gold 6138,71st,5,0.07
+19,/s/Intel+Core+i7-5600U,Intel Core i7-5600U,71st,10,0.07 +/- 0.01
+20,/s/Intel+Core+i7-5775C,Intel Core i7-5775C,71st,4,0.07
+21,/s/Intel+Core+i5-5300U,Intel Core i5-5300U,71st,11,0.08 +/- 0.01
+22,/s/Intel+Xeon+E5-2687W+v3,Intel Xeon E5-2687W v3,67th,5,0.11
+23,/s/Intel+Celeron+N3050,Intel Celeron N3050,60th,4,0.16 +/- 0.01

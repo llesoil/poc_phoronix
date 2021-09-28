@@ -1,0 +1,40 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/NVIDIA+GeForce+RTX+3090,NVIDIA GeForce RTX 3090,93rd,272,9
+1,/s/Zotac+NVIDIA+GeForce+RTX+3090,Zotac NVIDIA GeForce RTX 3090,81st,86,9
+3,/s/NVIDIA+GeForce+RTX+3080+Ti,NVIDIA GeForce RTX 3080 Ti,74th,80,10
+4,/s/eVGA+NVIDIA+GeForce+RTX+3090,eVGA NVIDIA GeForce RTX 3090,68th,3,11 +/- 1
+5,/s/NVIDIA+GeForce+RTX+3080,NVIDIA GeForce RTX 3080,63rd,85,11
+6,/s/NVIDIA+GeForce+RTX+3070+Ti,NVIDIA GeForce RTX 3070 Ti,61st,4,14
+7,/s/AMD+Radeon+RX+5700+XT,AMD Radeon RX 5700 XT,60th,84,14
+8,/s/NVIDIA+GeForce+RTX+2080+Ti,NVIDIA GeForce RTX 2080 Ti,53rd,18,15
+9,/s/NVIDIA+GeForce+RTX+3070,NVIDIA GeForce RTX 3070,51st,11,18
+11,/s/NVIDIA+GeForce+RTX+2080+SUPER,NVIDIA GeForce RTX 2080 SUPER,50th,17,18
+12,/s/NVIDIA+GeForce+RTX+3060+Ti,NVIDIA GeForce RTX 3060 Ti,49th,20,18 +/- 1
+13,/s/Zotac+NVIDIA+GeForce+RTX+2080,Zotac NVIDIA GeForce RTX 2080,48th,13,19
+14,/s/NVIDIA+GeForce+RTX+2070+SUPER,NVIDIA GeForce RTX 2070 SUPER,46th,18,20
+15,/s/ASUS+NVIDIA+GeForce+RTX+2070,ASUS NVIDIA GeForce RTX 2070,45th,12,22
+16,/s/NVIDIA+GeForce+RTX+2060+SUPER,NVIDIA GeForce RTX 2060 SUPER,45th,15,22
+17,/s/eVGA+NVIDIA+GeForce+RTX+3060,eVGA NVIDIA GeForce RTX 3060,43rd,9,23
+18,/s/AMD+Radeon+RX+6700,AMD Radeon RX 6700,36th,5,26
+19,/s/NVIDIA+GeForce+RTX+2060,NVIDIA GeForce RTX 2060,36th,11,27
+20,/s/NVIDIA+GeForce+GTX+1080,NVIDIA GeForce GTX 1080,35th,5,30
+21,/s/Gigabyte+AMD+Radeon+RX+470,Gigabyte AMD Radeon RX 470,33rd,3,49
+22,/s/Sapphire+AMD+Radeon+RX+5500,Sapphire AMD Radeon RX 5500,33rd,3,63
+23,/s/Intel+Xe+TGL+GT2,Intel Xe TGL GT2,32nd,11,117 +/- 2
+25,/s/Intel+TigerLake+GT2,Intel TigerLake GT2,19th,84,144
+26,/s/Intel+HD+5500,Intel HD 5500,19th,3,153 +/- 1
+27,/s/Intel+Iris+Plus+G7,Intel Iris Plus G7,19th,3,181
+28,/s/Intel+UHD+750,Intel UHD 750,12th,84,253
+29,/s/ASUS+Intel+UHD+630,ASUS Intel UHD 630,11th,14,385 +/- 7
+30,/s/i915drmfb,i915drmfb,11th,84,389
+31,/s/MSI+Intel+HD+630,MSI Intel HD 630,4th,4,401 +/- 3
+32,/s/Intel+HD+P630,Intel HD P630,4th,4,406 +/- 1
+33,/s/Intel+UHD+630,Intel UHD 630,4th,10,418 +/- 39
+34,/s/MSI+Intel+HD+P530,MSI Intel HD P530,3rd,3,431 +/- 1
+35,/s/Intel+UHD+620,Intel UHD 620,3rd,7,435 +/- 12
+36,/s/Intel+8th+Gen+Core+Gaussian+Mixture+Model,Intel 8th Gen Core Gaussian Mixture Model,3rd,3,441 +/- 33
+37,/s/MSI+Intel+UHD+630,MSI Intel UHD 630,3rd,3,446 +/- 4
+38,/s/Gigabyte+Intel+UHD+630,Gigabyte Intel UHD 630,2nd,3,457 +/- 1
+39,/s/Intel+HD+530,Intel HD 530,2nd,4,493 +/- 2
+40,/s/Intel+UHD+P630,Intel UHD P630,1st,6,500 +/- 2
+41,/s/Gigabyte+Intel+HD+530,Gigabyte Intel HD 530,1st,3,512 +/- 44

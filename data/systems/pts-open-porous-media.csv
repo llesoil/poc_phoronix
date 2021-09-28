@@ -1,0 +1,10 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Core+i7-5960X,Intel Core i7-5960X,98th,4,29 +/- 4
+1,/s/2+x+AMD+Opteron+6172,2 x AMD Opteron 6172,95th,3,36 +/- 2
+2,/s/Intel+Core+i7-4960X,Intel Core i7-4960X,90th,16,54 +/- 2
+3,/s/Intel+Core+i5-3470,Intel Core i5-3470,78th,4,57
+5,/s/AMD+A10-7700K+APU+with+Radeon+R7,AMD A10-7700K APU with Radeon R7,55th,10,90 +/- 3
+7,/s/Intel+Core+i7+720Q,Intel Core i7 720Q,42nd,3,111
+8,/s/Intel+Core+i7-3960X,Intel Core i7-3960X,38th,3,116
+9,/s/Intel+Core+i5-2520M,Intel Core i5-2520M,27th,13,133 +/- 1
+11,/s/AMD+Athlon+X4+845+Quad+Core,AMD Athlon X4 845 Quad Core,16th,11,153 +/- 3

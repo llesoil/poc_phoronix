@@ -1,0 +1,20 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Säikeitä per ydin:   1
+Ytimiä per kanta:     2
+Socket(s):             1
+NUMA node(s):          1
+Valmistajan tunniste:  AuthenticAMD
+CPU family:            15
+Malli:                 67
+Stepping:              2
+CPU MHz:               2000.000
+BogoMIPS:              4011.54
+Virtualization:        AMD-V
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              512K
+NUMA node0 CPU(s):     0,1

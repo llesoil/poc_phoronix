@@ -1,0 +1,20 @@
+Architecture:          x86_64
+Operační režim(y) CPU:32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Vláken na jádro:     1
+Jader na patici:       2
+Socket(s):             1
+Uzly NUMA:             1
+ID výrobce:           AuthenticAMD
+Rodina CPU:            15
+Model:                 107
+Stepping:              2
+CPU MHz:               1000.000
+BogoMIPS:              2004.30
+Virtualizace:          AMD-V
+L1d keš:              64K
+L1i keš:              64K
+L2 keš:               512K
+NUMA node0 CPU(s):     0,1

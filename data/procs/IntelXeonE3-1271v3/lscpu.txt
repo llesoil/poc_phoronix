@@ -1,0 +1,15 @@
+Architecture:          x86_64
+CPU 操作モード:   32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                8
+On-line CPU(s) list:   0-7
+コアあたりのスレッド数:2
+ソケットあたりのコア数:4
+Socket(s):             1
+ベンダー ID:       GenuineIntel
+CPU ファミリー:   6
+モデル:             60
+ステッピング:    3
+CPU MHz:               3601.000
+BogoMIPS:              7202.00
+仮想化:             VT-x

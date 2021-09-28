@@ -1,0 +1,64 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Radeon+RX+6800,AMD Radeon RX 6800,100th,6,194 +/- 27
+1,/s/Sapphire+AMD+Radeon+RX+6800,Sapphire AMD Radeon RX 6800,100th,9,152 +/- 7
+2,/s/Zotac+NVIDIA+GeForce+GTX+1070+Ti,Zotac NVIDIA GeForce GTX 1070 Ti,100th,3,148 +/- 8
+3,/s/AMD+Radeon+RX+64,AMD Radeon RX 64,100th,5,147 +/- 2
+4,/s/AMD+Radeon+RX+56,AMD Radeon RX 56,100th,8,147 +/- 11
+5,/s/AMD+POLARIS10,AMD POLARIS10,99th,3,145 +/- 3
+6,/s/Gigabyte+AMD+Radeon+RX+470,Gigabyte AMD Radeon RX 470,99th,3,142 +/- 16
+7,/s/NVIDIA+GeForce+RTX+2060,NVIDIA GeForce RTX 2060,99th,4,142 +/- 14
+8,/s/AMD+Navi+10,AMD Navi 10,99th,4,139 +/- 17
+9,/s/ASUS+NVIDIA+GeForce+GTX+1660,ASUS NVIDIA GeForce GTX 1660,98th,3,138 +/- 14
+10,/s/eVGA+NVIDIA+GeForce+GTX+1660+Ti,eVGA NVIDIA GeForce GTX 1660 Ti,98th,3,138 +/- 14
+11,/s/ASUS+NVIDIA+GeForce+GTX+1650,ASUS NVIDIA GeForce GTX 1650,98th,6,134 +/- 7
+12,/s/eVGA+NVIDIA+GeForce+GTX+1050+Ti,eVGA NVIDIA GeForce GTX 1050 Ti,97th,10,124 +/- 14
+13,/s/Zotac+NVIDIA+GeForce+GTX+1060,Zotac NVIDIA GeForce GTX 1060,95th,3,119 +/- 1
+14,/s/MSI+AMD+Radeon+HD+7900,MSI AMD Radeon HD 7900,94th,124,114 +/- 9
+15,/s/eVGA+NVIDIA+GeForce+GTX+960,eVGA NVIDIA GeForce GTX 960,93rd,98,107 +/- 3
+16,/s/MSI+NVIDIA+GeForce+GTX+1080+Ti,MSI NVIDIA GeForce GTX 1080 Ti,90th,169,104
+17,/s/MSI+AMD+Radeon+R9+285,MSI AMD Radeon R9 285,85th,3,100 +/- 6
+18,/s/NVIDIA+GeForce+GTX+1080+Ti,NVIDIA GeForce GTX 1080 Ti,81st,177,97 +/- 1
+19,/s/ASUS+AMD+Radeon+HD+7900,ASUS AMD Radeon HD 7900,77th,11,92 +/- 2
+20,/s/Sapphire+AMD+Radeon+HD+7950,Sapphire AMD Radeon HD 7950,76th,5,90 +/- 1
+22,/s/ASUS+AMD+Radeon+HD+7970,ASUS AMD Radeon HD 7970,75th,39,87 +/- 8
+23,/s/XFX+AMD+Radeon+HD+7950,XFX AMD Radeon HD 7950,75th,12,86 +/- 9
+24,/s/Gigabyte+AMD+Radeon+R7+370,Gigabyte AMD Radeon R7 370,72nd,19,83 +/- 9
+25,/s/XFX+AMD+Radeon+R9+285,XFX AMD Radeon R9 285,70th,106,82 +/- 4
+26,/s/eVGA+NVIDIA+GeForce+GTX+780+Ti,eVGA NVIDIA GeForce GTX 780 Ti,70th,84,82
+27,/s/Sapphire+AMD+Radeon+RX+470,Sapphire AMD Radeon RX 470,64th,204,80 +/- 11
+28,/s/Sapphire+AMD+Radeon+R9+Fury,Sapphire AMD Radeon R9 Fury,64th,12,80 +/- 9
+29,/s/NVIDIA+GeForce+GTX+970,NVIDIA GeForce GTX 970,64th,336,80 +/- 2
+30,/s/AMD+Radeon+RX+580,AMD Radeon RX 580,54th,84,71
+31,/s/AMD+Radeon+R9+Fury,AMD Radeon R9 Fury,54th,84,71
+32,/s/AMD+Polaris12,AMD Polaris12,52nd,6,68 +/- 6
+33,/s/AMD+Radeon+RX+460,AMD Radeon RX 460,51st,20,67 +/- 10
+34,/s/HIS+AMD+Radeon+HD+7950,HIS AMD Radeon HD 7950,51st,5,63 +/- 7
+36,/s/Sapphire+AMD+Radeon+HD+6950,Sapphire AMD Radeon HD 6950,49th,4,62 +/- 7
+37,/s/Sapphire+AMD+Radeon+RX+550+640SP,Sapphire AMD Radeon RX 550 640SP,49th,87,62
+38,/s/Zotac+NVIDIA+GeForce+GTX+970,Zotac NVIDIA GeForce GTX 970,49th,6,60
+39,/s/Sapphire+AMD+Radeon+HD+5870,Sapphire AMD Radeon HD 5870,49th,4,59 +/- 1
+40,/s/Sapphire+AMD+Radeon+R7+260X,Sapphire AMD Radeon R7 260X,49th,93,58 +/- 3
+41,/s/AMD+Radeon+RX+480,AMD Radeon RX 480,45th,349,57 +/- 1
+42,/s/ASUS+AMD+Radeon+HD+7770,ASUS AMD Radeon HD 7770,41st,5,56 +/- 1
+43,/s/XFX+AMD+Radeon+RX+460,XFX AMD Radeon RX 460,40th,7,51 +/- 1
+44,/s/AMD+Radeon+RX+Vega+64,AMD Radeon RX Vega 64,39th,84,48
+45,/s/Sapphire+AMD+Radeon+HD+5830,Sapphire AMD Radeon HD 5830,32nd,4,41 +/- 4
+46,/s/MSI+NVIDIA+GeForce+GTX+570M,MSI NVIDIA GeForce GTX 570M,30th,3,35 +/- 2
+48,/s/NVF1,NVF1,21st,3,34 +/- 2
+49,/s/NVE4,NVE4,21st,4,33 +/- 3
+50,/s/Intel+Iris+Pro+6200,Intel Iris Pro 6200,21st,7,32
+51,/s/Intel+Iris+Pro+580,Intel Iris Pro 580,21st,5,30 +/- 3
+52,/s/AMD+Radeon+Pro+450,AMD Radeon Pro 450,21st,336,29 +/- 3
+53,/s/NV117,NV117,16th,3,26 +/- 2
+54,/s/Intel+Iris+Plus+650,Intel Iris Plus 650,16th,84,26
+55,/s/ASUS+AMD+Radeon+R7,ASUS AMD Radeon R7,14th,7,26 +/- 3
+56,/s/AMD+Radeon+HD+4870,AMD Radeon HD 4870,13th,4,24 +/- 1
+57,/s/NVIDIA+GeForce+940MX,NVIDIA GeForce 940MX,12th,84,22
+58,/s/Intel+UHD+630,Intel UHD 630,11th,7,22 +/- 1
+59,/s/AMD+Radeon+HD+4850,AMD Radeon HD 4850,10th,4,20 +/- 1
+60,/s/Sapphire+AMD+Radeon+HD+4770,Sapphire AMD Radeon HD 4770,10th,3,19 +/- 1
+61,/s/Intel+HD+630,Intel HD 630,10th,17,19 +/- 2
+62,/s/AMD+Radeon+R7,AMD Radeon R7,8th,5,17
+63,/s/Sapphire+AMD+Radeon+HD+4670,Sapphire AMD Radeon HD 4670,3rd,3,13 +/- 1
+64,/s/Intel+Xeon+E3-1200+v3,Intel Xeon E3-1200 v3,2nd,3,11
+65,/s/Intel+HD+5500,Intel HD 5500,2nd,5,10

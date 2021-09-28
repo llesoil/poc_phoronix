@@ -1,0 +1,24 @@
+Architecture :        x86_64
+Mode(s) opératoire(s) des processeurs : 32-bit, 64-bit
+Boutisme :            Little Endian
+Processeur(s) :       4
+Liste de processeur(s) en ligne : 0-3
+Thread(s) par cœur : 1
+Cœur(s) par socket : 4
+Socket(s) :           1
+Nœud(s) NUMA :       1
+Identifiant constructeur : GenuineIntel
+Famille de processeur : 6
+Modèle :             23
+Nom de modèle :      Intel(R) Xeon(R) CPU           E5450  @ 3.00GHz
+Révision :           6
+Vitesse du processeur en MHz : 3003.000
+Vitesse maximale du processeur en MHz : 3003,0000
+Vitesse minimale du processeur en MHz : 2003,0000
+BogoMIPS :            5906.26
+Virtualisation :      VT-x
+Cache L1d :           32K
+Cache L1i :           32K
+Cache L2 :            6144K
+Nœud NUMA 0 de processeur(s) : 0-3
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc arch_perfmon pebs bts rep_good nopl aperfmperf eagerfpu pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 lahf_lm tpr_shadow vnmi flexpriority dtherm

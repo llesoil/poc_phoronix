@@ -1,0 +1,30 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Radeon+RX+6800,AMD Radeon RX 6800,97th,7,13315 +/- 151
+1,/s/AMD+Radeon+RX+5600+OEM,AMD Radeon RX 5600 OEM,89th,10,8605 +/- 282
+2,/s/AMD+Radeon+RX+56,AMD Radeon RX 56,88th,5,7284 +/- 89
+3,/s/Sapphire+AMD+Radeon+RX+5600+OEM,Sapphire AMD Radeon RX 5600 OEM,83rd,18,6964 +/- 104
+4,/s/Gigabyte+AMD+Radeon+RX+5500,Gigabyte AMD Radeon RX 5500,79th,3,5288 +/- 1
+5,/s/Sapphire+AMD+Radeon+RX+5500,Sapphire AMD Radeon RX 5500,78th,3,5099 +/- 1
+6,/s/MSI+AMD+Radeon+RX+470,MSI AMD Radeon RX 470,77th,7,4945 +/- 21
+8,/s/Sapphire+AMD+Radeon+RX+470,Sapphire AMD Radeon RX 470,75th,6,4851 +/- 520
+9,/s/Gigabyte+AMD+Radeon+RX+470,Gigabyte AMD Radeon RX 470,71st,3,4306 +/- 67
+10,/s/XFX+AMD+Radeon+R9+285,XFX AMD Radeon R9 285,70th,3,3540 +/- 2
+11,/s/Sapphire+AMD+Radeon+RX+550+640SP,Sapphire AMD Radeon RX 550 640SP,69th,4,2531 +/- 2
+12,/s/AMD+Radeon+RX+460,AMD Radeon RX 460,68th,3,2504 +/- 1
+13,/s/Gigabyte+AMD+Radeon+540,Gigabyte AMD Radeon 540,67th,3,2454 +/- 1
+14,/s/Intel+Iris+Plus+G7,Intel Iris Plus G7,63rd,5,1128 +/- 12
+15,/s/i915drmfb,i915drmfb,60th,84,1049
+17,/s/Intel+UHD+630,Intel UHD 630,27th,6,949 +/- 118
+19,/s/ASUS+Intel+UHD+630,ASUS Intel UHD 630,23rd,15,779 +/- 54
+20,/s/MSI+Intel+HD+630,MSI Intel HD 630,21st,4,726 +/- 8
+21,/s/Intel+HD+P630,Intel HD P630,19th,3,689 +/- 1
+22,/s/MSI+Intel+UHD+630,MSI Intel UHD 630,17th,3,684 +/- 10
+23,/s/Intel+8th+Gen+Core+Gaussian+Mixture+Model,Intel 8th Gen Core Gaussian Mixture Model,16th,3,658 +/- 1
+24,/s/MSI+Intel+HD+P530,MSI Intel HD P530,14th,3,638 +/- 6
+25,/s/Intel+UHD+620,Intel UHD 620,14th,9,636 +/- 25
+26,/s/Gigabyte+Intel+HD+530,Gigabyte Intel HD 530,11th,3,611 +/- 1
+27,/s/Intel+HD+530,Intel HD 530,9th,4,569 +/- 2
+28,/s/Gigabyte+Intel+UHD+630,Gigabyte Intel UHD 630,8th,3,541 +/- 28
+29,/s/Intel+UHD+P630,Intel UHD P630,6th,5,520 +/- 5
+30,/s/Intel+HD+5500,Intel HD 5500,4th,3,463 +/- 2
+31,/s/Gigabyte+Intel+HD+4600,Gigabyte Intel HD 4600,2nd,3,291 +/- 1

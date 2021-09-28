@@ -1,0 +1,21 @@
+Architecture:          x86_64
+Operační režim(y) CPU:32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                8
+On-line CPU(s) list:   0-7
+Vláken na jádro:     2
+Jader na patici:       4
+Socket(s):             1
+Uzly NUMA:             1
+ID výrobce:           GenuineIntel
+Rodina CPU:            6
+Model:                 60
+Stepping:              3
+CPU MHz:               800.000
+BogoMIPS:              6199.95
+Virtualizace:          VT-x
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              256K
+L3 cache:              8192K
+NUMA node0 CPU(s):     0-7

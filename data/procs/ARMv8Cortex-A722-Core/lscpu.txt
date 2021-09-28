@@ -1,0 +1,18 @@
+Architecture:        aarch64
+Byte Order:          Little Endian
+CPU(s):              2
+On-line CPU(s) list: 0,1
+Thread(s) per core:  1
+Core(s) per socket:  2
+Socket(s):           1
+NUMA node(s):        1
+Vendor ID:           ARM
+Model:               3
+Model name:          Cortex-A72
+Stepping:            r0p3
+BogoMIPS:            166.66
+L1d cache:           32K
+L1i cache:           48K
+L2 cache:            2048K
+NUMA node0 CPU(s):   0,1
+Flags:               fp asimd evtstrm aes pmull sha1 sha2 crc32 cpuid

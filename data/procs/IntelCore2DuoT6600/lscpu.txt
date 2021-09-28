@@ -1,0 +1,14 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+CPU(s):                2
+Hilo(s) por n?cleo:    1
+N?cleo(s) por z?calo:  2
+Z?calo(s) de CPU:      1
+ID del vendedor:       GenuineIntel
+Familia de CPU:        6
+Modelo:                23
+Stepping:              10
+CPU MHz:               1200.000
+cach? L1d:             32K
+cach? L1i:             32K
+cach? L2:              2048K

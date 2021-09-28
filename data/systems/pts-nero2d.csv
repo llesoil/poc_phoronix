@@ -1,0 +1,11 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+EPYC+7601+32-Core,AMD EPYC 7601 32-Core,98th,3,27 +/- 2
+1,/s/AMD+Ryzen+7+2700X+Eight-Core,AMD Ryzen 7 2700X Eight-Core,76th,6,51 +/- 4
+2,/s/AMD+Ryzen+7+1800X+Eight-Core,AMD Ryzen 7 1800X Eight-Core,76th,10,53 +/- 5
+4,/s/Intel+Core+i7-7700K,Intel Core i7-7700K,62nd,5,74 +/- 3
+6,/s/AMD+Ryzen+5+2400G,AMD Ryzen 5 2400G,50th,4,93 +/- 5
+7,/s/Intel+Core+i3-8100,Intel Core i3-8100,50th,3,93
+8,/s/AMD+Ryzen+3+2200G,AMD Ryzen 3 2200G,49th,3,95 +/- 4
+9,/s/Intel+Core+i5-8250U,Intel Core i5-8250U,35th,6,144 +/- 17
+11,/s/Intel+Xeon+X3440,Intel Xeon X3440,15th,5,417 +/- 8
+12,/s/Intel+Xeon+Gold+6212U,Intel Xeon Gold 6212U,11th,3,480 +/- 2

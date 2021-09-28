@@ -1,0 +1,8 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Radeon+RX+6800+XT,AMD Radeon RX 6800 XT,98th,3,520 +/- 3
+1,/s/NVIDIA+GeForce+RTX+2080+Ti,NVIDIA GeForce RTX 2080 Ti,89th,3,511
+2,/s/ASUS+NVIDIA+GeForce+RTX+2070,ASUS NVIDIA GeForce RTX 2070,80th,3,504
+4,/s/NVIDIA+GeForce+RTX+2060,NVIDIA GeForce RTX 2060,62nd,3,432 +/- 2
+6,/s/NVIDIA+GeForce+RTX+2080+SUPER,NVIDIA GeForce RTX 2080 SUPER,45th,3,405
+7,/s/AMD+Radeon+RX+5600+OEM,AMD Radeon RX 5600 OEM,37th,5,296 +/- 2
+9,/s/Intel+Iris+Plus+G7,Intel Iris Plus G7,14th,3,186 +/- 5

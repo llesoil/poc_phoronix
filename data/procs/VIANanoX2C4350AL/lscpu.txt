@@ -1,0 +1,20 @@
+Architecture:          x86_64
+CPU 运行模式：    32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+每个核的线程数：2
+每个座的核数：  1
+Socket(s):             1
+NUMA 节点：         1
+厂商 ID：           CentaurHauls
+CPU 系列：          6
+型号：              15
+Model name:            VIA Nano X2 C4350AL @ 1.6+ GHz
+步进：              13
+CPU MHz：             1729.000
+CPU max MHz:           1729.0000
+CPU min MHz:           1064.0000
+BogoMIPS:              3466.79
+虚拟化：           VT-x
+NUMA node0 CPU(s):     0,1

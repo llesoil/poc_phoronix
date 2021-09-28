@@ -1,0 +1,65 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/MSI+AMD+Radeon+RX+470,MSI AMD Radeon RX 470,100th,84,2710
+1,/s/HIS+AMD+Radeon+R9+290,HIS AMD Radeon R9 290,100th,5,2449 +/- 177
+2,/s/Intel+HD+630,Intel HD 630,99th,3,2132 +/- 134
+3,/s/Intel+HD+530,Intel HD 530,98th,84,2082
+4,/s/Intel+Iris+6100,Intel Iris 6100,98th,84,1932
+5,/s/Intel+HD+620,Intel HD 620,98th,87,1890 +/- 6
+6,/s/Intel+UHD+620,Intel UHD 620,97th,21,1874 +/- 134
+7,/s/Intel+HD+615,Intel HD 615,97th,84,1813
+8,/s/Intel+HD+515,Intel HD 515,95th,84,1803
+9,/s/Intel+4th+Gen+Core+IGP,Intel 4th Gen Core IGP,95th,84,1750
+10,/s/Intel+HD+2000,Intel HD 2000,95th,5,1692 +/- 130
+11,/s/Zotac+NVIDIA+GeForce+GTX+650+Ti,Zotac NVIDIA GeForce GTX 650 Ti,94th,84,1437
+12,/s/MSI+NVIDIA+GeForce+GTX+1080+Ti,MSI NVIDIA GeForce GTX 1080 Ti,94th,84,1418
+13,/s/Intel+HD+5500,Intel HD 5500,91st,8,1227 +/- 41
+14,/s/AMD+Radeon+HD+6450,AMD Radeon HD 6450,90th,86,1108
+15,/s/Intel+Xeon+E3-1200+v2,Intel Xeon E3-1200 v2,87th,169,961 +/- 111
+16,/s/AMD+Radeon+HD+4200,AMD Radeon HD 4200,83rd,85,817
+17,/s/ASUS+AMD+Radeon+R7,ASUS AMD Radeon R7,82nd,84,720
+18,/s/ATI+Radeon+HD+5670,ATI Radeon HD 5670,81st,85,704
+19,/s/AMD+Radeon+HD+7660D,AMD Radeon HD 7660D,80th,170,684 +/- 26
+20,/s/Intel+HD+3000,Intel HD 3000,79th,92,632 +/- 21
+21,/s/AMD+Radeon+R7,AMD Radeon R7,78th,9,613 +/- 79
+23,/s/AMD+Radeon+HD+7540D,AMD Radeon HD 7540D,75th,252,557 +/- 10
+24,/s/ATI+Radeon+HD+2600+Pro,ATI Radeon HD 2600 Pro,75th,84,551
+25,/s/NVIDIA+GeForce+GT+630,NVIDIA GeForce GT 630,74th,4,549 +/- 7
+26,/s/NVIDIA+GeForce+GT+640,NVIDIA GeForce GT 640,72nd,3,480 +/- 49
+27,/s/Intel+4+IGP,Intel 4 IGP,71st,172,475 +/- 5
+28,/s/ATI+FirePro+2260,ATI FirePro 2260,68th,84,414
+29,/s/NVIDIA+GeForce+GT+320M,NVIDIA GeForce GT 320M,64th,168,364 +/- 1
+30,/s/NVIDIA+GeForce+GTX+750+Ti,NVIDIA GeForce GTX 750 Ti,60th,168,314 +/- 2
+31,/s/AMD+Mobility+Radeon+HD+5430,AMD Mobility Radeon HD 5430,52nd,86,239
+32,/s/Intel+Gen6,Intel Gen6,51st,7,229 +/- 19
+33,/s/Intel+Atom+D2xxx,Intel Atom D2xxx,51st,420,227 +/- 15
+35,/s/ATI+Mobility+Radeon+HD+2600+XT,ATI Mobility Radeon HD 2600 XT,49th,87,220
+36,/s/NVIDIA+GeForce+210,NVIDIA GeForce 210,48th,91,216 +/- 4
+37,/s/AMD+Radeon+HD+6620G,AMD Radeon HD 6620G,46th,168,210 +/- 6
+38,/s/AMD+Radeon+HD+6310,AMD Radeon HD 6310,44th,168,191 +/- 9
+39,/s/AMD+Mobility+Radeon+HD+3200,AMD Mobility Radeon HD 3200,43rd,84,157
+40,/s/AMD+Radeon+HD+8330,AMD Radeon HD 8330,42nd,85,145
+41,/s/AMD+Radeon+Xpress+200M,AMD Radeon Xpress 200M,38th,84,99
+42,/s/Intel+Mobile+945GSE+IGP,Intel Mobile 945GSE IGP,38th,171,99
+43,/s/NVIDIA+GeForce+GTX+560M,NVIDIA GeForce GTX 560M,36th,86,91
+44,/s/AMD+Radeon+HD+6400M,AMD Radeon HD 6400M,35th,87,72
+45,/s/Intel+82852,Intel 82852,33rd,84,65
+46,/s/NVIDIA+GeForce4+MX+440,NVIDIA GeForce4 MX 440,31st,85,61
+47,/s/NVIDIA+Quadro+NVS+295,NVIDIA Quadro NVS 295,31st,87,61
+49,/s/AMD+Radeon+HD+4850,AMD Radeon HD 4850,25th,88,47
+50,/s/ATI+RV370,ATI RV370,25th,84,45
+51,/s/ATI+Radeon+HD+4250,ATI Radeon HD 4250,22nd,3,42 +/- 6
+52,/s/ATI+Mobility+Radeon+HD+4300,ATI Mobility Radeon HD 4300,21st,88,36
+53,/s/AMD+Radeon+HD+6670,AMD Radeon HD 6670,19th,86,35
+54,/s/ATI+Radeon+HD+3450,ATI Radeon HD 3450,17th,171,32
+55,/s/AMD+Radeon+Mobility+X1600,AMD Radeon Mobility X1600,17th,86,32
+56,/s/AMD+Radeon+HD+6700,AMD Radeon HD 6700,16th,88,29
+57,/s/ATI+Radeon+HD+3870,ATI Radeon HD 3870,14th,175,27 +/- 1
+58,/s/Intel+82915G,Intel 82915G,14th,85,27
+59,/s/AMD+Radeon+HD+4250,AMD Radeon HD 4250,11th,6,22 +/- 3
+60,/s/AMD+Radeon+HD+6900,AMD Radeon HD 6900,11th,85,21
+61,/s/ATI+Radeon+HD+4300,ATI Radeon HD 4300,10th,87,21
+62,/s/NVIDIA+GeForce+6150SE+nForce+430,NVIDIA GeForce 6150SE nForce 430,10th,85,17
+63,/s/AMD+Radeon+X1200,AMD Radeon X1200,7th,255,16
+64,/s/Intel+N10+Family+IGP,Intel N10 Family IGP,4th,261,12
+65,/s/AMD+FireGL+Mobility+T2e,AMD FireGL Mobility T2e,3rd,85,8
+66,/s/ATI+Radeon+Mobility+M6+LY,ATI Radeon Mobility M6 LY,2nd,85,4

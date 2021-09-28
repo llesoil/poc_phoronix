@@ -1,0 +1,22 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Zotac+NVIDIA+GeForce+GTX+780,Zotac NVIDIA GeForce GTX 780,96th,3,653 +/- 11
+1,/s/NVIDIA+GeForce+GTX+760,NVIDIA GeForce GTX 760,96th,98,643 +/- 71
+2,/s/Sapphire+AMD+Radeon+R9+200,Sapphire AMD Radeon R9 200,95th,3,534
+3,/s/Gigabyte+AMD+Radeon+R9+200,Gigabyte AMD Radeon R9 200,93rd,6,453 +/- 54
+4,/s/AMD+Radeon+HD+6700,AMD Radeon HD 6700,91st,4,352 +/- 12
+5,/s/AMD+Radeon+HD+7700,AMD Radeon HD 7700,88th,85,293
+6,/s/NVIDIA+GeForce+GTX+260,NVIDIA GeForce GTX 260,83rd,3,278 +/- 37
+7,/s/ASUS+AMD+Radeon+HD+6000,ASUS AMD Radeon HD 6000,81st,3,240 +/- 5
+8,/s/Sapphire+AMD+Radeon+HD+6850,Sapphire AMD Radeon HD 6850,81st,3,235 +/- 12
+10,/s/NVIDIA+Quadro+FX+3700,NVIDIA Quadro FX 3700,63rd,86,110
+11,/s/Intel+3rd+Gen+Core,Intel 3rd Gen Core,52nd,95,90 +/- 11
+13,/s/ATI+Mobility+Radeon+HD+3670,ATI Mobility Radeon HD 3670,47th,84,88
+14,/s/Intel+Xeon+E3-1200+v2,Intel Xeon E3-1200 v2,45th,30,80 +/- 10
+15,/s/Intel+HD+3000,Intel HD 3000,37th,3,58 +/- 8
+16,/s/Intel+HD+2500,Intel HD 2500,35th,5,55 +/- 5
+17,/s/Intel+HD+2000,Intel HD 2000,30th,4,41 +/- 2
+18,/s/Intel+2nd+Generation+Core+Family+IGP,Intel 2nd Generation Core Family IGP,29th,92,37 +/- 3
+20,/s/NVIDIA+GeForce+210,NVIDIA GeForce 210,23rd,84,32
+21,/s/MSI+AMD+Radeon+HD+8400,MSI AMD Radeon HD 8400,17th,3,28 +/- 1
+22,/s/MSI+NVIDIA+GeForce+8600+GTS,MSI NVIDIA GeForce 8600 GTS,15th,84,19
+23,/s/ASUS+AMD+Radeon+HD+8280,ASUS AMD Radeon HD 8280,9th,84,15

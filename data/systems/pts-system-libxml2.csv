@@ -1,0 +1,27 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Core+i9-9900K,Intel Core i9-9900K,98th,4,50050 +/- 1940
+1,/s/Intel+Core+i7-8700K,Intel Core i7-8700K,98th,7,51291 +/- 1487
+2,/s/Intel+Core+i7-7700K,Intel Core i7-7700K,96th,4,52236 +/- 3434
+3,/s/2+x+Intel+Xeon+Gold+6254,2 x Intel Xeon Gold 6254,87th,18,63474 +/- 117
+4,/s/AMD+Ryzen+9+3900X+12-Core,AMD Ryzen 9 3900X 12-Core,78th,5,67025 +/- 7411
+5,/s/AMD+Ryzen+7+3700X+8-Core,AMD Ryzen 7 3700X 8-Core,78th,3,67466 +/- 8614
+7,/s/AMD+Ryzen+Threadripper+2950X+16-Core,AMD Ryzen Threadripper 2950X 16-Core,75th,7,69687 +/- 842
+8,/s/Intel+Core+i5-4670,Intel Core i5-4670,74th,4,69936 +/- 248
+9,/s/Intel+Core+i7-5557U,Intel Core i7-5557U,70th,35,72945 +/- 7817
+10,/s/AMD+Ryzen+7+2700X+Eight-Core,AMD Ryzen 7 2700X Eight-Core,66th,4,75805 +/- 5908
+11,/s/AMD+Ryzen+5+2600X+Six-Core,AMD Ryzen 5 2600X Six-Core,66th,4,76662 +/- 6819
+12,/s/AMD+Ryzen+5+1600X+Six-Core,AMD Ryzen 5 1600X Six-Core,61st,4,80192 +/- 4636
+13,/s/AMD+Ryzen+7+1800X+Eight-Core,AMD Ryzen 7 1800X Eight-Core,58th,4,81118 +/- 4354
+14,/s/AMD+Ryzen+Threadripper+1950X+16-Core,AMD Ryzen Threadripper 1950X 16-Core,56th,9,81940 +/- 7666
+15,/s/AMD+Ryzen+Threadripper+2990WX+32-Core,AMD Ryzen Threadripper 2990WX 32-Core,52nd,3,85332 +/- 3915
+17,/s/2+x+Intel+Xeon+E5-2680+v2,2 x Intel Xeon E5-2680 v2,49th,4,88548 +/- 4353
+18,/s/Intel+Core+i7-3960X,Intel Core i7-3960X,48th,7,89109 +/- 12800
+19,/s/Intel+Core+i7-3770K,Intel Core i7-3770K,48th,6,89515 +/- 13398
+20,/s/2+x+Intel+Xeon+E5-2683+v4,2 x Intel Xeon E5-2683 v4,46th,6,93842 +/- 4034
+21,/s/AMD+FX-8350+Eight-Core,AMD FX-8350 Eight-Core,36th,24,105203 +/- 447
+22,/s/2+x+Intel+Xeon+X5550,2 x Intel Xeon X5550,27th,3,123482 +/- 386
+23,/s/Intel+Xeon+E5-2650+v3,Intel Xeon E5-2650 v3,26th,3,129099 +/- 310
+25,/s/Intel+Core+i3+350M,Intel Core i3 350M,22nd,3,146007 +/- 14838
+26,/s/Intel+Core+2+Duo+T7250,Intel Core 2 Duo T7250,13th,5,172397 +/- 2756
+27,/s/Intel+Celeron+N2840,Intel Celeron N2840,8th,4,265454 +/- 21703
+28,/s/AMD+Athlon+5350+APU+with+Radeon+R3,AMD Athlon 5350 APU with Radeon R3,7th,4,271842 +/- 1198

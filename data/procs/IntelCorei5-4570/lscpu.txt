@@ -1,0 +1,21 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Säikeitä per ydin:   1
+Ytimiä per kanta:     4
+Socket(s):             1
+NUMA node(s):          1
+Valmistajan tunniste:  GenuineIntel
+CPU family:            6
+Malli:                 60
+Stepping:              3
+CPU MHz:               800.000
+BogoMIPS:              6384.77
+Virtualization:        VT-x
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              256K
+L3 cache:              6144K
+NUMA node0 CPU(s):     0-3

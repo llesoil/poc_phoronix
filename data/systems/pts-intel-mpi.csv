@@ -1,0 +1,21 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/2+x+Intel+Xeon+Platinum+8272CL,2 x Intel Xeon Platinum 8272CL,98th,4,36818144 +/- 48319
+1,/s/2+x+Intel+Xeon+Platinum+8259L,2 x Intel Xeon Platinum 8259L,96th,5,32346486 +/- 202469
+2,/s/2+x+Intel+Xeon+Platinum+8280,2 x Intel Xeon Platinum 8280,94th,6,30322619 +/- 2340971
+3,/s/AMD+Ryzen+Threadripper+3990X+64-Core,AMD Ryzen Threadripper 3990X 64-Core,93rd,4,28009660 +/- 2685774
+4,/s/2+x+Intel+Xeon+Gold+6226R,2 x Intel Xeon Gold 6226R,87th,3,20168781 +/- 517274
+5,/s/2+x+Intel+Xeon+Gold+5220R,2 x Intel Xeon Gold 5220R,86th,9,19686537 +/- 204712
+6,/s/2+x+Intel+Xeon+Silver+4216,2 x Intel Xeon Silver 4216,80th,5,17108512 +/- 80748
+7,/s/Intel+Xeon+Platinum+8280,Intel Xeon Platinum 8280,79th,3,15779232 +/- 1514909
+9,/s/Intel+Core+i9-10980XE,Intel Core i9-10980XE,74th,3,11869311 +/- 21818
+10,/s/Intel+Xeon+Gold+6226R,Intel Xeon Gold 6226R,70th,3,10417409 +/- 352576
+11,/s/Intel+Xeon+Gold+5220R,Intel Xeon Gold 5220R,69th,3,10275076 +/- 3071
+12,/s/Intel+Xeon+Gold+5218,Intel Xeon Gold 5218,66th,7,9303936 +/- 668538
+13,/s/Intel+Core+i9-9900KS,Intel Core i9-9900KS,61st,7,8471176 +/- 79956
+15,/s/AMD+Ryzen+7+PRO+4750G,AMD Ryzen 7 PRO 4750G,36th,89,8267843 +/- 141470
+16,/s/2+x+Intel+Xeon+E5-2650+v4,2 x Intel Xeon E5-2650 v4,33rd,9,7047341 +/- 72408
+17,/s/Intel+Core+i5-10600K,Intel Core i5-10600K,27th,3,5981483
+19,/s/AMD+Ryzen+Threadripper+2950X+16-Core,AMD Ryzen Threadripper 2950X 16-Core,24th,4,5575423 +/- 502965
+20,/s/Intel+Core+i7-9750H,Intel Core i7-9750H,24th,3,5574229 +/- 642386
+21,/s/Intel+Core+i5-7600K,Intel Core i5-7600K,16th,3,3725295
+22,/s/Intel+Core+i7-2630QM,Intel Core i7-2630QM,5th,3,1447756 +/- 19478

@@ -1,0 +1,26 @@
+Architectuur:              x86_64
+CPU-modus(sen):            32-bit, 64-bit
+Bytevolgorde:              Little Endian
+Address sizes:             39 bits physical, 48 bits virtual
+CPU's:                     4
+Online CPU's-lijst:        0-3
+Draden per kern:           2
+Kernen per voet:           2
+CPU-voeten:                1
+NUMA-nodes:                1
+Producent-ID:              GenuineIntel
+CPU-familie:               6
+Model:                     69
+Modelnaam:                 Intel(R) Core(TM) i7-4500U CPU @ 1.80GHz
+Stepping:                  1
+CPU-frequentie (MHz):      2394.560
+max. CPU-frequentie (MHz): 3000,0000
+min. CPU-frequentie (MHz): 800,0000
+BogoMIPS:                  4789.12
+Virtualisatie:             VT-x
+L1d-cache:                 32K
+L1i-cache:                 32K
+L2-cache:                  256K
+L3-cache:                  4096K
+NUMA-node0 CPU('s):        0-3
+Vlaggen:                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm cpuid_fault epb invpcid_single pti ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid xsaveopt dtherm ida arat pln pts md_clear flush_l1d

@@ -1,0 +1,9 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/eVGA+NVIDIA+GeForce+GTX+980,eVGA NVIDIA GeForce GTX 980,100th,3,146 +/- 5
+1,/s/NVIDIA+GeForce+GTX+1080+Ti,NVIDIA GeForce GTX 1080 Ti,96th,16,89 +/- 7
+2,/s/AMD+Vega+20,AMD Vega 20,77th,4,61 +/- 4
+4,/s/NVIDIA+GeForce+GTX+980+Ti,NVIDIA GeForce GTX 980 Ti,64th,5,54 +/- 4
+6,/s/MSI+AMD+Radeon+RX+580,MSI AMD Radeon RX 580,39th,43,42 +/- 5
+7,/s/NVIDIA+GeForce+GTX+980,NVIDIA GeForce GTX 980,37th,5,42 +/- 3
+9,/s/MSI+AMD+POLARIS10,MSI AMD POLARIS10,22nd,7,39 +/- 1
+10,/s/XFX+AMD+Radeon+R9+200,XFX AMD Radeon R9 200,20th,5,38 +/- 5

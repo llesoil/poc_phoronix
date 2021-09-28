@@ -1,0 +1,20 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/NVIDIA+GeForce+RTX+3070,NVIDIA GeForce RTX 3070,100th,3,470 +/- 4
+1,/s/eVGA+NVIDIA+GeForce+RTX+3060,eVGA NVIDIA GeForce RTX 3060,93rd,4,467 +/- 3
+2,/s/NVIDIA+GeForce+RTX+3060+Ti,NVIDIA GeForce RTX 3060 Ti,93rd,4,467 +/- 2
+3,/s/NVIDIA+GeForce+RTX+3080,NVIDIA GeForce RTX 3080,90th,4,464
+4,/s/NVIDIA+GeForce+RTX+3090,NVIDIA GeForce RTX 3090,90th,4,464 +/- 4
+6,/s/AMD+Radeon+RX+6700,AMD Radeon RX 6700,74th,3,389 +/- 5
+7,/s/NVIDIA+Quadro+RTX+4000,NVIDIA Quadro RTX 4000,66th,4,331 +/- 1
+8,/s/XFX+AMD+Radeon+R9+285,XFX AMD Radeon R9 285,64th,3,248 +/- 1
+9,/s/NVIDIA+GeForce+GTX+680,NVIDIA GeForce GTX 680,61st,4,239 +/- 1
+11,/s/NVIDIA+GeForce+GTX+760,NVIDIA GeForce GTX 760,45th,5,192 +/- 2
+12,/s/AMD+Radeon+RX+56,AMD Radeon RX 56,42nd,4,183 +/- 1
+13,/s/Intel+Xe+TGL+GT2,Intel Xe TGL GT2,38th,8,165 +/- 13
+15,/s/Intel+Iris+Plus+ICL+GT2,Intel Iris Plus ICL GT2,21st,3,105 +/- 6
+16,/s/Intel+UHD+630+CML+GT2,Intel UHD 630 CML GT2,17th,3,52
+17,/s/ASUS+Intel+UHD+630+CML+GT2,ASUS Intel UHD 630 CML GT2,15th,4,51 +/- 1
+18,/s/Intel+UHD+620+WHL+GT2,Intel UHD 620 WHL GT2,12th,3,47
+19,/s/Intel+UHD+620+KBL+GT2,Intel UHD 620 KBL GT2,11th,3,46
+20,/s/Gigabyte+Intel+HD+630+KBL+GT2,Gigabyte Intel HD 630 KBL GT2,8th,3,43
+21,/s/Intel+HD+3000,Intel HD 3000,4th,4,19

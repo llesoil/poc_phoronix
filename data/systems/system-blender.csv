@@ -1,0 +1,6 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/2+x+AMD+EPYC+7742+64-Core,2 x AMD EPYC 7742 64-Core,94th,3,45
+2,/s/Ampere+Altra+ARMv8+Neoverse-N1+160-Core,Ampere Altra ARMv8 Neoverse-N1 160-Core,73rd,12,66 +/- 2
+3,/s/POWER9+44-Core,POWER9 44-Core,52nd,7,264
+5,/s/AMD+Ryzen+5+PRO+4650G,AMD Ryzen 5 PRO 4650G,24th,8,560 +/- 74
+7,/s/AMD+Ryzen+5+3500X+6-Core,AMD Ryzen 5 3500X 6-Core,13th,7,754 +/- 6

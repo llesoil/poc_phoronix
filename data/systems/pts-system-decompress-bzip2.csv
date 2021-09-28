@@ -1,0 +1,25 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Core+i7-9700K,Intel Core i7-9700K,100th,4,8
+1,/s/Intel+Core+i7-4790K,Intel Core i7-4790K,98th,3,8
+2,/s/AMD+Ryzen+7+2700X+Eight-Core,AMD Ryzen 7 2700X Eight-Core,90th,4,10
+3,/s/Intel+Xeon+E3-1280+v5,Intel Xeon E3-1280 v5,90th,6,10 +/- 1
+4,/s/Intel+Core+i7-6700,Intel Core i7-6700,90th,9,10
+5,/s/Intel+Core+i7-2700K,Intel Core i7-2700K,85th,15,10
+6,/s/AMD+Ryzen+5+3600+6-Core,AMD Ryzen 5 3600 6-Core,85th,12,10
+7,/s/AMD+Ryzen+5+PRO+4650G,AMD Ryzen 5 PRO 4650G,83rd,8,10
+8,/s/AMD+Ryzen+5+3500X+6-Core,AMD Ryzen 5 3500X 6-Core,81st,7,10
+9,/s/Intel+Core+i5-10210U,Intel Core i5-10210U,76th,8,10 +/- 1
+11,/s/AMD+Ryzen+Threadripper+2950X+16-Core,AMD Ryzen Threadripper 2950X 16-Core,75th,3,11
+12,/s/Intel+Core+i9-7980XE,Intel Core i9-7980XE,72nd,4,11 +/- 1
+13,/s/AMD+Ryzen+5+2600+Six-Core,AMD Ryzen 5 2600 Six-Core,68th,22,11
+14,/s/2+x+Intel+Xeon+E5-2680+v3,2 x Intel Xeon E5-2680 v3,62nd,25,11
+15,/s/2+x+Intel+Xeon+E5-2680+v2,2 x Intel Xeon E5-2680 v2,57th,4,11
+16,/s/AMD+Ryzen+Threadripper+2990WX+32-Core,AMD Ryzen Threadripper 2990WX 32-Core,57th,4,11
+17,/s/Intel+Core+i5-7500,Intel Core i5-7500,53rd,3,12 +/- 1
+19,/s/Intel+Core+i7-6500U,Intel Core i7-6500U,49th,7,13
+20,/s/2+x+Intel+Xeon+E5-2630+v4,2 x Intel Xeon E5-2630 v4,47th,4,13 +/- 1
+21,/s/AMD+Ryzen+5+2400G,AMD Ryzen 5 2400G,45th,3,13 +/- 2
+22,/s/AMD+FX-8350+Eight-Core,AMD FX-8350 Eight-Core,43rd,13,13
+24,/s/AMD+Athlon+II+X4+630,AMD Athlon II X4 630,19th,8,22
+25,/s/2+x+Intel+Xeon+E5-2630+v3,2 x Intel Xeon E5-2630 v3,14th,33,31
+26,/s/ARMv8+Cortex-A72+4-Core,ARMv8 Cortex-A72 4-Core,5th,5,46 +/- 2

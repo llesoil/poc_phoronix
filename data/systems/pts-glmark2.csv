@@ -1,0 +1,17 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Radeon+RX+6600+XT,AMD Radeon RX 6600 XT,99th,3,16335 +/- 105
+1,/s/AMD+Radeon+RX+5600+OEM,AMD Radeon RX 5600 OEM,91st,7,10045 +/- 1218
+2,/s/AMD+Radeon+RX+56,AMD Radeon RX 56,86th,5,7447 +/- 40
+3,/s/Sapphire+AMD+Radeon+RX+470,Sapphire AMD Radeon RX 470,84th,4,4294 +/- 3
+4,/s/ASUS+AMD+Radeon+RX+470,ASUS AMD Radeon RX 470,81st,13,4271
+6,/s/XFX+AMD+Radeon+RX+6800,XFX AMD Radeon RX 6800,71st,12,4178
+8,/s/AMD+FirePro+V5800,AMD FirePro V5800,36th,5,1123 +/- 1
+9,/s/Intel+Iris+Plus+ICL+GT2,Intel Iris Plus ICL GT2,32nd,4,949 +/- 35
+10,/s/Intel+Xe+TGL+GT2,Intel Xe TGL GT2,26th,3,891 +/- 2
+12,/s/Intel+UHD+630+CML+GT2,Intel UHD 630 CML GT2,24th,3,851 +/- 2
+13,/s/ASUS+Intel+UHD+630+CFL+GT2,ASUS Intel UHD 630 CFL GT2,21st,4,714 +/- 3
+14,/s/Intel+UHD+620+WHL+GT2,Intel UHD 620 WHL GT2,17th,4,600 +/- 7
+15,/s/Intel+UHD+620+KBL+GT2,Intel UHD 620 KBL GT2,15th,3,532 +/- 2
+16,/s/Gigabyte+Intel+HD+4600,Gigabyte Intel HD 4600,12th,4,386 +/- 6
+17,/s/HIS+AMD+Radeon+HD+6450,HIS AMD Radeon HD 6450,10th,4,202 +/- 1
+18,/s/V3D+4.2,V3D 4.2,4th,5,42 +/- 2

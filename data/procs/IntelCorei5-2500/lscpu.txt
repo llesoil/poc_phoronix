@@ -1,0 +1,21 @@
+Arquitetura:           x86_64
+Modo(s) operacional da CPU32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per núcleo  1
+Núcleo(s) por soquete:4
+Soquete(s):            1
+Nó(s) de NUMA:        1
+ID de fornecedor:      GenuineIntel
+Família da CPU:       6
+Modelo:                42
+Step:                  7
+CPU MHz:               1600.000
+BogoMIPS:              6584.70
+Virtualização:       VT-x
+cache de L1d:          32K
+cache de L1i:          32K
+cache de L2:           256K
+cache de L3:           6144K
+NUMA node0 CPU(s):     0-3

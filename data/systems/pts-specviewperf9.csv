@@ -1,0 +1,11 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/NVIDIA+Quadro+4000,NVIDIA Quadro 4000,100th,4,73.8 +/- 7.3
+1,/s/NVIDIA+Quadro+M2000M,NVIDIA Quadro M2000M,100th,3,32.2 +/- 4.1
+2,/s/NVIDIA+GeForce+GT+240,NVIDIA GeForce GT 240,98th,86,11.8
+3,/s/ATI+Mobility+Radeon+HD+4500,ATI Mobility Radeon HD 4500,87th,86,9.6
+4,/s/AMD+Radeon+HD+6800,AMD Radeon HD 6800,77th,90,8.2 +/- 0.4
+6,/s/NVIDIA+GeForce+6800+GT,NVIDIA GeForce 6800 GT,67th,84,5.4
+7,/s/Intel+HD+4600,Intel HD 4600,58th,3,4.9 +/- 0.4
+9,/s/Intel+Xeon+E3-1200+v2,Intel Xeon E3-1200 v2,49th,168,3.9 +/- 0.2
+11,/s/Intel+Mobile+GM965,Intel Mobile GM965,21st,168,1.9
+12,/s/Intel+82G33,Intel 82G33,11th,6,1.0

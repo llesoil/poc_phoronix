@@ -1,0 +1,20 @@
+Архитектура:         aarch64
+Порядок байт:        Little Endian
+CPU(s):              8
+On-line CPU(s) list: 0-7
+Thread(s) per core:  1
+Ядер на сокет:       2
+Сокетов:             4
+NUMA node(s):        1
+ID прроизводителя:   ARM
+Модель:              3
+Имя модели:          Cortex-A57
+Степпинг:            r1p3
+CPU max MHz:         1500,0000
+CPU min MHz:         500,0000
+BogoMIPS:            100.00
+L1d cache:           unknown size
+L1i cache:           unknown size
+L2 cache:            1024K
+NUMA node0 CPU(s):   0-7
+Флаги:               fp asimd evtstrm crc32 cpuid

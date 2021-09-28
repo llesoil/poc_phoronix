@@ -1,0 +1,20 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/NVIDIA+GeForce+RTX+3090,NVIDIA GeForce RTX 3090,99th,7,7.1 +/- 0.4
+1,/s/AMD+Radeon+RX+6800,AMD Radeon RX 6800,92nd,6,8.4 +/- 0.2
+2,/s/AMD+Radeon+RX+56,AMD Radeon RX 56,89th,5,11.2 +/- 0.5
+3,/s/NVIDIA+GeForce+RTX+3070+Mobile,NVIDIA GeForce RTX 3070 Mobile,85th,11,16.7
+4,/s/Sapphire+AMD+Radeon+RX+550+640SP,Sapphire AMD Radeon RX 550 640SP,81st,5,20.1 +/- 0.1
+6,/s/Sapphire+AMD+Radeon+RX+5500,Sapphire AMD Radeon RX 5500,63rd,3,23.0 +/- 0.4
+7,/s/Intel+Iris+Plus+ICL+GT2,Intel Iris Plus ICL GT2,59th,3,39.8 +/- 0.9
+8,/s/Intel+Xe+TGL+GT2,Intel Xe TGL GT2,57th,4,43.9 +/- 1.6
+9,/s/ASUS+Intel+UHD+630+CML+GT2,ASUS Intel UHD 630 CML GT2,56th,3,53.4 +/- 0.8
+10,/s/Intel+UHD+630+CML+GT2,Intel UHD 630 CML GT2,55th,3,54.7 +/- 0.3
+11,/s/Intel+UHD+620+KBL+GT2,Intel UHD 620 KBL GT2,55th,3,57.6 +/- 0.6
+12,/s/Intel+UHD+620+WHL+GT2,Intel UHD 620 WHL GT2,54th,3,62.1 +/- 0.4
+13,/s/Gigabyte+Intel+HD+630+KBL+GT2,Gigabyte Intel HD 630 KBL GT2,53rd,3,64.3 +/- 1.7
+15,/s/Intel+HD+P630,Intel HD P630,21st,165,67.9 +/- 0.1
+17,/s/Gigabyte+Intel+UHD+630+CML+GT2,Gigabyte Intel UHD 630 CML GT2,5th,3,74.4 +/- 0.1
+18,/s/ASUS+Intel+UHD+630+CFL+GT2,ASUS Intel UHD 630 CFL GT2,4th,4,75.0 +/- 0.3
+19,/s/Intel+UHD+630+CFL+GT2,Intel UHD 630 CFL GT2,3rd,3,76.3 +/- 0.1
+20,/s/MSI+Intel+UHD+630+CFL+GT2,MSI Intel UHD 630 CFL GT2,2nd,3,78.2 +/- 0.1
+21,/s/Intel+HD+530+SKL+GT2,Intel HD 530 SKL GT2,1st,3,82.4 +/- 0.1

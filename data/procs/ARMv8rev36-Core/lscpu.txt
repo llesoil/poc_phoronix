@@ -1,0 +1,16 @@
+Architecture:          aarch64
+Byte Order:            Little Endian
+CPU(s):                6
+On-line CPU(s) list:   0,3-5
+Off-line CPU(s) list:  1,2
+Thread(s) per core:    1
+Core(s) per socket:    4
+Socket(s):             1
+Model name:            ARMv8 Processor rev 3 (v8l)
+CPU max MHz:           2035.2000
+CPU min MHz:           345.6000
+Hypervisor vendor:     (null)
+Virtualization type:   full
+L1d cache:             32K
+L1i cache:             48K
+L2 cache:              2048K

@@ -1,0 +1,18 @@
+Architecture :        i686
+Mode(s) opératoire(s) des processeurs : 32-bit, 64-bit
+Boutisme :            Little Endian
+Processeur(s) :       2
+Liste de processeur(s) en ligne : 0,1
+Thread(s) par cœur : 1
+Cœur(s) par socket : 2
+Socket(s) :           1
+Identifiant constructeur : GenuineIntel
+Famille de processeur : 6
+Modèle :             23
+Révision :           10
+Vitesse du processeur en MHz : 2527.015
+BogoMIPS :            5053.98
+Virtualisation :      VT-x
+Cache L1d :           32K
+Cache L1i :           32K
+Cache L2 :            3072K

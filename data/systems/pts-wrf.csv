@@ -1,0 +1,14 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/2+x+AMD+EPYC+7763+64-Core,2 x AMD EPYC 7763 64-Core,94th,10,8381 +/- 82
+1,/s/2+x+AMD+EPYC+7713+64-Core,2 x AMD EPYC 7713 64-Core,88th,4,8597 +/- 12
+3,/s/Ampere+ARMv8+Neoverse-N1+256-Core,Ampere ARMv8 Neoverse-N1 256-Core,72nd,3,9907 +/- 460
+4,/s/2+x+Intel+Xeon+Platinum+8380,2 x Intel Xeon Platinum 8380,71st,16,10767 +/- 1421
+5,/s/2+x+AMD+EPYC+74F3+24-Core,2 x AMD EPYC 74F3 24-Core,69th,3,11004 +/- 12
+6,/s/2+x+AMD+EPYC+7453+28-Core,2 x AMD EPYC 7453 28-Core,59th,11,11557 +/- 29
+8,/s/2+x+AMD+EPYC+7343+16-Core,2 x AMD EPYC 7343 16-Core,44th,6,13187 +/- 18
+9,/s/2+x+AMD+EPYC+7601+32-Core,2 x AMD EPYC 7601 32-Core,38th,4,15950 +/- 1156
+10,/s/AMD+EPYC+7763+64-Core,AMD EPYC 7763 64-Core,36th,6,16600 +/- 94
+11,/s/2+x+Intel+Xeon+Platinum+8280,2 x Intel Xeon Platinum 8280,27th,3,17446 +/- 2444
+13,/s/Intel+Xeon+Platinum+8380,Intel Xeon Platinum 8380,21st,9,18369 +/- 19
+14,/s/AMD+Ryzen+Threadripper+3990X+64-Core,AMD Ryzen Threadripper 3990X 64-Core,6th,3,33295 +/- 37
+15,/s/Intel+Xeon+Gold+6226R,Intel Xeon Gold 6226R,3rd,4,35453 +/- 113

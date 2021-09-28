@@ -1,0 +1,4 @@
+ERROR: [Loader Message] Code 0 : /usr/lib/x86_64-linux-gnu/libvulkan_radeon.so: wrong ELF class: ELFCLASS64
+ERROR: [Loader Message] Code 0 : /usr/lib/x86_64-linux-gnu/libvulkan_intel.so: wrong ELF class: ELFCLASS64
+error: XDG_RUNTIME_DIR not set in the environment.
+/build/vulkan-tools-CcBAf7/vulkan-tools-1.1.126.0+dfsg1/vulkaninfo/vulkaninfo.h:399: failed with ERROR_INITIALIZATION_FAILED

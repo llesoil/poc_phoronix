@@ -1,0 +1,10 @@
+Architecture:          aarch64
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+每个核的线程数：1
+每个座的核数：  4
+Socket(s):             1
+Model name:            Phytium,FT1500A
+BogoMIPS:              3600.00
+Flags:                 fp asimd evtstrm aes pmull sha1 sha2 crc32

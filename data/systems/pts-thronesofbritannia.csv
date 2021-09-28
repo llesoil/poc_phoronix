@@ -1,0 +1,24 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/NVIDIA+GeForce+RTX+3080,NVIDIA GeForce RTX 3080,99th,3,97
+1,/s/NVIDIA+GeForce+RTX+2080+Ti,NVIDIA GeForce RTX 2080 Ti,98th,6,92 +/- 9
+2,/s/NVIDIA+GeForce+RTX+2080+SUPER,NVIDIA GeForce RTX 2080 SUPER,96th,3,83
+3,/s/NVIDIA+GeForce+GTX+1080+Ti,NVIDIA GeForce GTX 1080 Ti,93rd,5,80 +/- 1
+4,/s/Zotac+NVIDIA+GeForce+RTX+2080,Zotac NVIDIA GeForce RTX 2080,91st,9,78 +/- 3
+5,/s/NVIDIA+GeForce+RTX+2070+SUPER,NVIDIA GeForce RTX 2070 SUPER,90th,3,76
+6,/s/AMD+Vega+20,AMD Vega 20,80th,10,69 +/- 3
+7,/s/NVIDIA+GeForce+RTX+2060+SUPER,NVIDIA GeForce RTX 2060 SUPER,76th,3,68
+9,/s/AMD+Radeon+RX+5700+XT,AMD Radeon RX 5700 XT,73rd,4,67 +/- 4
+10,/s/AMD+Navi+10,AMD Navi 10,73rd,12,67 +/- 3
+11,/s/ASUS+NVIDIA+GeForce+RTX+2070,ASUS NVIDIA GeForce RTX 2070,71st,8,66 +/- 2
+12,/s/AMD+Radeon+RX+5600+OEM,AMD Radeon RX 5600 OEM,67th,19,63 +/- 5
+13,/s/NVIDIA+GeForce+GTX+1080,NVIDIA GeForce GTX 1080,57th,5,59 +/- 4
+14,/s/Sapphire+AMD+Radeon+RX+5600+OEM,Sapphire AMD Radeon RX 5600 OEM,57th,5,58 +/- 1
+15,/s/Sapphire+AMD+Navi+10,Sapphire AMD Navi 10,56th,4,58 +/- 2
+16,/s/AMD+Radeon+RX+64,AMD Radeon RX 64,52nd,17,57 +/- 3
+18,/s/NVIDIA+GeForce+RTX+2060,NVIDIA GeForce RTX 2060,46th,4,56 +/- 1
+19,/s/AMD+Radeon+RX+56,AMD Radeon RX 56,40th,10,54 +/- 4
+20,/s/Zotac+NVIDIA+GeForce+GTX+1070+Ti,Zotac NVIDIA GeForce GTX 1070 Ti,38th,3,53 +/- 4
+21,/s/NVIDIA+GeForce+GTX+1070,NVIDIA GeForce GTX 1070,32nd,4,48 +/- 3
+23,/s/Sapphire+AMD+Radeon+RX+470,Sapphire AMD Radeon RX 470,22nd,23,41 +/- 2
+24,/s/MSI+AMD+Radeon+RX+470,MSI AMD Radeon RX 470,17th,4,37 +/- 1
+25,/s/NVIDIA+GeForce+GTX+1060+6GB,NVIDIA GeForce GTX 1060 6GB,11th,3,34 +/- 2

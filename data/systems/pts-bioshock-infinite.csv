@@ -1,0 +1,9 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/NVIDIA+GeForce+RTX+2080+Ti,NVIDIA GeForce RTX 2080 Ti,92nd,86,168
+2,/s/AMD+Radeon+RX+64,AMD Radeon RX 64,60th,9,139 +/- 7
+3,/s/Sapphire+AMD+Radeon+RX+470,Sapphire AMD Radeon RX 470,51st,4,101 +/- 3
+5,/s/MSI+AMD+Radeon+RX+580,MSI AMD Radeon RX 580,34th,7,93 +/- 3
+6,/s/MSI+AMD+Radeon+RX+470,MSI AMD Radeon RX 470,34th,4,93 +/- 4
+8,/s/NVIDIA+GeForce+GTX+1060+6GB,NVIDIA GeForce GTX 1060 6GB,25th,172,61 +/- 3
+9,/s/AMD+Radeon+RX+580,AMD Radeon RX 580,10th,168,58 +/- 2
+10,/s/XFX+AMD+Radeon+R9+285,XFX AMD Radeon R9 285,2nd,5,19 +/- 3

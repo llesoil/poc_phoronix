@@ -1,0 +1,36 @@
+Architecture :                          x86_64
+Mode(s) opératoire(s) des processeurs : 32-bit, 64-bit
+Boutisme :                              Little Endian
+Tailles des adresses:                   36 bits physical, 48 bits virtual
+Processeur(s) :                         8
+Liste de processeur(s) en ligne :       0-7
+Thread(s) par cœur :                    2
+Cœur(s) par socket :                    4
+Socket(s) :                             1
+Nœud(s) NUMA :                          1
+Identifiant constructeur :              GenuineIntel
+Famille de processeur :                 6
+Modèle :                                58
+Nom de modèle :                         Intel(R) Core(TM) i7-3615QM CPU @ 2.30GHz
+Révision :                              9
+Accroissement de fréquence :            activé
+Vitesse du processeur en MHz :          2301.000
+Vitesse maximale du processeur en MHz : 2301,0000
+Vitesse minimale du processeur en MHz : 1200,0000
+BogoMIPS :                              4589.27
+Virtualisation :                        VT-x
+Cache L1d :                             128 KiB
+Cache L1i :                             128 KiB
+Cache L2 :                              1 MiB
+Cache L3 :                              6 MiB
+Nœud NUMA 0 de processeur(s) :          0-7
+Vulnerability Itlb multihit:            Processor vulnerable
+Vulnerability L1tf:                     Mitigation; PTE Inversion
+Vulnerability Mds:                      Vulnerable; SMT vulnerable
+Vulnerability Meltdown:                 Vulnerable
+Vulnerability Spec store bypass:        Vulnerable
+Vulnerability Spectre v1:               Vulnerable: __user pointer sanitization and usercopy barriers only; no swapgs barriers
+Vulnerability Spectre v2:               Vulnerable, IBPB: disabled, STIBP: disabled
+Vulnerability Srbds:                    Vulnerable: No microcode
+Vulnerability Tsx async abort:          Not affected
+Drapeaux :                              fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid fsgsbase smep erms xsaveopt dtherm ida arat pln pts md_clear flush_l1d

@@ -1,0 +1,21 @@
+Architecture:          x86_64
+Tryb(y) pracy CPU:     32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Wątków na rdzeń:    1
+Rdzeni na gniazdo:     2
+Socket(s):             1
+Węzłów NUMA:        1
+ID producenta:         GenuineIntel
+Rodzina CPU:           6
+Model:                 58
+Wersja:                9
+CPU MHz:               1600.000
+BogoMIPS:              5999.96
+Wirtualizacja:         VT-x
+Cache L1d:             32K
+Cache L1i:             32K
+Cache L2:              256K
+Cache L3:              3072K
+NUMA node0 CPU(s):     0,1

@@ -1,0 +1,20 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/NVIDIA+GeForce+RTX+2080+Ti,NVIDIA GeForce RTX 2080 Ti,93rd,5,89 +/- 3
+1,/s/NVIDIA+GeForce+GTX+1080+Ti,NVIDIA GeForce GTX 1080 Ti,88th,5,68 +/- 2
+2,/s/Zotac+NVIDIA+GeForce+RTX+2080,Zotac NVIDIA GeForce RTX 2080,87th,4,67 +/- 2
+3,/s/AMD+Vega+20,AMD Vega 20,80th,5,59 +/- 2
+5,/s/ASUS+NVIDIA+GeForce+RTX+2070,ASUS NVIDIA GeForce RTX 2070,74th,5,56 +/- 2
+6,/s/AMD+Navi+10,AMD Navi 10,70th,8,53 +/- 4
+7,/s/NVIDIA+GeForce+GTX+1080,NVIDIA GeForce GTX 1080,69th,5,52 +/- 1
+8,/s/AMD+Radeon+RX+64,AMD Radeon RX 64,55th,18,48 +/- 3
+9,/s/NVIDIA+GeForce+RTX+2060,NVIDIA GeForce RTX 2060,53rd,4,48 +/- 1
+11,/s/AMD+Radeon+RX+56,AMD Radeon RX 56,49th,6,47 +/- 4
+12,/s/Zotac+NVIDIA+GeForce+GTX+1070+Ti,Zotac NVIDIA GeForce GTX 1070 Ti,47th,5,46 +/- 1
+13,/s/NVIDIA+GeForce+GTX+1070,NVIDIA GeForce GTX 1070,37th,6,42 +/- 1
+14,/s/NVIDIA+GeForce+GTX+980+Ti,NVIDIA GeForce GTX 980 Ti,32nd,5,39 +/- 1
+15,/s/eVGA+NVIDIA+GeForce+GTX+1660+Ti,eVGA NVIDIA GeForce GTX 1660 Ti,30th,3,39 +/- 1
+17,/s/Sapphire+AMD+Radeon+RX+470,Sapphire AMD Radeon RX 470,19th,14,32 +/- 2
+18,/s/NVIDIA+GeForce+GTX+980,NVIDIA GeForce GTX 980,17th,5,32 +/- 1
+19,/s/NVIDIA+GeForce+GTX+1060,NVIDIA GeForce GTX 1060,12th,5,30
+20,/s/MSI+AMD+Radeon+RX+470,MSI AMD Radeon RX 470,12th,6,30 +/- 1
+21,/s/eVGA+NVIDIA+GeForce+GTX+970,eVGA NVIDIA GeForce GTX 970,6th,3,28

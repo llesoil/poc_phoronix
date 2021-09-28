@@ -1,0 +1,28 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Core+i9-11900K,Intel Core i9-11900K,99th,5,29
+1,/s/AMD+EPYC+72F3+8-Core,AMD EPYC 72F3 8-Core,93rd,3,31 +/- 1
+2,/s/AMD+Ryzen+9+5900X+12-Core,AMD Ryzen 9 5900X 12-Core,90th,4,32
+3,/s/Intel+Core+i7-1165G7,Intel Core i7-1165G7,90th,3,32 +/- 2
+4,/s/AMD+Ryzen+Threadripper+3970X+32-Core,AMD Ryzen Threadripper 3970X 32-Core,86th,3,34 +/- 1
+5,/s/AMD+EPYC+7543+32-Core,AMD EPYC 7543 32-Core,83rd,4,34
+7,/s/Intel+Core+i7-1065G7,Intel Core i7-1065G7,74th,4,36 +/- 1
+8,/s/AMD+Ryzen+Threadripper+3990X+64-Core,AMD Ryzen Threadripper 3990X 64-Core,74th,6,36
+9,/s/Intel+Core+i5-10600K,Intel Core i5-10600K,63rd,3,37
+10,/s/Intel+Core+i7-8700K,Intel Core i7-8700K,59th,3,38 +/- 1
+11,/s/Intel+Xeon+E-2288G,Intel Xeon E-2288G,59th,4,38
+12,/s/2+x+AMD+EPYC+7763+64-Core,2 x AMD EPYC 7763 64-Core,53rd,8,40 +/- 3
+13,/s/Intel+Core+i9-10980XE,Intel Core i9-10980XE,53rd,4,40 +/- 2
+14,/s/AMD+Ryzen+9+5900HX,AMD Ryzen 9 5900HX,52nd,4,40 +/- 1
+16,/s/Intel+Xeon+E3-1275+v6,Intel Xeon E3-1275 v6,38th,3,43 +/- 1
+17,/s/2+x+Intel+Xeon+Platinum+8380,2 x Intel Xeon Platinum 8380,38th,4,44 +/- 3
+18,/s/Intel+Xeon+Gold+6226R,Intel Xeon Gold 6226R,36th,3,44
+19,/s/AMD+Ryzen+7+4700U,AMD Ryzen 7 4700U,31st,3,46 +/- 1
+20,/s/2+x+Intel+Xeon+Platinum+8280,2 x Intel Xeon Platinum 8280,29th,3,46
+22,/s/Intel+Core+i7-10700T,Intel Core i7-10700T,25th,3,47 +/- 1
+23,/s/AMD+Ryzen+5+4500U,AMD Ryzen 5 4500U,23rd,3,47 +/- 1
+24,/s/AMD+Ryzen+5+5500U,AMD Ryzen 5 5500U,21st,4,48 +/- 1
+25,/s/2+x+Intel+Xeon+Gold+5220R,2 x Intel Xeon Gold 5220R,19th,3,48 +/- 1
+26,/s/Intel+Core+i7-8565U,Intel Core i7-8565U,15th,3,51
+27,/s/Intel+Core+i7-8550U,Intel Core i7-8550U,10th,3,53 +/- 2
+28,/s/Intel+Xeon+E3-1235L+v5,Intel Xeon E3-1235L v5,7th,3,60
+29,/s/AMD+FX-8150+Eight-Core,AMD FX-8150 Eight-Core,4th,3,131 +/- 3

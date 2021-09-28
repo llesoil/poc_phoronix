@@ -1,0 +1,16 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Radeon+RX+6800,AMD Radeon RX 6800,100th,6,350 +/- 21
+1,/s/NVIDIA+GeForce+GTX+1080,NVIDIA GeForce GTX 1080,93rd,3,286 +/- 32
+2,/s/NVIDIA+GeForce+RTX+2080+SUPER,NVIDIA GeForce RTX 2080 SUPER,93rd,4,284 +/- 26
+3,/s/Gigabyte+NVIDIA+GeForce+RTX+2070+SUPER,Gigabyte NVIDIA GeForce RTX 2070 SUPER,93rd,254,281 +/- 5
+4,/s/Gigabyte+AMD+Radeon+RX+470,Gigabyte AMD Radeon RX 470,78th,3,266 +/- 4
+6,/s/eVGA+NVIDIA+GeForce+GTX+1060,eVGA NVIDIA GeForce GTX 1060,70th,3,250 +/- 14
+7,/s/MSI+NVIDIA+GeForce+RTX+3070,MSI NVIDIA GeForce RTX 3070,63rd,6,235 +/- 28
+8,/s/ASUS+NVIDIA+GeForce+GTX+1650,ASUS NVIDIA GeForce GTX 1650,61st,4,206 +/- 25
+9,/s/MSI+NVIDIA+GeForce+RTX+2070,MSI NVIDIA GeForce RTX 2070,61st,12,204 +/- 6
+11,/s/ASUS+NVIDIA+GeForce+GTX+1070,ASUS NVIDIA GeForce GTX 1070,39th,255,160 +/- 1
+12,/s/Sapphire+AMD+Radeon+R9+290,Sapphire AMD Radeon R9 290,26th,6,159 +/- 17
+14,/s/Sapphire+AMD+Radeon+RX+470,Sapphire AMD Radeon RX 470,18th,94,127 +/- 7
+15,/s/Zotac+NVIDIA+GeForce+GTX+970,Zotac NVIDIA GeForce GTX 970,18th,3,116
+16,/s/Gigabyte+NVIDIA+GeForce+GTX+960,Gigabyte NVIDIA GeForce GTX 960,10th,84,76
+17,/s/Intel+HD+530,Intel HD 530,8th,85,0.2

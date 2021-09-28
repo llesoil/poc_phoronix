@@ -1,0 +1,6 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Ryzen+9+5950X+16-Core,AMD Ryzen 9 5950X 16-Core,94th,3,24936 +/- 305
+1,/s/AMD+Ryzen+9+5900X+12-Core,AMD Ryzen 9 5900X 12-Core,82nd,8,21053 +/- 138
+3,/s/AMD+Ryzen+5+PRO+4650G,AMD Ryzen 5 PRO 4650G,65th,5,9192 +/- 70
+5,/s/Intel+Core+i7-8700B,Intel Core i7-8700B,44th,8,7678 +/- 142
+6,/s/AMD+Ryzen+5+PRO+4650U,AMD Ryzen 5 PRO 4650U,30th,3,6630 +/- 122

@@ -1,0 +1,22 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/NVIDIA+GeForce+RTX+3090,NVIDIA GeForce RTX 3090,88th,97,306 +/- 10
+1,/s/AMD+Radeon+RX+6800+XT,AMD Radeon RX 6800 XT,86th,4,224 +/- 12
+2,/s/NVIDIA+GeForce+RTX+3070+Ti,NVIDIA GeForce RTX 3070 Ti,85th,3,214
+3,/s/AMD+Radeon+RX+6800,AMD Radeon RX 6800,84th,8,209 +/- 11
+4,/s/NVIDIA+GeForce+RTX+3070,NVIDIA GeForce RTX 3070,83rd,3,202
+5,/s/NVIDIA+GeForce+RTX+3060+Ti,NVIDIA GeForce RTX 3060 Ti,82nd,3,186
+6,/s/AMD+Radeon+RX+6700+XT,AMD Radeon RX 6700 XT,82nd,4,184 +/- 8
+7,/s/NVIDIA+GeForce+RTX+2070+SUPER,NVIDIA GeForce RTX 2070 SUPER,81st,3,151
+8,/s/eVGA+NVIDIA+GeForce+RTX+3060,eVGA NVIDIA GeForce RTX 3060,80th,5,148 +/- 1
+9,/s/AMD+Radeon+RX+6600+XT,AMD Radeon RX 6600 XT,80th,4,148 +/- 2
+10,/s/NVIDIA+GeForce+RTX+2060+SUPER,NVIDIA GeForce RTX 2060 SUPER,79th,3,140
+12,/s/NVIDIA+GeForce+RTX+2060,NVIDIA GeForce RTX 2060,15th,3,115
+14,/s/NVIDIA+Quadro+RTX+4000,NVIDIA Quadro RTX 4000,14th,4,111 +/- 3
+15,/s/AMD+Radeon+RX+56,AMD Radeon RX 56,13th,10,100 +/- 2
+16,/s/eVGA+NVIDIA+GeForce+GTX+1660+SUPER,eVGA NVIDIA GeForce GTX 1660 SUPER,12th,3,98
+17,/s/AMD+Radeon+RX+5600+OEM,AMD Radeon RX 5600 OEM,10th,19,93 +/- 6
+18,/s/Sapphire+AMD+Radeon+RX+5600+OEM,Sapphire AMD Radeon RX 5600 OEM,9th,4,86
+19,/s/Sapphire+AMD+Radeon+RX+5500,Sapphire AMD Radeon RX 5500,7th,4,71
+20,/s/Sapphire+AMD+Radeon+RX+470,Sapphire AMD Radeon RX 470,6th,8,64 +/- 9
+21,/s/NVIDIA+GeForce+GTX+1060,NVIDIA GeForce GTX 1060,6th,3,49
+22,/s/Sapphire+AMD+Radeon+RX+550+640SP,Sapphire AMD Radeon RX 550 640SP,5th,5,33

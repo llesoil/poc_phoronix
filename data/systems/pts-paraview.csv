@@ -1,0 +1,52 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Radeon+RX+6800+XT,AMD Radeon RX 6800 XT,100th,3,5524 +/- 17
+1,/s/NVIDIA+GeForce+RTX+3080,NVIDIA GeForce RTX 3080,100th,4,5374
+2,/s/NVIDIA+GeForce+RTX+2080+Ti,NVIDIA GeForce RTX 2080 Ti,100th,4,4691
+3,/s/NVIDIA+GeForce+RTX+2080+SUPER,NVIDIA GeForce RTX 2080 SUPER,99th,4,4226
+4,/s/AMD+Radeon+RX+6800,AMD Radeon RX 6800,99th,4,3952 +/- 67
+5,/s/Zotac+NVIDIA+GeForce+RTX+2080,Zotac NVIDIA GeForce RTX 2080,97th,3,3833
+6,/s/NVIDIA+GeForce+RTX+2070+SUPER,NVIDIA GeForce RTX 2070 SUPER,96th,4,3691
+7,/s/AMD+Radeon+RX+5600+OEM,AMD Radeon RX 5600 OEM,96th,25,3581 +/- 220
+8,/s/Sapphire+AMD+Radeon+RX+5600+OEM,Sapphire AMD Radeon RX 5600 OEM,80th,192,3456 +/- 13
+10,/s/AMD+Radeon+RX+56,AMD Radeon RX 56,59th,3,3216 +/- 5
+11,/s/NVIDIA+GeForce+RTX+3060+Ti,NVIDIA GeForce RTX 3060 Ti,59th,4,3145 +/- 16
+12,/s/NVIDIA+GeForce+RTX+2060+SUPER,NVIDIA GeForce RTX 2060 SUPER,57th,4,2863
+13,/s/NVIDIA+Quadro+RTX+5000+with+Max-Q+Design,NVIDIA Quadro RTX 5000 with Max-Q Design,57th,13,2848 +/- 61
+14,/s/ASUS+NVIDIA+GeForce+RTX+2070,ASUS NVIDIA GeForce RTX 2070,57th,3,2839
+15,/s/NVIDIA+GeForce+GTX+1080,NVIDIA GeForce GTX 1080,56th,3,2783
+16,/s/Sapphire+AMD+Radeon+RX+470,Sapphire AMD Radeon RX 470,56th,9,2751 +/- 342
+17,/s/NVIDIA+Quadro+RTX+4000,NVIDIA Quadro RTX 4000,55th,4,2715 +/- 15
+18,/s/MSI+AMD+Radeon+RX+470,MSI AMD Radeon RX 470,55th,3,2644 +/- 15
+19,/s/AMD+Radeon+RX+470,AMD Radeon RX 470,54th,3,2451 +/- 3
+20,/s/NVIDIA+GeForce+RTX+2060,NVIDIA GeForce RTX 2060,54th,7,2352 +/- 332
+21,/s/Gigabyte+AMD+Radeon+RX+470,Gigabyte AMD Radeon RX 470,54th,3,2213 +/- 3
+22,/s/Sapphire+AMD+Radeon+RX+5500,Sapphire AMD Radeon RX 5500,53rd,6,1943 +/- 1
+23,/s/Gigabyte+AMD+Radeon+RX+5500,Gigabyte AMD Radeon RX 5500,52nd,3,1869 +/- 11
+24,/s/XFX+AMD+Radeon+R9+285,XFX AMD Radeon R9 285,52nd,3,1606 +/- 3
+25,/s/Sapphire+AMD+Radeon+RX+550+640SP,Sapphire AMD Radeon RX 550 640SP,52nd,4,1228 +/- 1
+26,/s/AMD+Radeon+RX+460,AMD Radeon RX 460,51st,4,1036 +/- 1
+27,/s/MSI+AMD+Radeon+R7+370,MSI AMD Radeon R7 370,51st,3,1035 +/- 1
+29,/s/Gigabyte+AMD+Radeon+540,Gigabyte AMD Radeon 540,50th,5,865
+30,/s/ASUS+AMD+Radeon+HD+7850,ASUS AMD Radeon HD 7850,50th,4,864 +/- 1
+31,/s/NVIDIA+GeForce+RTX+3090,NVIDIA GeForce RTX 3090,39th,130,628
+32,/s/Intel+Iris+Plus+G7,Intel Iris Plus G7,28th,90,425
+34,/s/HIS+AMD+Radeon+HD+7750,HIS AMD Radeon HD 7750,20th,3,423
+35,/s/ASUS+Intel+UHD+630,ASUS Intel UHD 630,19th,14,398 +/- 3
+36,/s/Intel+UHD+630,Intel UHD 630,18th,3,396 +/- 1
+37,/s/Intel+CometLake-S+GT2,Intel CometLake-S GT2,18th,3,393 +/- 1
+38,/s/MSI+Intel+Iris+Pro+6200,MSI Intel Iris Pro 6200,17th,3,365
+39,/s/MSI+Intel+UHD+630,MSI Intel UHD 630,17th,3,358
+40,/s/Intel+8th+Gen+Core+Gaussian+Mixture+Model,Intel 8th Gen Core Gaussian Mixture Model,16th,4,351
+41,/s/Intel+UHD+620,Intel UHD 620,16th,6,343 +/- 10
+42,/s/Gigabyte+Intel+UHD+630,Gigabyte Intel UHD 630,16th,3,342
+43,/s/Gigabyte+Intel+HD+530,Gigabyte Intel HD 530,15th,3,333 +/- 1
+44,/s/Intel+UHD+P630,Intel UHD P630,14th,7,317
+45,/s/Intel+HD+530,Intel HD 530,14th,3,314
+46,/s/Gigabyte+Intel+HD+630,Gigabyte Intel HD 630,14th,7,305 +/- 31
+47,/s/Gigabyte+Intel+HD+4600,Gigabyte Intel HD 4600,13th,4,258 +/- 3
+48,/s/Intel+HD+5500,Intel HD 5500,13th,3,248 +/- 1
+49,/s/Intel+HD+630,Intel HD 630,12th,84,232
+50,/s/MSI+Intel+HD+4600,MSI Intel HD 4600,4th,3,230
+51,/s/AMD+FirePro+V4800,AMD FirePro V4800,3rd,3,152
+52,/s/AMD+FirePro+V3800,AMD FirePro V3800,3rd,3,102
+53,/s/HIS+AMD+Radeon+HD+6450,HIS AMD Radeon HD 6450,2nd,6,76 +/- 4

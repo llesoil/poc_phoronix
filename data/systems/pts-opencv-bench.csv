@@ -1,0 +1,34 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Core+i9-9900K,Intel Core i9-9900K,96th,4,62
+1,/s/AMD+Ryzen+9+3900X+12-Core,AMD Ryzen 9 3900X 12-Core,95th,6,63 +/- 2
+2,/s/AMD+Ryzen+Threadripper+PRO+3955WX+16-Cores,AMD Ryzen Threadripper PRO 3955WX 16-Cores,92nd,3,67 +/- 1
+3,/s/Intel+Core+i7-8086K,Intel Core i7-8086K,91st,3,68
+4,/s/AMD+Ryzen+7+2700X+Eight-Core,AMD Ryzen 7 2700X Eight-Core,87th,3,73 +/- 2
+5,/s/AMD+Ryzen+Threadripper+1950X+16-Core,AMD Ryzen Threadripper 1950X 16-Core,87th,5,73 +/- 8
+6,/s/Intel+Core+i7-8565U,Intel Core i7-8565U,86th,5,74 +/- 9
+7,/s/AMD+Ryzen+Threadripper+2950X+16-Core,AMD Ryzen Threadripper 2950X 16-Core,84th,7,76 +/- 4
+8,/s/Intel+Core+i9-7980XE,Intel Core i9-7980XE,77th,5,81 +/- 1
+10,/s/AMD+Ryzen+Threadripper+2990WX+32-Core,AMD Ryzen Threadripper 2990WX 32-Core,74th,9,85 +/- 9
+11,/s/Intel+Xeon+Platinum+8280,Intel Xeon Platinum 8280,69th,3,88
+12,/s/AMD+EPYC+7232P+8-Core,AMD EPYC 7232P 8-Core,67th,3,89
+13,/s/2+x+AMD+EPYC+7252+8-Core,2 x AMD EPYC 7252 8-Core,63rd,3,90 +/- 1
+14,/s/2+x+Intel+Xeon+E5-2680+v2,2 x Intel Xeon E5-2680 v2,54th,4,94
+15,/s/2+x+AMD+EPYC+7502+32-Core,2 x AMD EPYC 7502 32-Core,53rd,3,95 +/- 1
+17,/s/Intel+Xeon+Gold+5218,Intel Xeon Gold 5218,50th,6,97 +/- 2
+18,/s/2+x+AMD+EPYC+7742+64-Core,2 x AMD EPYC 7742 64-Core,48th,10,98 +/- 3
+19,/s/2+x+Intel+Xeon+Platinum+8280,2 x Intel Xeon Platinum 8280,42nd,15,102 +/- 12
+20,/s/Intel+Xeon+Silver+4216,Intel Xeon Silver 4216,41st,6,104 +/- 13
+21,/s/Intel+Core+i7-5600U,Intel Core i7-5600U,39th,3,105 +/- 1
+22,/s/Intel+Core+i7-7500U,Intel Core i7-7500U,35th,3,109 +/- 15
+23,/s/AMD+EPYC+7601+32-Core,AMD EPYC 7601 32-Core,34th,4,111 +/- 1
+24,/s/Intel+Xeon+Platinum+8253,Intel Xeon Platinum 8253,28th,3,116
+25,/s/AMD+EPYC+7551+32-Core,AMD EPYC 7551 32-Core,26th,3,118 +/- 1
+27,/s/2+x+AMD+EPYC+7601+32-Core,2 x AMD EPYC 7601 32-Core,25th,11,119 +/- 2
+28,/s/ARMv8+rev+0+8-Core,ARMv8 rev 0 8-Core,21st,4,130 +/- 10
+29,/s/Intel+Core+m3-7Y30,Intel Core m3-7Y30,20th,5,138 +/- 2
+30,/s/POWER9+44-Core,POWER9 44-Core,19th,3,146 +/- 2
+31,/s/Ampere+eMAG+ARMv8+32-Core,Ampere eMAG ARMv8 32-Core,17th,4,196
+32,/s/ARMv8+Cortex-A73+8-Core,ARMv8 Cortex-A73 8-Core,14th,4,246 +/- 3
+33,/s/Rockchip+ARMv8+Cortex-A72+6-Core,Rockchip ARMv8 Cortex-A72 6-Core,10th,6,378 +/- 20
+34,/s/ARMv8+Cortex-A53+4-Core,ARMv8 Cortex-A53 4-Core,7th,3,520 +/- 63
+35,/s/Rockchip+ARMv8+Cortex-A53+4-Core,Rockchip ARMv8 Cortex-A53 4-Core,6th,3,522 +/- 1

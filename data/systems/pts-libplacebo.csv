@@ -1,0 +1,9 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Radeon+RX+56,AMD Radeon RX 56,98th,6,423 +/- 48
+1,/s/AMD+Radeon+RX+5600+OEM,AMD Radeon RX 5600 OEM,95th,3,353 +/- 2
+2,/s/Gigabyte+AMD+Radeon+RX+470,Gigabyte AMD Radeon RX 470,92nd,3,192
+3,/s/Gigabyte+AMD+Radeon+RX+5500,Gigabyte AMD Radeon RX 5500,91st,3,187 +/- 2
+4,/s/Intel+Iris+Plus+G7,Intel Iris Plus G7,78th,3,68
+5,/s/i915drmfb,i915drmfb,77th,84,44
+7,/s/Intel+UHD+620,Intel UHD 620,11th,6,41 +/- 2
+9,/s/Intel+HD+5500,Intel HD 5500,9th,3,39

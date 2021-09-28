@@ -1,0 +1,19 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Zotac+NVIDIA+GeForce+GTX+780,Zotac NVIDIA GeForce GTX 780,95th,24,229 +/- 12
+1,/s/AMD+Radeon+HD+6900,AMD Radeon HD 6900,88th,15,165 +/- 9
+2,/s/AMD+Radeon+HD+7900,AMD Radeon HD 7900,86th,4,159 +/- 16
+3,/s/ATI+Radeon+HD+5800,ATI Radeon HD 5800,80th,5,142 +/- 10
+4,/s/Sapphire+AMD+Radeon+HD+6700,Sapphire AMD Radeon HD 6700,76th,3,131 +/- 8
+6,/s/AMD+Radeon+HD+4850,AMD Radeon HD 4850,65th,8,88 +/- 8
+7,/s/Sapphire+AMD+Radeon+HD+4830,Sapphire AMD Radeon HD 4830,61st,4,81 +/- 9
+8,/s/AMD+Radeon+HD+6950,AMD Radeon HD 6950,59th,3,77 +/- 6
+10,/s/AMD+Radeon+HD+4890,AMD Radeon HD 4890,50th,8,54 +/- 3
+11,/s/Sapphire+AMD+Radeon+HD+4670,Sapphire AMD Radeon HD 4670,46th,5,45 +/- 6
+12,/s/ASUS+AMD+Radeon+R7,ASUS AMD Radeon R7,46th,4,44
+13,/s/Sapphire+AMD+Radeon+HD+4650,Sapphire AMD Radeon HD 4650,44th,4,42 +/- 6
+14,/s/Intel+HD+4000,Intel HD 4000,35th,3,32 +/- 3
+15,/s/AMD+Radeon+HD+3850,AMD Radeon HD 3850,32nd,5,31 +/- 3
+17,/s/AMD+Radeon+X1800,AMD Radeon X1800,17th,9,21 +/- 3
+18,/s/Intel+2nd+Generation+Core+Family+IGP,Intel 2nd Generation Core Family IGP,15th,5,20 +/- 3
+19,/s/Intel+HD+2000,Intel HD 2000,13th,5,19 +/- 2
+20,/s/Intel+3rd+Gen+Core,Intel 3rd Gen Core,13th,9,19 +/- 1

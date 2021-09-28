@@ -1,0 +1,20 @@
+Arquitectura:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Orden de bytes:        Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Hilo(s) por núcleo:   1
+Núcleo(s) por zócalo:2
+Socket(s):             1
+Nodo(s) NUMA:          1
+ID del vendedor:       AuthenticAMD
+Familia de CPU:        20
+Modelo:                2
+Stepping:              0
+CPU MHz:               822.000
+BogoMIPS:              2954.63
+Virtualización:       AMD-V
+caché L1d:            32K
+caché L1i:            32K
+caché L2:             512K
+NUMA node0 CPU(s):     0,1

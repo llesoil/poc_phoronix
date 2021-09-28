@@ -1,0 +1,24 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) pro Kern:    1
+Kern(e) pro Socket:    4
+Socket(s):             1
+NUMA-Knoten:           1
+Anbieterkennung:       GenuineIntel
+Prozessorfamilie:      6
+Modell:                60
+Model name:            Intel(R) Core(TM) i5-4590T CPU @ 2.00GHz
+Stepping:              3
+CPU MHz:               2064.375
+CPU max MHz:           3000.0000
+CPU min MHz:           800.0000
+BogoMIPS:              3990.54
+Virtualisierung:       VT-x
+L1d Cache:             32K
+L1i Cache:             32K
+L2 Cache:              256K
+L3 Cache:              6144K
+NUMA node0 CPU(s):     0-3

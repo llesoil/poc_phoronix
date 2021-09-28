@@ -1,0 +1,61 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Ryzen+9+5900HX,AMD Ryzen 9 5900HX,99th,3,11.5 +/- 0.1
+1,/s/AMD+Ryzen+5+5600G,AMD Ryzen 5 5600G,98th,6,11.8 +/- 0.4
+2,/s/Intel+Core+i7-1165G7,Intel Core i7-1165G7,97th,6,14.4 +/- 1.8
+3,/s/AMD+Ryzen+9+5900X+12-Core,AMD Ryzen 9 5900X 12-Core,97th,16,15.0 +/- 1.7
+4,/s/AMD+Ryzen+9+5950X+16-Core,AMD Ryzen 9 5950X 16-Core,97th,16,15.1 +/- 1.6
+5,/s/AMD+Ryzen+7+5800X+8-Core,AMD Ryzen 7 5800X 8-Core,96th,7,15.1 +/- 1.7
+6,/s/AMD+Ryzen+5+5600X+6-Core,AMD Ryzen 5 5600X 6-Core,96th,10,15.2 +/- 2.0
+7,/s/Intel+Core+i9-10900K,Intel Core i9-10900K,89th,24,16.1 +/- 0.3
+8,/s/Intel+Core+i9-10980XE,Intel Core i9-10980XE,87th,12,16.9 +/- 1.9
+9,/s/Intel+Core+i9-9900KS,Intel Core i9-9900KS,86th,6,16.9 +/- 0.1
+10,/s/Intel+Core+i9-9900K,Intel Core i9-9900K,86th,9,17.0
+11,/s/Intel+Core+i5-10600K,Intel Core i5-10600K,84th,11,17.3 +/- 0.1
+12,/s/AMD+Ryzen+7+3800XT+8-Core,AMD Ryzen 7 3800XT 8-Core,81st,6,17.8 +/- 0.1
+13,/s/Intel+Core+i7-8700K,Intel Core i7-8700K,81st,3,17.8 +/- 0.2
+14,/s/AMD+Ryzen+9+3900XT+12-Core,AMD Ryzen 9 3900XT 12-Core,78th,8,18.4 +/- 0.2
+15,/s/AMD+Ryzen+9+3950X+16-Core,AMD Ryzen 9 3950X 16-Core,78th,8,18.4 +/- 0.1
+17,/s/AMD+Ryzen+9+3900X+12-Core,AMD Ryzen 9 3900X 12-Core,75th,11,18.7 +/- 0.7
+18,/s/AMD+Ryzen+3+3300X+4-Core,AMD Ryzen 3 3300X 4-Core,63rd,4,18.8 +/- 0.1
+19,/s/Intel+Core+i7-7700K,Intel Core i7-7700K,51st,3,18.8
+21,/s/Intel+Core+i7-9850H,Intel Core i7-9850H,50th,3,18.9 +/- 0.5
+22,/s/AMD+Ryzen+Threadripper+3960X+24-Core,AMD Ryzen Threadripper 3960X 24-Core,50th,4,18.9 +/- 0.3
+23,/s/AMD+Ryzen+7+3700X+8-Core,AMD Ryzen 7 3700X 8-Core,50th,6,18.9 +/- 0.2
+24,/s/AMD+Ryzen+Threadripper+3970X+32-Core,AMD Ryzen Threadripper 3970X 32-Core,50th,14,19.0 +/- 0.6
+25,/s/Intel+Core+i7-4790K,Intel Core i7-4790K,48th,3,19.2
+26,/s/Intel+Core+i7-7900X,Intel Core i7-7900X,47th,3,19.3 +/- 0.1
+27,/s/Intel+Core+i7-1065G7,Intel Core i7-1065G7,46th,11,19.4 +/- 2.5
+28,/s/Intel+Core+i3-10100,Intel Core i3-10100,46th,5,19.4
+29,/s/Intel+Core+i7-9750H,Intel Core i7-9750H,45th,4,19.5 +/- 0.3
+30,/s/AMD+Ryzen+5+3600X+6-Core,AMD Ryzen 5 3600X 6-Core,45th,9,19.6 +/- 1.0
+31,/s/AMD+Ryzen+7+4700U,AMD Ryzen 7 4700U,43rd,4,20.2 +/- 0.9
+32,/s/Intel+Core+i5-7600K,Intel Core i5-7600K,43rd,5,20.2
+33,/s/Intel+Core+i5-9400F,Intel Core i5-9400F,41st,4,20.7
+34,/s/AMD+Ryzen+3+3100+4-Core,AMD Ryzen 3 3100 4-Core,28th,4,21.1 +/- 0.3
+35,/s/Intel+Core+i5-8400,Intel Core i5-8400,27th,3,21.3 +/- 0.1
+36,/s/Intel+Core+i3-7100,Intel Core i3-7100,26th,4,21.3 +/- 0.3
+38,/s/Intel+Xeon+E3-1280+v5,Intel Xeon E3-1280 v5,25th,3,21.5 +/- 0.3
+39,/s/2+x+Intel+Xeon+Platinum+8280,2 x Intel Xeon Platinum 8280,25th,3,21.7 +/- 0.3
+40,/s/Intel+Pentium+Gold+G6400,Intel Pentium Gold G6400,23rd,5,22.2
+41,/s/AMD+EPYC+7F72+24-Core,AMD EPYC 7F72 24-Core,23rd,4,22.2 +/- 0.6
+42,/s/Intel+Core+i5-4670,Intel Core i5-4670,21st,5,22.7 +/- 0.1
+43,/s/Intel+Xeon+E3-1260L+v5,Intel Xeon E3-1260L v5,21st,3,22.9 +/- 0.1
+44,/s/Intel+Core+i3-8100,Intel Core i3-8100,19th,6,23.4
+45,/s/Intel+Core+i5-6500,Intel Core i5-6500,18th,3,23.5 +/- 0.1
+46,/s/AMD+Ryzen+5+2600+Six-Core,AMD Ryzen 5 2600 Six-Core,18th,3,23.6 +/- 0.3
+47,/s/AMD+Ryzen+3+2200G,AMD Ryzen 3 2200G,15th,6,24.6 +/- 2.2
+48,/s/AMD+Ryzen+3+1300X,AMD Ryzen 3 1300X,15th,3,24.8 +/- 0.1
+49,/s/Intel+Core+i7-5960X,Intel Core i7-5960X,14th,4,24.8
+50,/s/Intel+Core+i7-6700HQ,Intel Core i7-6700HQ,14th,4,24.9 +/- 0.3
+51,/s/AMD+Ryzen+7+1700+Eight-Core,AMD Ryzen 7 1700 Eight-Core,12th,3,25.4 +/- 0.2
+52,/s/Intel+Core+i7-4960X,Intel Core i7-4960X,12th,3,25.5 +/- 0.1
+53,/s/Intel+Core+i3-4130,Intel Core i3-4130,10th,4,25.8 +/- 0.3
+54,/s/Intel+Celeron+G5900,Intel Celeron G5900,9th,5,26.2
+55,/s/Intel+Core+i7-2700K,Intel Core i7-2700K,9th,3,26.3 +/- 0.2
+56,/s/Intel+Core+i7-4558U,Intel Core i7-4558U,8th,3,26.5 +/- 0.1
+57,/s/Intel+Core+i5-2500K,Intel Core i5-2500K,7th,3,26.9 +/- 0.7
+58,/s/Intel+Core+i5-3470,Intel Core i5-3470,6th,3,28.0 +/- 0.3
+59,/s/Intel+Core+i7-3517U,Intel Core i7-3517U,4th,3,35.8
+60,/s/AMD+A10-7870K+Radeon+R7+12+Compute+Cores+4C,AMD A10-7870K Radeon R7 12 Compute Cores 4C,4th,3,36.2 +/- 0.1
+61,/s/AMD+A10-7850K+APU,AMD A10-7850K APU,3rd,3,38.5
+62,/s/POWER9+44-Core,POWER9 44-Core,2nd,6,45.1

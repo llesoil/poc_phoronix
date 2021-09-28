@@ -1,0 +1,34 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Core+i9-11900K,Intel Core i9-11900K,100th,4,5.62
+1,/s/Intel+Core+i7-1165G7,Intel Core i7-1165G7,94th,6,5.06 +/- 0.05
+2,/s/AMD+Ryzen+9+5900X+12-Core,AMD Ryzen 9 5900X 12-Core,92nd,6,4.92 +/- 0.22
+3,/s/AMD+Ryzen+9+5950X+16-Core,AMD Ryzen 9 5950X 16-Core,90th,3,4.82 +/- 0.08
+4,/s/AMD+Ryzen+9+5900HX,AMD Ryzen 9 5900HX,86th,6,4.70 +/- 0.03
+5,/s/AMD+Ryzen+7+5700G,AMD Ryzen 7 5700G,82nd,4,4.66 +/- 0.01
+6,/s/AMD+Ryzen+5+5600G,AMD Ryzen 5 5600G,79th,3,4.53 +/- 0.02
+7,/s/AMD+EPYC+72F3+8-Core,AMD EPYC 72F3 8-Core,77th,3,4.45
+9,/s/Intel+Core+i7-1065G7,Intel Core i7-1065G7,74th,3,4.32 +/- 0.01
+10,/s/Intel+Core+i7-8700K,Intel Core i7-8700K,73rd,4,4.26 +/- 0.01
+11,/s/Intel+Core+i9-10980XE,Intel Core i9-10980XE,73rd,4,4.26
+12,/s/AMD+Ryzen+9+3900XT+12-Core,AMD Ryzen 9 3900XT 12-Core,65th,5,4.11 +/- 0.08
+13,/s/AMD+Ryzen+Threadripper+3970X+32-Core,AMD Ryzen Threadripper 3970X 32-Core,63rd,3,4.07 +/- 0.04
+14,/s/AMD+EPYC+7543+32-Core,AMD EPYC 7543 32-Core,58th,6,4.03 +/- 0.01
+15,/s/AMD+Ryzen+9+3950X+16-Core,AMD Ryzen 9 3950X 16-Core,55th,4,4.00 +/- 0.09
+16,/s/AMD+Ryzen+Threadripper+3990X+64-Core,AMD Ryzen Threadripper 3990X 64-Core,53rd,4,3.95 +/- 0.02
+18,/s/AMD+Ryzen+7+4700U,AMD Ryzen 7 4700U,50th,3,3.88 +/- 0.02
+19,/s/2+x+Intel+Xeon+Platinum+8380,2 x Intel Xeon Platinum 8380,49th,5,3.82 +/- 0.01
+20,/s/Intel+Core+i5-7600K,Intel Core i5-7600K,49th,4,3.82 +/- 0.01
+21,/s/Intel+Xeon+E3-1275+v6,Intel Xeon E3-1275 v6,41st,3,3.80 +/- 0.01
+22,/s/AMD+Ryzen+5+5500U,AMD Ryzen 5 5500U,38th,3,3.77 +/- 0.01
+23,/s/Intel+Core+i7-8565U,Intel Core i7-8565U,36th,4,3.75 +/- 0.01
+24,/s/Intel+Xeon+E3-1270+v5,Intel Xeon E3-1270 v5,33rd,4,3.73 +/- 0.01
+25,/s/AMD+Ryzen+5+4500U,AMD Ryzen 5 4500U,30th,3,3.69 +/- 0.01
+26,/s/2+x+AMD+EPYC+7763+64-Core,2 x AMD EPYC 7763 64-Core,27th,5,3.66 +/- 0.01
+27,/s/2+x+Intel+Xeon+Platinum+8280,2 x Intel Xeon Platinum 8280,27th,5,3.66
+29,/s/Intel+Core+i7-10700T,Intel Core i7-10700T,21st,4,3.60 +/- 0.01
+30,/s/Intel+Core+i7-8550U,Intel Core i7-8550U,19th,3,3.58
+31,/s/Intel+Xeon+Gold+6226R,Intel Xeon Gold 6226R,16th,3,3.57 +/- 0.01
+32,/s/Intel+Core+i7-4770K,Intel Core i7-4770K,13th,4,3.53 +/- 0.01
+33,/s/2+x+Intel+Xeon+Gold+5220R,2 x Intel Xeon Gold 5220R,11th,3,3.49
+34,/s/AMD+Ryzen+3+3200U,AMD Ryzen 3 3200U,8th,3,2.54 +/- 0.01
+35,/s/AMD+FX-8150+Eight-Core,AMD FX-8150 Eight-Core,5th,5,1.24

@@ -1,0 +1,7 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Radeon+RX+5700+XT,AMD Radeon RX 5700 XT,80th,252,11339
+2,/s/AMD+Radeon+RX+560,AMD Radeon RX 560,59th,84,2921
+3,/s/AMD+Radeon+RX+550,AMD Radeon RX 550,51st,168,1350
+5,/s/AMD+Radeon+R7,AMD Radeon R7,37th,84,967
+7,/s/Intel+UHD+620,Intel UHD 620,16th,252,456 +/- 10
+8,/s/Intel+UHD+630,Intel UHD 630,9th,84,427

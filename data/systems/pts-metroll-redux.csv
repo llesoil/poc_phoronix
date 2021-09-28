@@ -1,0 +1,24 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/NVIDIA+GeForce+GTX+980+Ti,NVIDIA GeForce GTX 980 Ti,95th,9,190 +/- 28
+1,/s/NVIDIA+GeForce+GTX+980,NVIDIA GeForce GTX 980,92nd,11,181 +/- 27
+2,/s/eVGA+NVIDIA+GeForce+GTX+970,eVGA NVIDIA GeForce GTX 970,90th,6,175 +/- 22
+3,/s/NVIDIA+GeForce+GTX+1070,NVIDIA GeForce GTX 1070,87th,15,166 +/- 21
+4,/s/NVIDIA+GeForce+GTX+780+Ti,NVIDIA GeForce GTX 780 Ti,87th,6,165 +/- 12
+5,/s/MSI+AMD+Radeon+RX+470,MSI AMD Radeon RX 470,82nd,14,157 +/- 11
+7,/s/eVGA+NVIDIA+GeForce+GTX+950,eVGA NVIDIA GeForce GTX 950,61st,6,120 +/- 12
+8,/s/NVIDIA+GeForce+GTX+680,NVIDIA GeForce GTX 680,60th,6,119 +/- 11
+9,/s/eVGA+NVIDIA+GeForce+GTX+1050+Ti,eVGA NVIDIA GeForce GTX 1050 Ti,59th,9,116 +/- 6
+10,/s/Sapphire+AMD+POLARIS10,Sapphire AMD POLARIS10,57th,3,115 +/- 7
+12,/s/XFX+AMD+Radeon+HD+7950,XFX AMD Radeon HD 7950,45th,7,105 +/- 6
+13,/s/Sapphire+AMD+Radeon+HD+7950,Sapphire AMD Radeon HD 7950,45th,5,105
+14,/s/NVIDIA+GeForce+GTX+760,NVIDIA GeForce GTX 760,44th,8,104 +/- 12
+15,/s/Zotac+NVIDIA+GeForce+GTX+1050,Zotac NVIDIA GeForce GTX 1050,44th,15,103 +/- 10
+16,/s/Gigabyte+AMD+Radeon+R7+370,Gigabyte AMD Radeon R7 370,35th,8,94 +/- 11
+18,/s/NVIDIA+GeForce+GTX+750+Ti,NVIDIA GeForce GTX 750 Ti,24th,3,76 +/- 7
+19,/s/Gigabyte+AMD+Radeon+RX+550,Gigabyte AMD Radeon RX 550,23rd,3,73 +/- 4
+20,/s/Sapphire+AMD+Radeon+R7+260X,Sapphire AMD Radeon R7 260X,21st,8,70 +/- 1
+21,/s/Sapphire+AMD+Radeon+HD+6950,Sapphire AMD Radeon HD 6950,18th,4,58 +/- 1
+22,/s/MSI+NVIDIA+GeForce+GTX+460,MSI NVIDIA GeForce GTX 460,15th,3,46 +/- 3
+23,/s/Sapphire+AMD+Radeon+HD+5830,Sapphire AMD Radeon HD 5830,12th,3,41 +/- 1
+24,/s/MSI+NVIDIA+GeForce+GTX+650,MSI NVIDIA GeForce GTX 650,12th,4,40 +/- 2
+25,/s/Intel+HD+630,Intel HD 630,4th,4,23 +/- 2

@@ -1,0 +1,24 @@
+processor	: 0
+vendor_id	: CentaurHauls
+cpu family	: 6
+model		: 15
+model name	: VIA Nano X2 C4350AL @ 1.6+ GHz
+stepping	: 13
+cpu MHz		: 1729.000
+cache size	: 1024 KB
+physical id	: 0
+siblings	: 2
+core id		: 0
+cpu cores	: 1
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 10
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat clflush acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc rep_good nopl pni monitor vmx est tm2 ssse3 cx16 xtpr sse4_1 popcnt rng rng_en ace ace_en ace2 phe phe_en pmm pmm_en lahf_lm ida
+bogomips	: 3466.79
+clflush size	: 64
+cache_alignment	: 128
+address sizes	: 36 bits physical, 48 bits virtual
+power management:

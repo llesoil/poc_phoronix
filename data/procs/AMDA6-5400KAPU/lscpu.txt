@@ -1,0 +1,21 @@
+Architectuur:          x86_64
+CPU-modus(sen):        32-bit, 64-bit
+Bytevolgorde:          Little Endian
+CPU('s):               2
+Online CPU('s)-lijst:  0,1
+Draden per kern:       2
+Kern(en) per voet:     1
+CPU-voet(en):          1
+NUMA-node(s):          1
+Producent-ID:          AuthenticAMD
+CPU-familie:           21
+Model:                 16
+Model name:            AMD A6-5400K APU with Radeon(tm) HD Graphics
+Stepping:              1
+CPU-frequentie (MHz):  4590.147
+BogoMIPS:              9183.80
+Virtualisatie:         AMD-V
+L1d-cache:             16K
+L1i-cache:             64K
+L2-cache:              1024K
+NUMA-node0 CPU('s):    0,1

@@ -1,0 +1,38 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/NVIDIA+GeForce+RTX+3090,NVIDIA GeForce RTX 3090,100th,15,139 +/- 2
+1,/s/AMD+Radeon+RX+6800+XT,AMD Radeon RX 6800 XT,98th,6,135 +/- 2
+2,/s/AMD+Radeon+RX+6800,AMD Radeon RX 6800,93rd,15,129 +/- 6
+3,/s/NVIDIA+GeForce+RTX+3080,NVIDIA GeForce RTX 3080,92nd,22,122 +/- 13
+4,/s/NVIDIA+GeForce+RTX+3070+Ti,NVIDIA GeForce RTX 3070 Ti,89th,5,116
+5,/s/AMD+Navi+22,AMD Navi 22,89th,7,116 +/- 1
+6,/s/AMD+Radeon+RX+6700+XT,AMD Radeon RX 6700 XT,87th,4,115 +/- 3
+7,/s/AMD+Radeon+RX+6700,AMD Radeon RX 6700,86th,4,114
+8,/s/NVIDIA+GeForce+RTX+3070,NVIDIA GeForce RTX 3070,82nd,13,111
+9,/s/NVIDIA+GeForce+RTX+2080+Ti,NVIDIA GeForce RTX 2080 Ti,79th,17,103 +/- 10
+10,/s/NVIDIA+GeForce+RTX+3060+Ti,NVIDIA GeForce RTX 3060 Ti,77th,17,101 +/- 1
+12,/s/AMD+Radeon+RX+6600+XT,AMD Radeon RX 6600 XT,70th,3,94 +/- 2
+13,/s/NVIDIA+GeForce+RTX+2080+SUPER,NVIDIA GeForce RTX 2080 SUPER,67th,19,89 +/- 8
+14,/s/Zotac+NVIDIA+GeForce+RTX+2080,Zotac NVIDIA GeForce RTX 2080,61st,19,84 +/- 7
+15,/s/NVIDIA+GeForce+RTX+2070+SUPER,NVIDIA GeForce RTX 2070 SUPER,60th,15,83 +/- 3
+17,/s/AMD+Radeon+RX+5600+OEM,AMD Radeon RX 5600 OEM,50th,31,79 +/- 6
+18,/s/eVGA+NVIDIA+GeForce+RTX+3060,eVGA NVIDIA GeForce RTX 3060,50th,10,79 +/- 1
+19,/s/NVIDIA+GeForce+GTX+1080+Ti,NVIDIA GeForce GTX 1080 Ti,48th,8,77 +/- 2
+20,/s/AMD+Vega+20,AMD Vega 20,46th,9,76 +/- 5
+21,/s/AMD+Radeon+RX+5700+XT,AMD Radeon RX 5700 XT,43rd,5,75 +/- 4
+22,/s/AMD+Navi+10,AMD Navi 10,39th,28,74 +/- 5
+23,/s/NVIDIA+GeForce+RTX+2060+SUPER,NVIDIA GeForce RTX 2060 SUPER,38th,15,73 +/- 3
+24,/s/Sapphire+AMD+Radeon+RX+5600+OEM,Sapphire AMD Radeon RX 5600 OEM,36th,15,72 +/- 3
+25,/s/ASUS+NVIDIA+GeForce+RTX+2070,ASUS NVIDIA GeForce RTX 2070,35th,17,71 +/- 6
+26,/s/Sapphire+AMD+Navi+10,Sapphire AMD Navi 10,27th,9,68 +/- 2
+28,/s/AMD+Radeon+RX+56,AMD Radeon RX 56,24th,25,66 +/- 6
+29,/s/AMD+Radeon+RX+64,AMD Radeon RX 64,22nd,21,65 +/- 4
+30,/s/NVIDIA+GeForce+RTX+2060,NVIDIA GeForce RTX 2060,19th,17,63 +/- 5
+31,/s/NVIDIA+GeForce+GTX+1080,NVIDIA GeForce GTX 1080,19th,7,63 +/- 1
+32,/s/eVGA+NVIDIA+GeForce+GTX+1660+SUPER,eVGA NVIDIA GeForce GTX 1660 SUPER,13th,5,54 +/- 1
+33,/s/NVIDIA+GeForce+GTX+1070,NVIDIA GeForce GTX 1070,10th,4,51 +/- 1
+34,/s/Sapphire+AMD+Radeon+RX+470,Sapphire AMD Radeon RX 470,10th,25,51 +/- 3
+35,/s/eVGA+NVIDIA+GeForce+GTX+1660+Ti,eVGA NVIDIA GeForce GTX 1660 Ti,10th,4,50 +/- 3
+36,/s/Gigabyte+AMD+NAVI14,Gigabyte AMD NAVI14,6th,3,46 +/- 2
+37,/s/MSI+AMD+Radeon+RX+470,MSI AMD Radeon RX 470,5th,7,45 +/- 2
+38,/s/ASUS+NVIDIA+GeForce+GTX+1660,ASUS NVIDIA GeForce GTX 1660,4th,3,43 +/- 2
+39,/s/NVIDIA+GeForce+GTX+1060,NVIDIA GeForce GTX 1060,2nd,5,37 +/- 1

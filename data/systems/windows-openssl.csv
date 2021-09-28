@@ -1,0 +1,30 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Core+i7-8700K,Intel Core i7-8700K,98th,4,194 +/- 8
+1,/s/Intel+Core+i9-7980XE,Intel Core i9-7980XE,94th,11,182 +/- 3
+2,/s/Intel+Xeon+E3-1275+v6,Intel Xeon E3-1275 v6,89th,5,176 +/- 1
+3,/s/Intel+Core+i5-7600K,Intel Core i5-7600K,86th,4,169
+4,/s/Intel+Xeon+E3-1280+v5,Intel Xeon E3-1280 v5,82nd,6,167 +/- 1
+5,/s/Intel+Core+i9-7960X,Intel Core i9-7960X,82nd,10,166 +/- 23
+6,/s/2+x+Intel+Xeon+Platinum+8280,2 x Intel Xeon Platinum 8280,81st,4,161 +/- 1
+7,/s/Intel+Core+i7-5775C,Intel Core i7-5775C,77th,5,154 +/- 1
+8,/s/2+x+Intel+Xeon+Gold+6138,2 x Intel Xeon Gold 6138,77th,5,154
+9,/s/Intel+Core+i3-8100,Intel Core i3-8100,76th,4,153 +/- 1
+11,/s/Intel+Core+i5-6500,Intel Core i5-6500,72nd,5,149 +/- 7
+12,/s/Intel+Core+i7-4770K,Intel Core i7-4770K,69th,7,147
+13,/s/Intel+Core+i5-4670,Intel Core i5-4670,66th,6,143 +/- 1
+14,/s/AMD+Ryzen+5+2600+Six-Core,AMD Ryzen 5 2600 Six-Core,63rd,9,141
+15,/s/Intel+Xeon+E5-1680+v3,Intel Xeon E5-1680 v3,63rd,10,141 +/- 3
+16,/s/Intel+Core+i7-5600U,Intel Core i7-5600U,57th,5,134 +/- 1
+18,/s/Intel+Core+i7-4960X,Intel Core i7-4960X,49th,7,131 +/- 3
+19,/s/Intel+Core+i7-3770K,Intel Core i7-3770K,46th,4,130 +/- 1
+20,/s/Intel+Core+i7-5960X,Intel Core i7-5960X,46th,20,130 +/- 3
+21,/s/Intel+Xeon+E5-2687W+v3,Intel Xeon E5-2687W v3,44th,5,129 +/- 3
+22,/s/Intel+Core+i3-4130,Intel Core i3-4130,43rd,5,128
+23,/s/Intel+Core+i5-5300U,Intel Core i5-5300U,37th,5,121
+24,/s/Intel+Core+i7-2700K,Intel Core i7-2700K,36th,11,120
+25,/s/Intel+Core+i7-3960X,Intel Core i7-3960X,31st,5,115
+27,/s/Intel+Core+i3-2120,Intel Core i3-2120,25th,15,102
+28,/s/Intel+Core+i5-2520M,Intel Core i5-2520M,15th,6,97
+29,/s/Intel+Core+i7+990X,Intel Core i7 990X,9th,5,77
+30,/s/Intel+Core+i7+720Q,Intel Core i7 720Q,5th,5,60
+31,/s/Intel+Celeron+N3050,Intel Celeron N3050,3rd,4,24

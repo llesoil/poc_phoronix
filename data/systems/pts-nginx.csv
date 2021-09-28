@@ -1,0 +1,34 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Ryzen+9+5900HX,AMD Ryzen 9 5900HX,100th,3,496096 +/- 4671
+1,/s/Intel+Core+i9-11900K,Intel Core i9-11900K,100th,3,468279 +/- 761
+2,/s/AMD+Ryzen+5+5600X+6-Core,AMD Ryzen 5 5600X 6-Core,99th,3,366671 +/- 3464
+3,/s/AMD+Ryzen+9+5950X+16-Core,AMD Ryzen 9 5950X 16-Core,97th,4,344271 +/- 1204
+4,/s/AMD+Ryzen+9+5900X+12-Core,AMD Ryzen 9 5900X 12-Core,97th,4,324908 +/- 19131
+5,/s/Intel+Core+i7-8700K,Intel Core i7-8700K,97th,3,323931 +/- 586
+6,/s/Intel+Core+i9-10980XE,Intel Core i9-10980XE,94th,4,306053 +/- 6315
+7,/s/ARMv8+Neoverse-N1+32-Core,ARMv8 Neoverse-N1 32-Core,94th,5,305267 +/- 33228
+8,/s/AMD+Ryzen+9+3950X+16-Core,AMD Ryzen 9 3950X 16-Core,94th,3,304002 +/- 1821
+9,/s/AMD+Ryzen+5+5500U,AMD Ryzen 5 5500U,91st,3,274222 +/- 1010
+10,/s/Intel+Core+i7-10700T,Intel Core i7-10700T,90th,3,262714 +/- 765
+11,/s/Intel+Xeon+E-2288G,Intel Xeon E-2288G,89th,3,255921 +/- 2812
+12,/s/AMD+Ryzen+7+4700U,AMD Ryzen 7 4700U,89th,3,255678 +/- 395
+13,/s/Intel+Core+i7-1165G7,Intel Core i7-1165G7,88th,3,249065 +/- 1564
+14,/s/Intel+Xeon+Gold+6226R,Intel Xeon Gold 6226R,86th,3,245169 +/- 2483
+15,/s/Intel+Core+i5-10600K,Intel Core i5-10600K,86th,3,243872 +/- 2682
+16,/s/AMD+Ryzen+9+3900XT+12-Core,AMD Ryzen 9 3900XT 12-Core,85th,4,231908 +/- 1412
+17,/s/AMD+EPYC+72F3+8-Core,AMD EPYC 72F3 8-Core,83rd,3,203993 +/- 2454
+18,/s/AMD+EPYC+7543+32-Core,AMD EPYC 7543 32-Core,80th,9,182113 +/- 5838
+19,/s/AMD+Ryzen+Threadripper+3990X+64-Core,AMD Ryzen Threadripper 3990X 64-Core,79th,3,178581 +/- 155
+20,/s/2+x+Intel+Xeon+Gold+5220R,2 x Intel Xeon Gold 5220R,79th,3,178119 +/- 1937
+21,/s/Intel+Core+i7-1065G7,Intel Core i7-1065G7,77th,4,162708 +/- 3641
+22,/s/2+x+Intel+Xeon+Platinum+8280,2 x Intel Xeon Platinum 8280,76th,3,158354 +/- 169
+24,/s/Intel+Xeon+E3-1270+v5,Intel Xeon E3-1270 v5,75th,4,151662 +/- 3461
+25,/s/AMD+Ryzen+5+4500U,AMD Ryzen 5 4500U,74th,3,146936 +/- 983
+26,/s/Intel+Core+i7-4770K,Intel Core i7-4770K,73rd,3,142043 +/- 552
+27,/s/Intel+Xeon+E3-1235L+v5,Intel Xeon E3-1235L v5,69th,3,123098 +/- 139
+28,/s/Intel+Core+i7-8550U,Intel Core i7-8550U,64th,3,103520 +/- 4112
+29,/s/2+x+AMD+EPYC+7763+64-Core,2 x AMD EPYC 7763 64-Core,60th,7,94738 +/- 7358
+30,/s/AMD+FX-8150+Eight-Core,AMD FX-8150 Eight-Core,59th,3,92939 +/- 7483
+32,/s/Ampere+Altra+ARMv8+Neoverse-N1+160-Core,Ampere Altra ARMv8 Neoverse-N1 160-Core,31st,4,52918 +/- 485
+34,/s/ARMv8+Cortex-A72+4-Core,ARMv8 Cortex-A72 4-Core,18th,13,35339 +/- 889
+35,/s/ARMv7+Cortex-A72+4-Core,ARMv7 Cortex-A72 4-Core,12th,6,30774 +/- 1256

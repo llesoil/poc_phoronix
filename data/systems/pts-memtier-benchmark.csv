@@ -1,0 +1,21 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/2+x+Intel+Xeon+Platinum+8280,2 x Intel Xeon Platinum 8280,98th,22,4145403 +/- 338761
+1,/s/AMD+EPYC+7742+64-Core,AMD EPYC 7742 64-Core,93rd,3,3715581 +/- 187539
+2,/s/2+x+Intel+Xeon+Gold+6138,2 x Intel Xeon Gold 6138,87th,3,2890309 +/- 377632
+3,/s/Intel+Core+i9-9900K,Intel Core i9-9900K,86th,4,2885454 +/- 69442
+4,/s/Intel+Core+i9-7980XE,Intel Core i9-7980XE,83rd,4,2792857 +/- 102621
+5,/s/Intel+Core+i9-10980XE,Intel Core i9-10980XE,82nd,10,2784259 +/- 113870
+6,/s/2+x+Intel+Xeon+Gold+5220R,2 x Intel Xeon Gold 5220R,79th,7,2743850 +/- 113220
+8,/s/AMD+Ryzen+9+3900X+12-Core,AMD Ryzen 9 3900X 12-Core,75th,6,2653786 +/- 121145
+9,/s/Intel+Core+i9-7960X,Intel Core i9-7960X,68th,27,2562052 +/- 136376
+10,/s/AMD+Ryzen+5+3600X+6-Core,AMD Ryzen 5 3600X 6-Core,56th,4,2361418 +/- 38584
+11,/s/Intel+Xeon+Gold+6136,Intel Xeon Gold 6136,51st,6,2285680 +/- 42825
+13,/s/Intel+Xeon+E3-1280+v5,Intel Xeon E3-1280 v5,42nd,5,2044125 +/- 49334
+14,/s/AMD+EPYC+7601+32-Core,AMD EPYC 7601 32-Core,40th,3,1997000 +/- 71726
+15,/s/AMD+EPYC+7702P+64-Core,AMD EPYC 7702P 64-Core,37th,3,1950393 +/- 29150
+16,/s/AMD+Ryzen+5+3400G,AMD Ryzen 5 3400G,32nd,3,1874687 +/- 6438
+17,/s/AMD+EPYC+7302P+16-Core,AMD EPYC 7302P 16-Core,30th,6,1808923 +/- 170232
+18,/s/2+x+Intel+Xeon+E5-2680+v3,2 x Intel Xeon E5-2680 v3,26th,3,1645381 +/- 145270
+20,/s/Intel+Xeon+Silver+4108,Intel Xeon Silver 4108,24th,7,1596694 +/- 15939
+21,/s/Intel+Core+i7-6500U,Intel Core i7-6500U,12th,10,1212755 +/- 76940
+22,/s/2+x+Intel+Xeon+E5-2680+0,2 x Intel Xeon E5-2680 0,7th,9,1114351 +/- 19115

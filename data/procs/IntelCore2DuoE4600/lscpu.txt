@@ -1,0 +1,19 @@
+Architecture:          x86_64
+Operační režim(y) CPU:32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Vláken na jádro:     1
+Jader na patici:       2
+Socket(s):             1
+Uzly NUMA:             1
+ID výrobce:           GenuineIntel
+Rodina CPU:            6
+Model:                 15
+Stepping:              13
+CPU MHz:               1203.000
+BogoMIPS:              4800.15
+L1d keš:              32K
+L1i keš:              32K
+L2 keš:               2048K
+NUMA node0 CPU(s):     0,1

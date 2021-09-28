@@ -1,0 +1,14 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Ryzen+Threadripper+3970X+32-Core,AMD Ryzen Threadripper 3970X 32-Core,95th,9,1
+1,/s/AMD+Ryzen+Threadripper+3990X+64-Core,AMD Ryzen Threadripper 3990X 64-Core,92nd,5,1
+2,/s/AMD+EPYC+7402P+24-Core,AMD EPYC 7402P 24-Core,76th,3,2
+4,/s/AMD+EPYC+7F52+16-Core,AMD EPYC 7F52 16-Core,73rd,3,2
+5,/s/AMD+Ryzen+9+3950X+16-Core,AMD Ryzen 9 3950X 16-Core,69th,5,3
+6,/s/AMD+Ryzen+9+5900X+12-Core,AMD Ryzen 9 5900X 12-Core,67th,3,3
+7,/s/Intel+Core+i9-10900K,Intel Core i9-10900K,58th,6,3
+8,/s/AMD+Ryzen+7+5800X+8-Core,AMD Ryzen 7 5800X 8-Core,52nd,4,4
+10,/s/AMD+Ryzen+5+5600X+6-Core,AMD Ryzen 5 5600X 6-Core,42nd,5,5
+11,/s/Intel+Core+i5-10600K,Intel Core i5-10600K,38th,4,5
+12,/s/AMD+EPYC+7232P+8-Core,AMD EPYC 7232P 8-Core,35th,3,5
+14,/s/Intel+Core+i3-10100,Intel Core i3-10100,23rd,3,8
+15,/s/Intel+Core+i7-6820HQ,Intel Core i7-6820HQ,13th,3,14

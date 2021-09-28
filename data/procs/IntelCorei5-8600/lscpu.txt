@@ -1,0 +1,25 @@
+Architektura:          x86_64
+Tryb(y) pracy CPU:     32-bit, 64-bit
+Kolejność bajtów:   Little Endian
+CPU:                   6
+Lista aktywnych CPU:   0-5
+Wątków na rdzeń:    1
+Rdzeni na gniazdo:     6
+Gniazd:                1
+Węzłów NUMA:        1
+ID producenta:         GenuineIntel
+Rodzina CPU:           6
+Model:                 158
+Nazwa modelu:          Intel(R) Core(TM) i5-8600 CPU @ 3.10GHz
+Wersja:                10
+CPU MHz:               3371.032
+CPU max MHz:           4300,0000
+CPU min MHz:           800,0000
+BogoMIPS:              6192.00
+Wirtualizacja:         VT-x
+Cache L1d:             32K
+Cache L1i:             32K
+Cache L2:              256K
+Cache L3:              9216K
+Procesory węzła NUMA 0:0-5
+Flagi:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf tsc_known_freq pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti intel_pt tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 hle avx2 smep bmi2 erms invpcid rtm mpx rdseed adx smap clflushopt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp

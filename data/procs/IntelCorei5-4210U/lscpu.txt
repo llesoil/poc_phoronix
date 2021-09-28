@@ -1,0 +1,22 @@
+Architecture:          x86_64
+Tryb(y) pracy CPU:     32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Wątków na rdzeń:    2
+Rdzeni na gniazdo:     2
+Socket(s):             1
+ID producenta:         GenuineIntel
+Rodzina CPU:           6
+Model:                 69
+Model name:            Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz
+Wersja:                1
+CPU MHz:               2415.375
+CPU max MHz:           2700,0000
+CPU min MHz:           800,0000
+BogoMIPS:              4788.62
+Wirtualizacja:         VT-x
+Cache L1d:             32K
+Cache L1i:             32K
+Cache L2:              256K
+Cache L3:              3072K

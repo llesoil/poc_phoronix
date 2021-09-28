@@ -1,0 +1,21 @@
+Архитектура:x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Порядок байтов:Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Потоков на ядро:1
+Ядер на сокет:4
+Сокет(ы):        1
+NUMA node(s):          1
+Vendor ID:             GenuineIntel
+Семейство CPU:6
+Модель:          60
+Stepping:              3
+CPU МГц:            1700.000
+BogoMIPS:              5586.88
+Виртуализация:VT-x
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              256K
+L3 cache:              6144K
+NUMA node0 CPU(s):     0-3

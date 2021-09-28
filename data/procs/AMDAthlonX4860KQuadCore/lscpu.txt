@@ -1,0 +1,21 @@
+Architektura:          x86_64
+Operační režim(y) CPU:32-bit, 64-bit
+Pořadí bajtů:       Little Endian
+Počet CPU:            4
+Seznam zapnutých CPU: 0-3
+Vláken na jádro:     2
+Jader na patici:       2
+Patic:                 1
+Uzly NUMA:             1
+ID výrobce:           AuthenticAMD
+Rodina CPU:            21
+Model:                 48
+Název modelu:         AMD Athlon(tm) X4 860K Quad Core Processor
+Stepping:              1
+CPU MHz:               1700.000
+BogoMIPS:              8384.38
+Virtualizace:          AMD-V
+L1d keš:              16K
+L1i keš:              96K
+L2 keš:               2048K
+CPU NUMA uzlu 0:       0-3

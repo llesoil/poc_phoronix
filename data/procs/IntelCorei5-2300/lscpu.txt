@@ -1,0 +1,19 @@
+Architecture:          i686
+CPU 作業模式：    32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+每核心執行緒數：1
+每通訊端核心數：4
+Socket(s):             1
+供應商識別號：  GenuineIntel
+CPU 家族：          6
+型號：              42
+製程：              7
+CPU MHz：             1600.000
+BogoMIPS:              5618.85
+虛擬：              VT-x
+L1d 快取：          32K
+L1i 快取：          32K
+L2 快取：           256K
+L3 快取：           6144K

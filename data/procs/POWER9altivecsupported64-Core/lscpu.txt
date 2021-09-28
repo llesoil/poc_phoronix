@@ -1,0 +1,18 @@
+Architecture:        ppc64le
+Byte Order:          Little Endian
+CPU(s):              64
+On-line CPU(s) list: 0-63
+Thread(s) per core:  4
+Core(s) per socket:  8
+Socket(s):           2
+NUMA node(s):        2
+Model:               2.2 (pvr 004e 1202)
+Model name:          POWER9, altivec supported
+CPU max MHz:         3800.0000
+CPU min MHz:         2154.0000
+L1d cache:           32K
+L1i cache:           32K
+L2 cache:            512K
+L3 cache:            10240K
+NUMA node0 CPU(s):   0-31
+NUMA node8 CPU(s):   32-63

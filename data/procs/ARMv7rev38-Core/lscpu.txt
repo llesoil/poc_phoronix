@@ -1,0 +1,15 @@
+Architecture :                          armv7l
+Boutisme :                              Little Endian
+Processeur(s) :                         8
+Liste de processeur(s) en ligne :       0-7
+Thread(s) par cœur :                    1
+Cœur(s) par socket :                    4
+Socket(s) :                             2
+Identifiant constructeur :              ARM
+Modèle :                                3
+Nom de modèle :                         Cortex-A7
+Révision :                              r0p3
+Vitesse maximale du processeur en MHz : 2000,0000
+Vitesse minimale du processeur en MHz : 200,0000
+BogoMIPS :                              90.00
+Drapaux :                               half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae

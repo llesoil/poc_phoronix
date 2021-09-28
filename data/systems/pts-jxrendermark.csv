@@ -1,0 +1,8 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+HD+4600,Intel HD 4600,82nd,87,126482 +/- 24
+1,/s/NVIDIA+GeForce+GTX+580,NVIDIA GeForce GTX 580,81st,85,73675
+3,/s/NVIDIA+GeForce+310M,NVIDIA GeForce 310M,50th,87,35297
+4,/s/Intel+2nd+Generation+Core+Family+IGP,Intel 2nd Generation Core Family IGP,38th,90,22924 +/- 1605
+5,/s/NVIDIA+GeForce+210,NVIDIA GeForce 210,37th,85,16097
+7,/s/PowerVR+SGX545,PowerVR SGX545,9th,84,247
+8,/s/Intel+Atom+D2xxx,Intel Atom D2xxx,2nd,84,178

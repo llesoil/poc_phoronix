@@ -1,0 +1,25 @@
+Architecture:          x86_64
+Mode(s) opératoire(s) des processeurs :32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) par cœur : 1
+Cœur(s) par socket : 2
+Socket(s):             1
+Nœud(s) NUMA :       1
+Identifiant constructeur :GenuineIntel
+Famille de processeur :6
+Modèle :             94
+Model name:            Intel(R) Pentium(R) CPU G4400 @ 3.30GHz
+Révision :           3
+Vitesse du processeur en MHz :799.992
+CPU max MHz:           3300,0000
+CPU min MHz:           800,0000
+BogoMIPS:              6623.87
+Virtualisation :      VT-x
+Cache L1d :           32K
+Cache L1i :           32K
+Cache L2 :            256K
+Cache L3 :            3072K
+NUMA node0 CPU(s):     0,1
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave rdrand lahf_lm abm 3dnowprefetch epb intel_pt tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust erms invpcid rdseed smap clflushopt xsaveopt xsavec xgetbv1 dtherm arat pln pts hwp hwp_notify hwp_act_window hwp_epp

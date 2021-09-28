@@ -1,0 +1,10 @@
+processor	: 0
+model name	: Phytium,FT2000A,4-Core
+bogomips	: 3456.00
+Features	: fp asimd evtstrm aes pmull sha1 sha2 crc32
+flags		: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU implementer	: 0x70
+CPU architecture: 8
+CPU variant	: 0x1
+CPU part	: 0x663
+CPU revision	: 3

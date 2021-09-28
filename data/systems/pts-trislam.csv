@@ -1,0 +1,13 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Radeon+HD+6520G,AMD Radeon HD 6520G,93rd,84,289
+1,/s/NVIDIA+GeForce+210,NVIDIA GeForce 210,84th,85,328
+2,/s/AMD+Radeon+HD+3870,AMD Radeon HD 3870,84th,8,328
+4,/s/ATI+Radeon+HD+5450,ATI Radeon HD 5450,69th,3,329 +/- 2
+5,/s/NVIDIA+GeForce+GT+430,NVIDIA GeForce GT 430,68th,6,330 +/- 4
+6,/s/NVIDIA+GeForce+Go+6150,NVIDIA GeForce Go 6150,54th,84,331
+8,/s/S3+Chrome+600,S3 Chrome 600,39th,85,333
+9,/s/Intel+E7221+IGP,Intel E7221 IGP,39th,84,333
+11,/s/Intel+N10+Family+IGP,Intel N10 Family IGP,16th,87,337
+12,/s/Intel+82945G,Intel 82945G,16th,3,337 +/- 3
+13,/s/AMD+Mobility+Radeon+X1300,AMD Mobility Radeon X1300,9th,24,338 +/- 4
+14,/s/Intel+Mobile+4+IGP,Intel Mobile 4 IGP,8th,85,342

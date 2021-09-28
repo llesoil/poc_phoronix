@@ -1,0 +1,35 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Ryzen+7+5800X+8-Core,AMD Ryzen 7 5800X 8-Core,98th,9,0.306 +/- 0.022
+1,/s/Intel+Core+i3-10100,Intel Core i3-10100,97th,4,0.320
+2,/s/Intel+Pentium+Gold+G6400,Intel Pentium Gold G6400,95th,4,0.349 +/- 0.006
+3,/s/Intel+Core+i5-4590,Intel Core i5-4590,88th,16,0.397 +/- 0.003
+4,/s/Intel+Celeron+G5900,Intel Celeron G5900,81st,4,0.407 +/- 0.006
+5,/s/2+x+Intel+Xeon+Gold+6254,2 x Intel Xeon Gold 6254,81st,19,0.410 +/- 0.002
+6,/s/Intel+Xeon+Gold+6238R,Intel Xeon Gold 6238R,78th,6,0.416 +/- 0.001
+7,/s/Intel+Xeon+E3-1275+v6,Intel Xeon E3-1275 v6,78th,12,0.420 +/- 0.040
+8,/s/AMD+EPYC+7502P+32-Core,AMD EPYC 7502P 32-Core,77th,85,0.421
+10,/s/AMD+Ryzen+5+2600X+Six-Core,AMD Ryzen 5 2600X Six-Core,65th,4,0.462 +/- 0.046
+11,/s/Intel+Core+i7-6700,Intel Core i7-6700,65th,6,0.470
+12,/s/Intel+Core+i5-4590T,Intel Core i5-4590T,64th,6,0.483 +/- 0.002
+13,/s/Intel+Xeon+E5-1680+v3,Intel Xeon E5-1680 v3,63rd,10,0.490 +/- 0.020
+14,/s/Intel+Core+i5-4440S,Intel Core i5-4440S,63rd,3,0.496 +/- 0.002
+15,/s/Apple+M1,Apple M1,62nd,3,0.500 +/- 0.002
+16,/s/AMD+Ryzen+Threadripper+2920X+12-Core,AMD Ryzen Threadripper 2920X 12-Core,60th,4,0.520 +/- 0.020
+17,/s/Intel+Xeon+E5-2687W+v3,Intel Xeon E5-2687W v3,60th,10,0.520 +/- 0.020
+18,/s/Intel+Core+i5-4430,Intel Core i5-4430,58th,20,0.540 +/- 0.010
+19,/s/AMD+Ryzen+5+2400G,AMD Ryzen 5 2400G,55th,3,0.560 +/- 0.020
+20,/s/Intel+Core+i7-5960X,Intel Core i7-5960X,54th,12,0.570 +/- 0.060
+21,/s/Intel+0000%25,Intel 0000%,53rd,84,0.603
+23,/s/Intel+Core+i7,Intel Core i7,46th,4,0.650 +/- 0.080
+24,/s/Intel+Core+i5-5200U,Intel Core i5-5200U,38th,3,0.765 +/- 0.002
+25,/s/2+x+Intel+Xeon+E5540,2 x Intel Xeon E5540,34th,8,1.040 +/- 0.030
+26,/s/Intel+Core+i7+950,Intel Core i7 950,34th,5,1.040
+27,/s/Intel+Xeon+Gold+6138,Intel Xeon Gold 6138,33rd,4,1.160 +/- 0.020
+29,/s/Intel+Core+i3,Intel Core i3,25th,3,1.500 +/- 0.030
+30,/s/Intel+Celeron+N2830,Intel Celeron N2830,24th,13,1.595 +/- 0.004
+31,/s/Intel+Pentium+4,Intel Pentium 4,23rd,7,1.630 +/- 0.010
+32,/s/AMD+Ryzen+5+2600+Six-Core,AMD Ryzen 5 2600 Six-Core,22nd,23,1.760 +/- 0.030
+33,/s/Intel+Atom+x5-Z8350,Intel Atom x5-Z8350,5th,3,2.208 +/- 0.252
+34,/s/ARMv8+Cortex-A72+6-Core,ARMv8 Cortex-A72 6-Core,4th,7,2.550 +/- 0.060
+35,/s/2+x+Intel+Xeon+E5-2680+0,2 x Intel Xeon E5-2680 0,3rd,7,2.710 +/- 0.069
+36,/s/ARMv7+Cortex-A15+8-Core,ARMv7 Cortex-A15 8-Core,3rd,3,2.962 +/- 0.307

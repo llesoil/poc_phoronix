@@ -1,0 +1,18 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    1
+Core(s) per socket:    1
+CPU socket(s):         2
+NUMA node(s):          1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 23
+Stepping:              3
+CPU MHz:               2493.750
+BogoMIPS:              4987.50
+Hypervisor vendor:     KVM
+Virtualization type:   full
+NUMA node0 CPU(s):     0,1

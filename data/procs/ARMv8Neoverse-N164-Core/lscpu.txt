@@ -1,0 +1,16 @@
+Architecture:        aarch64
+Byte Order:          Little Endian
+CPU(s):              64
+On-line CPU(s) list: 0-63
+Thread(s) per core:  1
+Core(s) per socket:  64
+Socket(s):           1
+NUMA node(s):        1
+Model:               1
+BogoMIPS:            243.75
+L1d cache:           64K
+L1i cache:           64K
+L2 cache:            1024K
+L3 cache:            32768K
+NUMA node0 CPU(s):   0-63
+Flags:               fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp ssbs

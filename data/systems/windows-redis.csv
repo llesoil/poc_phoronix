@@ -1,0 +1,32 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Core+i7-7700K,Intel Core i7-7700K,97th,5,1208303 +/- 42389
+1,/s/Intel+Core+i9-7980XE,Intel Core i9-7980XE,93rd,9,1162335 +/- 33258
+2,/s/Intel+Core+i7-7900X,Intel Core i7-7900X,90th,5,1117256 +/- 27255
+3,/s/Intel+Core+i5-7600K,Intel Core i5-7600K,87th,4,1088060 +/- 22346
+4,/s/Intel+Xeon+E3-1275+v6,Intel Xeon E3-1275 v6,86th,5,1082019 +/- 22294
+5,/s/Intel+Core+i5-8400,Intel Core i5-8400,83rd,4,1043133 +/- 29661
+6,/s/Intel+Core+i7-4770K,Intel Core i7-4770K,82nd,7,1034849 +/- 22650
+7,/s/Intel+Core+i5-4670,Intel Core i5-4670,79th,6,1014317 +/- 19846
+9,/s/Intel+Xeon+E3-1280+v5,Intel Xeon E3-1280 v5,75th,5,997672 +/- 26129
+10,/s/2+x+Intel+Xeon+Platinum+8280,2 x Intel Xeon Platinum 8280,75th,4,997598 +/- 16544
+11,/s/2+x+Intel+Xeon+Gold+6138,2 x Intel Xeon Gold 6138,72nd,5,987534 +/- 18307
+12,/s/Intel+Core+i7-5775C,Intel Core i7-5775C,71st,4,979201 +/- 10473
+13,/s/Intel+Core+i3-8100,Intel Core i3-8100,71st,4,978535 +/- 30522
+14,/s/Intel+Xeon+E5-1680+v3,Intel Xeon E5-1680 v3,68th,10,943038 +/- 54301
+15,/s/Intel+Core+i5-8250U,Intel Core i5-8250U,65th,4,925298 +/- 12101
+16,/s/Intel+Core+i5-6500,Intel Core i5-6500,65th,4,924733 +/- 34400
+17,/s/Intel+Xeon+E5-2687W+v3,Intel Xeon E5-2687W v3,60th,5,895267 +/- 22483
+18,/s/Intel+Core+i7-4960X,Intel Core i7-4960X,54th,7,867183 +/- 20003
+19,/s/Intel+Core+i7-3770K,Intel Core i7-3770K,53rd,9,865821 +/- 58570
+21,/s/AMD+Ryzen+7+2700X+Eight-Core,AMD Ryzen 7 2700X Eight-Core,50th,4,844149 +/- 38040
+22,/s/Intel+Core+i7-5960X,Intel Core i7-5960X,49th,20,840303 +/- 104204
+23,/s/Intel+Core+i3-4130,Intel Core i3-4130,44th,9,825515 +/- 56131
+24,/s/Intel+Core+i7-2700K,Intel Core i7-2700K,44th,10,824696 +/- 26745
+25,/s/Intel+Core+i7-4558U,Intel Core i7-4558U,43rd,6,814803 +/- 69744
+26,/s/Intel+Core+i7-3960X,Intel Core i7-3960X,39th,5,796555 +/- 14092
+27,/s/Intel+Core+i7-5600U,Intel Core i7-5600U,36th,10,767050 +/- 54019
+28,/s/Intel+Core+i3-2120,Intel Core i3-2120,26th,15,697267 +/- 26585
+30,/s/Intel+Core+i7+990X,Intel Core i7 990X,25th,5,687742 +/- 10467
+31,/s/Intel+Core+i5-5300U,Intel Core i5-5300U,22nd,10,675236 +/- 48976
+32,/s/Intel+Core+i5-2520M,Intel Core i5-2520M,17th,15,634662 +/- 40456
+33,/s/Intel+Celeron+N3050,Intel Celeron N3050,3rd,4,157910 +/- 4091

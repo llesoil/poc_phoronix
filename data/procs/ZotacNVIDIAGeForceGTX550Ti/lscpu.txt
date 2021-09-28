@@ -1,0 +1,9 @@
+ERROR: [Loader Message] Code 0 : /usr/lib/libvulkan_intel.so: wrong ELF class: ELFCLASS32
+ERROR: [Loader Message] Code 0 : /usr/lib/libvulkan_radeon.so: wrong ELF class: ELFCLASS32
+/home/iurt/rpmbuild/BUILD/Vulkan-Tools-sdk-1.1.106.0/vulkaninfo/vulkaninfo.c:5523: failed with VK_ERROR_INITIALIZATION_FAILED
+==========
+VULKANINFO
+==========
+
+Vulkan Instance Version: 1.1.106
+

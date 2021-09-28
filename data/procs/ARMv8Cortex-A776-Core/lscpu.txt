@@ -1,0 +1,18 @@
+Architecture:        aarch64
+Byte Order:          Little Endian
+CPU(s):              8
+On-line CPU(s) list: 0-7
+Thread(s) per core:  1
+Core(s) per socket:  2
+Socket(s):           3
+Vendor ID:           Qualcomm
+Model:               14
+Stepping:            0xd
+CPU max MHz:         2841.6001
+CPU min MHz:         300.0000
+BogoMIPS:            38.40
+L1d cache:           unknown size
+L1i cache:           unknown size
+L2 cache:            unknown size
+L3 cache:            unknown size
+Flags:               fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm lrcpc dcpop asimddp

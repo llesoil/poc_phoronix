@@ -1,0 +1,21 @@
+Architecture:          x86_64
+Tryb(y) pracy CPU:     32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Wątków na rdzeń:    1
+Rdzeni na gniazdo:     4
+Socket(s):             1
+Węzłów NUMA:        1
+ID producenta:         AuthenticAMD
+Rodzina CPU:           16
+Model:                 10
+Wersja:                0
+CPU MHz:               800.000
+BogoMIPS:              6026.96
+Wirtualizacja:         AMD-V
+Cache L1d:             64K
+Cache L1i:             64K
+Cache L2:              512K
+Cache L3:              6144K
+NUMA node0 CPU(s):     0-3

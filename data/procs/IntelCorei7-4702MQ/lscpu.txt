@@ -1,0 +1,24 @@
+Architektur:           x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte-Reihenfolge:      Little Endian
+CPU(s):                8
+On-line CPU(s) list:   0-7
+Thread(s) pro Kern:    2
+Kern(e) pro Socket:    4
+Socket(s):             1
+NUMA-Knoten:           1
+Anbieterkennung:       GenuineIntel
+Prozessorfamilie:      6
+Modell:                60
+Modellname:            Intel(R) Core(TM) i7-4702MQ CPU @ 2.20GHz
+Stepping:              3
+CPU MHz:               2254.484
+Maximale Taktfrequenz der CPU:3200,0000
+Minimale Taktfrequenz der CPU:800,0000
+BogoMIPS:              4391.67
+Virtualisierung:       VT-x
+L1d Cache:             32K
+L1i Cache:             32K
+L2 Cache:              256K
+L3 Cache:              6144K
+NUMA-Knoten0 CPU(s):   0-7

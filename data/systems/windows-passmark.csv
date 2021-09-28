@@ -1,0 +1,11 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/2+x+Intel+Xeon+Platinum+8280,2 x Intel Xeon Platinum 8280,99th,3,42190 +/- 998
+1,/s/2+x+Intel+Xeon+Gold+6138,2 x Intel Xeon Gold 6138,93rd,6,34664 +/- 1702
+2,/s/Intel+Xeon+E5-2687W+v3,Intel Xeon E5-2687W v3,85th,5,17465 +/- 758
+4,/s/Intel+Xeon+E5-1680+v3,Intel Xeon E5-1680 v3,73rd,11,16512 +/- 819
+5,/s/Intel+Core+i7-3960X,Intel Core i7-3960X,52nd,5,11746 +/- 591
+7,/s/Intel+Xeon+E3-1280+v5,Intel Xeon E3-1280 v5,40th,5,10382 +/- 690
+8,/s/Intel+Core+i7-4770K,Intel Core i7-4770K,39th,7,10259 +/- 538
+9,/s/Intel+Core+i7+990X,Intel Core i7 990X,26th,5,8072 +/- 560
+11,/s/Intel+Core+i3-2120,Intel Core i3-2120,15th,10,4350 +/- 338
+12,/s/Intel+Celeron+N3050,Intel Celeron N3050,4th,4,1014 +/- 3

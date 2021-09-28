@@ -1,0 +1,24 @@
+Architecture:        x86_64
+CPU op-mode(s):      32-bit, 64-bit
+Byte Order:          Little Endian
+CPU(s):              4
+On-line CPU(s) list: 0-3
+Thread(s) pro Kern:  1
+Kern(e) pro Socket:  4
+Socket(s):           1
+NUMA-Knoten:         1
+Anbieterkennung:     AuthenticAMD
+Prozessorfamilie:    22
+Modell:              48
+Model name:          AMD GX-424CC SOC with Radeon(TM) R5E Graphics
+Stepping:            1
+CPU MHz:             1000.000
+CPU max MHz:         2400,0000
+CPU min MHz:         1000,0000
+BogoMIPS:            4790.70
+Virtualisierung:     AMD-V
+L1d Cache:           32K
+L1i Cache:           32K
+L2 Cache:            2048K
+NUMA node0 CPU(s):   0-3
+Flags:               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good acc_power nopl nonstop_tsc cpuid extd_apicid aperfmperf pni pclmulqdq monitor ssse3 cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt topoext perfctr_nb bpext ptsc perfctr_l2 hw_pstate retpoline retpoline_amd rsb_ctxsw vmmcall bmi1 xsaveopt arat npt lbrv svm_lock nrip_save tsc_scale flushbyasid decodeassists pausefilter pfthreshold overflow_recov

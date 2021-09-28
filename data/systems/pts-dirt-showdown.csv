@@ -1,0 +1,14 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/NVIDIA+GeForce+GTX+980,NVIDIA GeForce GTX 980,94th,3,97 +/- 8
+1,/s/NVIDIA+GeForce+GTX+980+Ti,NVIDIA GeForce GTX 980 Ti,91st,7,96 +/- 9
+2,/s/eVGA+NVIDIA+GeForce+GTX+970,eVGA NVIDIA GeForce GTX 970,89th,4,93 +/- 6
+3,/s/XFX+AMD+Radeon+R9+200,XFX AMD Radeon R9 200,89th,3,93 +/- 6
+4,/s/NVIDIA+GeForce+GTX+780+Ti,NVIDIA GeForce GTX 780 Ti,86th,3,91 +/- 4
+5,/s/Zotac+NVIDIA+GeForce+GTX+780,Zotac NVIDIA GeForce GTX 780,81st,5,87
+7,/s/MSI+AMD+Radeon+R7+370,MSI AMD Radeon R7 370,74th,6,72 +/- 7
+8,/s/NVIDIA+GeForce+GTX+680,NVIDIA GeForce GTX 680,70th,3,66
+9,/s/eVGA+NVIDIA+GeForce+GTX+950,eVGA NVIDIA GeForce GTX 950,68th,3,65 +/- 2
+10,/s/NVIDIA+GeForce+GTX+760,NVIDIA GeForce GTX 760,59th,3,57 +/- 1
+12,/s/eVGA+NVIDIA+GeForce+GTX+550+Ti,eVGA NVIDIA GeForce GTX 550 Ti,38th,3,19
+13,/s/MSI+AMD+Radeon+HD+7900,MSI AMD Radeon HD 7900,37th,67,18 +/- 1
+15,/s/MSI+AMD+Radeon+HD+7970,MSI AMD Radeon HD 7970,22nd,3,17

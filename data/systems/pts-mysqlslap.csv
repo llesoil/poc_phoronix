@@ -1,0 +1,8 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Ryzen+9+5900X+12-Core,AMD Ryzen 9 5900X 12-Core,100th,3,3187 +/- 7
+1,/s/AMD+Ryzen+9+5950X+16-Core,AMD Ryzen 9 5950X 16-Core,98th,3,2513 +/- 17
+2,/s/2+x+Intel+Xeon+Platinum+8380,2 x Intel Xeon Platinum 8380,93rd,4,1128 +/- 5
+4,/s/Intel+Core+i9-10980XE,Intel Core i9-10980XE,58th,4,475 +/- 20
+5,/s/Intel+Core+i7-10700T,Intel Core i7-10700T,51st,3,433 +/- 2
+7,/s/AMD+Ryzen+Threadripper+3990X+64-Core,AMD Ryzen Threadripper 3990X 64-Core,46th,3,396 +/- 47
+8,/s/AMD+Ryzen+Threadripper+3970X+32-Core,AMD Ryzen Threadripper 3970X 32-Core,33rd,4,280 +/- 3

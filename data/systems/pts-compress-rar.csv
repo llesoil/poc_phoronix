@@ -1,0 +1,35 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Core+i9-11900K,Intel Core i9-11900K,98th,8,36
+1,/s/AMD+Ryzen+7+5800X+8-Core,AMD Ryzen 7 5800X 8-Core,97th,4,36
+2,/s/AMD+Ryzen+5+5600X+6-Core,AMD Ryzen 5 5600X 6-Core,97th,4,38
+3,/s/Intel+Core+i5-11600K,Intel Core i5-11600K,96th,3,40
+4,/s/Intel+Core+i9-10900K,Intel Core i9-10900K,94th,4,41
+5,/s/Intel+Core+i9-9900K,Intel Core i9-9900K,93rd,4,43 +/- 1
+6,/s/AMD+Ryzen+9+5950X+16-Core,AMD Ryzen 9 5950X 16-Core,92nd,11,46 +/- 5
+7,/s/Intel+Core+i5-10600K,Intel Core i5-10600K,92nd,3,47
+8,/s/AMD+Ryzen+9+5900X+12-Core,AMD Ryzen 9 5900X 12-Core,89th,5,51 +/- 4
+9,/s/AMD+Ryzen+9+3900X+12-Core,AMD Ryzen 9 3900X 12-Core,81st,12,66 +/- 8
+10,/s/Intel+Core+i5-10210U,Intel Core i5-10210U,81st,14,66 +/- 5
+11,/s/Intel+Core+i9-7980XE,Intel Core i9-7980XE,80th,12,68 +/- 3
+12,/s/AMD+Ryzen+Threadripper+3970X+32-Core,AMD Ryzen Threadripper 3970X 32-Core,76th,4,70 +/- 8
+14,/s/Intel+Core+i5-1035G1,Intel Core i5-1035G1,75th,4,71 +/- 1
+15,/s/Intel+Core+i7-4790K,Intel Core i7-4790K,74th,9,72 +/- 10
+16,/s/Intel+Core+i5-10310U,Intel Core i5-10310U,71st,10,76
+17,/s/AMD+EPYC+7F52+16-Core,AMD EPYC 7F52 16-Core,71st,5,76 +/- 5
+18,/s/AMD+Ryzen+5+3600+6-Core,AMD Ryzen 5 3600 6-Core,67th,3,82 +/- 11
+19,/s/AMD+EPYC+7313+16-Core,AMD EPYC 7313 16-Core,56th,5,103 +/- 1
+20,/s/Intel+Core+i5-4440S,Intel Core i5-4440S,53rd,6,109 +/- 2
+21,/s/2+x+AMD+EPYC+7601+32-Core,2 x AMD EPYC 7601 32-Core,53rd,3,110 +/- 2
+23,/s/Intel+Core+i5-4430,Intel Core i5-4430,48th,21,115 +/- 4
+24,/s/Intel+Core+i7-6820HQ,Intel Core i7-6820HQ,41st,9,121 +/- 8
+25,/s/2+x+Intel+Xeon+Gold+6254,2 x Intel Xeon Gold 6254,41st,19,122 +/- 11
+26,/s/2+x+Intel+Xeon+E5-2630+v4,2 x Intel Xeon E5-2630 v4,41st,4,122 +/- 13
+27,/s/AMD+Ryzen+5+1600+Six-Core,AMD Ryzen 5 1600 Six-Core,35th,3,133 +/- 3
+28,/s/2+x+AMD+EPYC+7451+24-Core,2 x AMD EPYC 7451 24-Core,34th,3,134 +/- 10
+29,/s/Intel+Core+i7+920,Intel Core i7 920,28th,9,148 +/- 1
+31,/s/Intel+Core+i7+950,Intel Core i7 950,23rd,10,154 +/- 5
+32,/s/2+x+AMD+EPYC+7501+32-Core,2 x AMD EPYC 7501 32-Core,21st,4,157 +/- 7
+33,/s/Intel+Celeron+J1900,Intel Celeron J1900,10th,3,368 +/- 3
+34,/s/Intel+Celeron+J3060,Intel Celeron J3060,8th,12,488 +/- 32
+35,/s/Intel+Pentium+4,Intel Pentium 4,3rd,14,589 +/- 25
+36,/s/Intel+Pentium+Dual+T2310,Intel Pentium Dual T2310,3rd,10,604 +/- 57

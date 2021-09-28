@@ -1,0 +1,15 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/NVIDIA+GeForce+RTX+3090,NVIDIA GeForce RTX 3090,100th,4,994 +/- 1
+1,/s/AMD+Radeon+RX+6800,AMD Radeon RX 6800,95th,6,990 +/- 5
+3,/s/AMD+Radeon+RX+5600+OEM,AMD Radeon RX 5600 OEM,72nd,17,919 +/- 59
+4,/s/NVIDIA+GeForce+RTX+3060+Ti,NVIDIA GeForce RTX 3060 Ti,72nd,3,917 +/- 3
+5,/s/NVIDIA+GeForce+RTX+3070,NVIDIA GeForce RTX 3070,69th,3,891 +/- 9
+6,/s/Intel+Xe+TGL+GT2,Intel Xe TGL GT2,58th,10,859 +/- 31
+7,/s/AMD+Radeon+RX+56,AMD Radeon RX 56,51st,5,755 +/- 3
+9,/s/Intel+UHD+630+CML+GT2,Intel UHD 630 CML GT2,46th,4,745 +/- 19
+10,/s/Intel+Iris+Plus+ICL+GT2,Intel Iris Plus ICL GT2,39th,6,637 +/- 8
+11,/s/Sapphire+AMD+Radeon+RX+470,Sapphire AMD Radeon RX 470,29th,4,408
+13,/s/AMD+Radeon+RX+590,AMD Radeon RX 590,15th,15,391
+14,/s/ASUS+Intel+UHD+630+CFL+GT2,ASUS Intel UHD 630 CFL GT2,11th,4,65
+15,/s/Intel+UHD+620+KBL+GT2,Intel UHD 620 KBL GT2,10th,3,54
+16,/s/Gigabyte+Intel+HD+630+KBL+GT2,Gigabyte Intel HD 630 KBL GT2,5th,4,35

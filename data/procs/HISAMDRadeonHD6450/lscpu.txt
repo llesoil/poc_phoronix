@@ -1,0 +1,7 @@
+/build/vulkan-tools-IZAxVX/vulkan-tools-1.1.114.0+dfsg1/vulkaninfo/vulkaninfo.c:5884: failed with VK_ERROR_INITIALIZATION_FAILED
+==========
+VULKANINFO
+==========
+
+Vulkan Instance Version: 1.1.114
+

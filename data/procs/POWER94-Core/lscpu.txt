@@ -1,0 +1,24 @@
+Architecture:                    ppc64le
+Byte Order:                      Little Endian
+CPU(s):                          16
+On-line CPU(s) list:             0-15
+Thread(s) per core:              4
+Core(s) per socket:              4
+Socket(s):                       1
+NUMA node(s):                    1
+Model:                           2.2 (pvr 004e 1202)
+Model name:                      POWER9, altivec supported
+Frequency boost:                 enabled
+CPU max MHz:                     3800.0000
+CPU min MHz:                     2154.0000
+L1d cache:                       128 KiB
+L1i cache:                       128 KiB
+L2 cache:                        2 MiB
+L3 cache:                        40 MiB
+NUMA node0 CPU(s):               0-15
+Vulnerability L1tf:              Not affected
+Vulnerability Mds:               Not affected
+Vulnerability Meltdown:          Mitigation; RFI Flush, L1D private per thread
+Vulnerability Spec store bypass: Mitigation; Kernel entry/exit barrier (eieio)
+Vulnerability Spectre v1:        Mitigation; __user pointer sanitization, ori31 speculation barrier enabled
+Vulnerability Spectre v2:        Mitigation; Indirect branch cache disabled

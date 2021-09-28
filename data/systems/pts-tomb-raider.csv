@@ -1,0 +1,9 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Navi+10,AMD Navi 10,99th,4,219 +/- 25
+1,/s/AMD+Radeon+RX+56,AMD Radeon RX 56,95th,5,178 +/- 12
+2,/s/AMD+Radeon+RX+64,AMD Radeon RX 64,95th,3,178 +/- 9
+3,/s/NVIDIA+GeForce+GTX+1070,NVIDIA GeForce GTX 1070,77th,3,125 +/- 2
+5,/s/MSI+AMD+Radeon+RX+470,MSI AMD Radeon RX 470,75th,5,121 +/- 2
+7,/s/MSI+AMD+Radeon+HD+7900,MSI AMD Radeon HD 7900,34th,94,90 +/- 3
+8,/s/MSI+AMD+Radeon+HD+7970,MSI AMD Radeon HD 7970,33rd,3,89 +/- 1
+10,/s/XFX+AMD+Radeon+HD+7950,XFX AMD Radeon HD 7950,10th,3,66 +/- 3

@@ -1,0 +1,10 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Core+i7-7700K,Intel Core i7-7700K,93rd,7,1372 +/- 4
+1,/s/Intel+Xeon+Silver+4108,Intel Xeon Silver 4108,80th,7,1276 +/- 3
+3,/s/Intel+Xeon+E3-1245+v5,Intel Xeon E3-1245 v5,72nd,7,1094 +/- 2
+4,/s/Intel+Xeon+E3-1260L+v5,Intel Xeon E3-1260L v5,59th,7,1043 +/- 3
+6,/s/Intel+Xeon+E5-2609+v4,Intel Xeon E5-2609 v4,49th,3,977 +/- 3
+7,/s/Intel+Core+i5-6500,Intel Core i5-6500,42nd,7,947 +/- 14
+8,/s/Intel+Xeon+E3-1235L+v5,Intel Xeon E3-1235L v5,30th,7,779 +/- 7
+10,/s/Intel+Core+i7-4770K,Intel Core i7-4770K,21st,3,707
+11,/s/Intel+Pentium+G4400,Intel Pentium G4400,3rd,7,305 +/- 1

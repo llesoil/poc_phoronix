@@ -1,0 +1,11 @@
+===========
+VULKAN INFO
+===========
+
+Vulkan API Version: 1.0.61
+
+INFO: [loader] Code 0 : Found manifest file /home/phoronix/.local/share/vulkan/implicit_layer.d/steamoverlay_i386.json, version "1.0.0"
+INFO: [loader] Code 0 : Found manifest file /home/phoronix/.local/share/vulkan/implicit_layer.d/steamoverlay_x86_64.json, version "1.0.0"
+INFO: [loader] Code 0 : Meta-layer VK_LAYER_LUNARG_standard_validation all 0 component layers appear to be valid.
+Cannot create Vulkan instance.
+/build/vulkan-L06RNr/vulkan-1.0.61.1+dfsg1/demos/vulkaninfo.c:704: failed with VK_ERROR_INCOMPATIBLE_DRIVER

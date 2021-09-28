@@ -1,0 +1,56 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Ryzen+7+5800X+8-Core,AMD Ryzen 7 5800X 8-Core,99th,5,1.51 +/- 0.01
+1,/s/AMD+Ryzen+9+5950X+16-Core,AMD Ryzen 9 5950X 16-Core,99th,13,1.52 +/- 0.03
+2,/s/AMD+Ryzen+9+5900X+12-Core,AMD Ryzen 9 5900X 12-Core,99th,9,1.52 +/- 0.01
+3,/s/AMD+Ryzen+5+5600X+6-Core,AMD Ryzen 5 5600X 6-Core,94th,8,1.56 +/- 0.01
+4,/s/Intel+Core+i7-11700K,Intel Core i7-11700K,93rd,3,1.79 +/- 0.08
+5,/s/Intel+Core+i9-11900K,Intel Core i9-11900K,92nd,7,2.08 +/- 0.15
+6,/s/Intel+Core+i9-10900K,Intel Core i9-10900K,89th,13,2.30 +/- 0.03
+7,/s/Intel+Core+i5-11600K,Intel Core i5-11600K,89th,3,2.30
+8,/s/Intel+Core+i9-9900KS,Intel Core i9-9900KS,87th,5,2.38 +/- 0.04
+9,/s/AMD+Ryzen+Threadripper+3970X+32-Core,AMD Ryzen Threadripper 3970X 32-Core,85th,12,2.46 +/- 0.06
+10,/s/2+x+Intel+Xeon+Platinum+8280,2 x Intel Xeon Platinum 8280,81st,5,2.66 +/- 0.04
+11,/s/Intel+Core+i5-10600K,Intel Core i5-10600K,81st,6,2.67 +/- 0.03
+13,/s/AMD+Ryzen+9+3950X+16-Core,AMD Ryzen 9 3950X 16-Core,73rd,7,3.04 +/- 0.02
+14,/s/Intel+Core+i9-10980XE,Intel Core i9-10980XE,72nd,6,3.06 +/- 0.08
+15,/s/AMD+Ryzen+7+3800XT+8-Core,AMD Ryzen 7 3800XT 8-Core,70th,3,3.12
+16,/s/AMD+Ryzen+9+3900X+12-Core,AMD Ryzen 9 3900X 12-Core,70th,15,3.12 +/- 0.10
+17,/s/AMD+Ryzen+7+3800X+8-Core,AMD Ryzen 7 3800X 8-Core,68th,3,3.14 +/- 0.04
+18,/s/AMD+EPYC+7F32+8-Core,AMD EPYC 7F32 8-Core,66th,7,3.19 +/- 0.04
+19,/s/AMD+EPYC+7F52+16-Core,AMD EPYC 7F52 16-Core,63rd,11,3.21 +/- 0.06
+20,/s/AMD+Ryzen+9+3900XT+12-Core,AMD Ryzen 9 3900XT 12-Core,61st,9,3.25 +/- 0.19
+21,/s/AMD+Ryzen+7+3700X+8-Core,AMD Ryzen 7 3700X 8-Core,59th,4,3.26 +/- 0.05
+22,/s/AMD+EPYC+7F72+24-Core,AMD EPYC 7F72 24-Core,56th,7,3.28 +/- 0.06
+23,/s/AMD+EPYC+7262+8-Core,AMD EPYC 7262 8-Core,53rd,4,3.30 +/- 0.02
+24,/s/AMD+EPYC+7402P+24-Core,AMD EPYC 7402P 24-Core,51st,7,3.33 +/- 0.04
+25,/s/AMD+EPYC+7702+64-Core,AMD EPYC 7702 64-Core,51st,8,3.33 +/- 0.05
+26,/s/AMD+EPYC+7502P+32-Core,AMD EPYC 7502P 32-Core,51st,7,3.33 +/- 0.04
+27,/s/AMD+EPYC+7542+32-Core,AMD EPYC 7542 32-Core,51st,5,3.33 +/- 0.02
+28,/s/AMD+Ryzen+5+3600X+6-Core,AMD Ryzen 5 3600X 6-Core,51st,5,3.33 +/- 0.27
+30,/s/AMD+EPYC+7502+32-Core,AMD EPYC 7502 32-Core,50th,4,3.34 +/- 0.01
+31,/s/AMD+EPYC+7282+16-Core,AMD EPYC 7282 16-Core,45th,6,3.35
+32,/s/AMD+EPYC+7452+32-Core,AMD EPYC 7452 32-Core,45th,7,3.35 +/- 0.02
+33,/s/AMD+EPYC+7272+12-Core,AMD EPYC 7272 12-Core,38th,4,3.37 +/- 0.01
+34,/s/AMD+EPYC+7252+8-Core,AMD EPYC 7252 8-Core,35th,4,3.39 +/- 0.03
+35,/s/AMD+EPYC+7662+64-Core,AMD EPYC 7662 64-Core,35th,7,3.39 +/- 0.06
+36,/s/AMD+EPYC+7552+48-Core,AMD EPYC 7552 48-Core,35th,6,3.40 +/- 0.02
+37,/s/AMD+EPYC+7642+48-Core,AMD EPYC 7642 48-Core,34th,15,3.41 +/- 0.09
+38,/s/AMD+EPYC+7532+32-Core,AMD EPYC 7532 32-Core,33rd,6,3.42
+39,/s/AMD+EPYC+7352+24-Core,AMD EPYC 7352 24-Core,33rd,6,3.42
+40,/s/Intel+Xeon+Gold+5218,Intel Xeon Gold 5218,29th,8,3.44 +/- 0.26
+41,/s/Intel+Xeon+Gold+6226R,Intel Xeon Gold 6226R,29th,6,3.46 +/- 0.07
+42,/s/2+x+AMD+EPYC+7252+8-Core,2 x AMD EPYC 7252 8-Core,28th,3,3.48 +/- 0.22
+43,/s/AMD+EPYC+7302P+16-Core,AMD EPYC 7302P 16-Core,26th,9,3.58 +/- 0.46
+44,/s/Intel+Core+i3-7100,Intel Core i3-7100,26th,3,3.59 +/- 0.03
+46,/s/Intel+Xeon+Silver+4216,Intel Xeon Silver 4216,23rd,8,3.64 +/- 0.23
+47,/s/Intel+Xeon+Platinum+8253,Intel Xeon Platinum 8253,22nd,3,3.68 +/- 0.26
+48,/s/AMD+EPYC+7232P+8-Core,AMD EPYC 7232P 8-Core,22nd,9,3.68 +/- 0.12
+49,/s/Intel+Xeon+Silver+4214R,Intel Xeon Silver 4214R,17th,5,4.04 +/- 0.18
+50,/s/Intel+Xeon+Gold+5217,Intel Xeon Gold 5217,17th,6,4.06 +/- 0.09
+51,/s/AMD+Ryzen+Threadripper+2990WX+32-Core,AMD Ryzen Threadripper 2990WX 32-Core,17th,3,4.06 +/- 0.01
+52,/s/AMD+Ryzen+5+2600X+Six-Core,AMD Ryzen 5 2600X Six-Core,13th,3,4.37 +/- 0.05
+53,/s/AMD+Ryzen+5+2600+Six-Core,AMD Ryzen 5 2600 Six-Core,11th,3,4.48 +/- 0.14
+54,/s/Intel+Xeon+Silver+4215R,Intel Xeon Silver 4215R,11th,5,4.52 +/- 0.24
+55,/s/AMD+Ryzen+7+1700+Eight-Core,AMD Ryzen 7 1700 Eight-Core,7th,7,4.75 +/- 0.04
+56,/s/AMD+FX-8150+Eight-Core,AMD FX-8150 Eight-Core,3rd,4,8.38 +/- 0.13
+57,/s/Intel+Core+i5-2520M,Intel Core i5-2520M,2nd,3,9.55 +/- 0.01

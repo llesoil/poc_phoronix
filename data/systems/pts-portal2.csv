@@ -1,0 +1,14 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Radeon+RX+6800,AMD Radeon RX 6800,92nd,19,513 +/- 26
+1,/s/AMD+Radeon+RX+6800+XT,AMD Radeon RX 6800 XT,87th,13,501 +/- 14
+3,/s/AMD+Radeon+RX+5600+OEM,AMD Radeon RX 5600 OEM,59th,8,306 +/- 1
+4,/s/NVIDIA+GeForce+RTX+3080,NVIDIA GeForce RTX 3080,59th,7,305 +/- 9
+6,/s/NVIDIA+GeForce+RTX+2080+Ti,NVIDIA GeForce RTX 2080 Ti,45th,6,287 +/- 3
+7,/s/NVIDIA+GeForce+RTX+2080+SUPER,NVIDIA GeForce RTX 2080 SUPER,37th,6,247 +/- 3
+8,/s/Zotac+NVIDIA+GeForce+RTX+2080,Zotac NVIDIA GeForce RTX 2080,33rd,8,232 +/- 1
+9,/s/NVIDIA+GeForce+RTX+3060+Ti,NVIDIA GeForce RTX 3060 Ti,27th,7,229 +/- 4
+11,/s/NVIDIA+GeForce+RTX+2070+SUPER,NVIDIA GeForce RTX 2070 SUPER,20th,6,219 +/- 2
+12,/s/ASUS+NVIDIA+GeForce+RTX+2070,ASUS NVIDIA GeForce RTX 2070,17th,5,193 +/- 1
+13,/s/NVIDIA+GeForce+RTX+2060+SUPER,NVIDIA GeForce RTX 2060 SUPER,11th,5,190 +/- 2
+14,/s/NVIDIA+GeForce+RTX+2060,NVIDIA GeForce RTX 2060,5th,5,173
+15,/s/Sapphire+AMD+Radeon+RX+470,Sapphire AMD Radeon RX 470,5th,4,173 +/- 1

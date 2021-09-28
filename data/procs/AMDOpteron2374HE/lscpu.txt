@@ -1,0 +1,17 @@
+Architecture:          x86_64
+CPU op-mode(s):        64-bit
+CPU(s):                4
+Thread(s) per core:    1
+Core(s) per socket:    1
+CPU socket(s):         4
+Vendor ID:             AuthenticAMD
+CPU family:            16
+Model:                 4
+Stepping:              2
+CPU MHz:               3332344.486
+Hypervisor vendor:     Xen
+Virtualization type:   para
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              512K
+L3 cache:              6144K

@@ -1,0 +1,7 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Core+i9-9900KS,Intel Core i9-9900KS,58th,3,71539 +/- 1029
+1,/s/Intel+Xeon+E-2288G,Intel Xeon E-2288G,56th,4,69798 +/- 1617
+3,/s/Intel+Core+i9-10980XE,Intel Core i9-10980XE,33rd,8,38395 +/- 734
+5,/s/AMD+EPYC+7F72+24-Core,AMD EPYC 7F72 24-Core,20th,6,37290 +/- 669
+6,/s/Phytium+FT2000A+4-Core,Phytium FT2000A 4-Core,11th,3,24571 +/- 1269
+7,/s/Intel+Atom+N2600,Intel Atom N2600,2nd,5,4018 +/- 133

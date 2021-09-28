@@ -1,0 +1,65 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/AMD+Ryzen+7+1700+Eight-Core,AMD Ryzen 7 1700 Eight-Core,100th,4,1373 +/- 96
+1,/s/Intel+Xeon+X5670,Intel Xeon X5670,100th,8,1284 +/- 2
+2,/s/AMD+Ryzen+7+2700U,AMD Ryzen 7 2700U,100th,3,1256 +/- 32
+3,/s/AMD+EPYC+7401P+24-Core,AMD EPYC 7401P 24-Core,100th,6,1156 +/- 1
+4,/s/Intel+Core+i7-7700K,Intel Core i7-7700K,100th,3,1113 +/- 1
+5,/s/Intel+Xeon+E5-2667+v4,Intel Xeon E5-2667 v4,100th,3,1089 +/- 15
+6,/s/2+x+Intel+Xeon+E5-2690+v4,2 x Intel Xeon E5-2690 v4,100th,4,1063 +/- 2
+7,/s/Intel+Core+i7-8665U,Intel Core i7-8665U,100th,3,973 +/- 132
+8,/s/Intel+Core+i7-3770K,Intel Core i7-3770K,100th,4,946 +/- 73
+9,/s/Intel+Core+i7-7700,Intel Core i7-7700,100th,3,932 +/- 81
+10,/s/Intel+Core+i7-3820,Intel Core i7-3820,100th,4,928 +/- 67
+11,/s/Intel+Core+i7-3770,Intel Core i7-3770,99th,5,898 +/- 72
+12,/s/Intel+Pentium+G4600,Intel Pentium G4600,92nd,3,888
+14,/s/Intel+Core+i7-7700HQ,Intel Core i7-7700HQ,55th,3,862 +/- 11
+16,/s/Intel+Xeon+E5-1650+v3,Intel Xeon E5-1650 v3,41st,12,851 +/- 28
+17,/s/Intel+Xeon+Platinum+8124M,Intel Xeon Platinum 8124M,32nd,3,839
+18,/s/Intel+Core+i7-7500U,Intel Core i7-7500U,31st,3,836 +/- 41
+19,/s/Intel+Core+i5-8250U,Intel Core i5-8250U,31st,3,835 +/- 3
+20,/s/Intel+Core+i7-6820HQ,Intel Core i7-6820HQ,28th,6,826 +/- 43
+22,/s/Intel+Core+i5-4570,Intel Core i5-4570,24th,6,813 +/- 16
+23,/s/Intel+Core+i3-3220,Intel Core i3-3220,20th,4,778 +/- 1
+24,/s/Intel+Xeon+E3-1220+v3,Intel Xeon E3-1220 v3,20th,3,773 +/- 54
+25,/s/2+x+Intel+Xeon+E5-2670+0,2 x Intel Xeon E5-2670 0,20th,12,762 +/- 3
+26,/s/Intel+Core+i7-6500U,Intel Core i7-6500U,19th,5,761 +/- 1
+27,/s/2+x+Intel+Xeon+E5-2690+v3,2 x Intel Xeon E5-2690 v3,19th,27,754 +/- 87
+28,/s/Intel+Core+i7-4700MQ,Intel Core i7-4700MQ,18th,3,748 +/- 26
+29,/s/Intel+Core+i5-2540M,Intel Core i5-2540M,18th,3,734 +/- 11
+30,/s/Intel+Core+i5-2520M,Intel Core i5-2520M,17th,4,717 +/- 27
+31,/s/2+x+Intel+Xeon+X5680,2 x Intel Xeon X5680,17th,4,715 +/- 87
+32,/s/Intel+Xeon+E5-2690+0,Intel Xeon E5-2690 0,17th,3,713 +/- 2
+33,/s/Intel+Xeon+E312xx,Intel Xeon E312xx,15th,6,694 +/- 58
+34,/s/Intel+Xeon+E5-2670+0,Intel Xeon E5-2670 0,15th,7,688 +/- 26
+35,/s/2+x+Intel+Xeon+X5675,2 x Intel Xeon X5675,14th,4,669 +/- 13
+36,/s/Intel+Core+i7-2630QM,Intel Core i7-2630QM,14th,3,662 +/- 7
+37,/s/2+x+Intel+Xeon+E5-2680+v2,2 x Intel Xeon E5-2680 v2,14th,4,661
+38,/s/2+x+Intel+Xeon+E5-2640+0,2 x Intel Xeon E5-2640 0,14th,3,637 +/- 1
+39,/s/2+x+Intel+Xeon+E5-2650+0,2 x Intel Xeon E5-2650 0,14th,3,637 +/- 4
+40,/s/2+x+Intel+Xeon+E5-2620+v2,2 x Intel Xeon E5-2620 v2,13th,10,597 +/- 37
+41,/s/Intel+Core+i3-7100U,Intel Core i3-7100U,13th,3,591 +/- 1
+42,/s/Intel+Xeon+E5-2680+v3,Intel Xeon E5-2680 v3,12th,4,579
+43,/s/Intel+Core+i5-4210U,Intel Core i5-4210U,12th,3,577 +/- 39
+44,/s/Intel+Core+i5+520M,Intel Core i5 520M,12th,3,574 +/- 31
+45,/s/4+x+Intel+Xeon+E5-2680+v3,4 x Intel Xeon E5-2680 v3,11th,6,570 +/- 9
+46,/s/Intel+Core+i7+930,Intel Core i7 930,9th,3,548 +/- 16
+47,/s/AMD+FX-8350+Eight-Core,AMD FX-8350 Eight-Core,8th,3,516 +/- 18
+48,/s/Intel+Xeon+E5-2620+0,Intel Xeon E5-2620 0,8th,3,514 +/- 45
+49,/s/2+x+Intel+Xeon+E5620,2 x Intel Xeon E5620,8th,6,502 +/- 25
+50,/s/AMD+FX-6300+Six-Core,AMD FX-6300 Six-Core,8th,3,488 +/- 1
+51,/s/2+x+Intel+Xeon+E5-2620+0,2 x Intel Xeon E5-2620 0,7th,6,464 +/- 50
+52,/s/AMD+Phenom+II+X4+B55,AMD Phenom II X4 B55,7th,4,448 +/- 1
+53,/s/2+x+Intel+Xeon+E5520,2 x Intel Xeon E5520,7th,4,446 +/- 8
+54,/s/AMD+Opteron+6380,AMD Opteron 6380,7th,3,426 +/- 4
+55,/s/2+x+Intel+Xeon+E5420,2 x Intel Xeon E5420,7th,4,426 +/- 3
+56,/s/Intel+Core+2+Quad+Q9300,Intel Core 2 Quad Q9300,7th,3,425 +/- 1
+57,/s/Intel+Core+i3-3217U,Intel Core i3-3217U,6th,3,422 +/- 3
+58,/s/AMD+Phenom+II+X4+945,AMD Phenom II X4 945,6th,3,403 +/- 26
+59,/s/Intel+Atom+D525,Intel Atom D525,5th,3,352 +/- 3
+60,/s/AMD+Phenom+8650+Triple-Core,AMD Phenom 8650 Triple-Core,4th,12,297 +/- 20
+61,/s/Intel+Pentium+Dual+T2370,Intel Pentium Dual T2370,4th,5,292 +/- 6
+62,/s/SPARC-T5+sparcv9,SPARC-T5 sparcv9,3rd,3,286 +/- 2
+63,/s/2+x+AMD+Opteron+6282+SE,2 x AMD Opteron 6282 SE,3rd,6,280 +/- 3
+64,/s/Intel+Atom+N570,Intel Atom N570,2nd,4,77
+65,/s/Exynos+ARMv7+rev+3+8-Core,Exynos ARMv7 rev 3 8-Core,2nd,11,14 +/- 1
+66,/s/ARMv6-compatible+rev+7,ARMv6-compatible rev 7,2nd,3,0.7

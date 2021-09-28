@@ -1,0 +1,18 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    1
+Core(s) per socket:    4
+CPU socket(s):         1
+Vendor ID:             AuthenticAMD
+CPU family:            18
+Model:                 1
+Stepping:              0
+CPU MHz:               800.000
+BogoMIPS:              6915.67
+Virtualization:        AMD-V
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              1024K

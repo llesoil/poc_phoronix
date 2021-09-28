@@ -1,0 +1,33 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/2+x+AMD+EPYC+7742+64-Core,2 x AMD EPYC 7742 64-Core,98th,10,103256 +/- 4437
+1,/s/2+x+AMD+EPYC+7552+48-Core,2 x AMD EPYC 7552 48-Core,98th,5,102968
+2,/s/2+x+AMD+EPYC+7542+32-Core,2 x AMD EPYC 7542 32-Core,98th,5,102968
+3,/s/2+x+Intel+Xeon+Gold+6258R,2 x Intel Xeon Gold 6258R,94th,3,96916
+4,/s/2+x+AMD+EPYC+7452+32-Core,2 x AMD EPYC 7452 32-Core,94th,5,96916
+5,/s/2+x+AMD+EPYC+7532+32-Core,2 x AMD EPYC 7532 32-Core,91st,5,95665
+6,/s/2+x+Intel+Xeon+Platinum+8280,2 x Intel Xeon Platinum 8280,89th,13,94259 +/- 1504
+7,/s/AMD+EPYC+7642+48-Core,AMD EPYC 7642 48-Core,86th,4,89936 +/- 10575
+8,/s/2+x+AMD+EPYC+7F72+24-Core,2 x AMD EPYC 7F72 24-Core,86th,4,87864
+9,/s/2+x+AMD+EPYC+7402+24-Core,2 x AMD EPYC 7402 24-Core,83rd,4,84799
+10,/s/AMD+Ryzen+Threadripper+3970X+32-Core,AMD Ryzen Threadripper 3970X 32-Core,82nd,6,84295 +/- 3113
+11,/s/2+x+AMD+EPYC+7642+48-Core,2 x AMD EPYC 7642 48-Core,82nd,6,81018 +/- 5373
+12,/s/2+x+AMD+EPYC+7352+24-Core,2 x AMD EPYC 7352 24-Core,80th,5,80728 +/- 381
+13,/s/2+x+AMD+EPYC+7F52+16-Core,2 x AMD EPYC 7F52 16-Core,76th,5,69259
+15,/s/2+x+Intel+Xeon+Gold+5220R,2 x Intel Xeon Gold 5220R,73rd,5,66222 +/- 1712
+16,/s/AMD+EPYC+7402P+24-Core,AMD EPYC 7402P 24-Core,70th,3,63882
+17,/s/2+x+AMD+EPYC+7601+32-Core,2 x AMD EPYC 7601 32-Core,70th,6,63451 +/- 4057
+18,/s/2+x+AMD+EPYC+7282+16-Core,2 x AMD EPYC 7282 16-Core,66th,4,56123
+19,/s/2+x+Intel+Xeon+Gold+6138,2 x Intel Xeon Gold 6138,64th,25,54084 +/- 7880
+20,/s/2+x+Intel+Xeon+Silver+4214R,2 x Intel Xeon Silver 4214R,63rd,3,48336
+21,/s/AMD+EPYC+7601+32-Core,AMD EPYC 7601 32-Core,59th,5,44686 +/- 441
+22,/s/AMD+EPYC+7302P+16-Core,AMD EPYC 7302P 16-Core,59th,3,44390
+23,/s/Intel+Core+i9-10980XE,Intel Core i9-10980XE,54th,10,39279 +/- 1735
+24,/s/2+x+AMD+EPYC+7F32+8-Core,2 x AMD EPYC 7F32 8-Core,54th,5,38431
+25,/s/2+x+Intel+Xeon+Silver+4210,2 x Intel Xeon Silver 4210,51st,3,35774
+27,/s/2+x+AMD+EPYC+7262+8-Core,2 x AMD EPYC 7262 8-Core,49th,3,34540
+28,/s/2+x+Intel+Xeon+Silver+4215R,2 x Intel Xeon Silver 4215R,48th,3,30854
+29,/s/AMD+EPYC+7232P+8-Core,AMD EPYC 7232P 8-Core,40th,3,20977
+30,/s/Intel+Xeon+Gold+5217,Intel Xeon Gold 5217,37th,4,20501
+31,/s/Intel+Xeon+E5-2687W+v3,Intel Xeon E5-2687W v3,33rd,15,18887 +/- 2492
+32,/s/AMD+Ryzen+5+5600X+6-Core,AMD Ryzen 5 5600X 6-Core,28th,5,15564 +/- 160
+34,/s/Intel+Xeon+E5-1680+v3,Intel Xeon E5-1680 v3,17th,10,11250 +/- 1319

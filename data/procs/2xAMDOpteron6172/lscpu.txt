@@ -1,0 +1,17 @@
+Architecture:          x86_64
+CPU op-mode(s):        64-bit
+CPU(s):                24
+Thread(s) per core:    1
+Core(s) per socket:    12
+CPU socket(s):         2
+NUMA node(s):          4
+Vendor ID:             AuthenticAMD
+CPU family:            16
+Model:                 9
+Stepping:              1
+CPU MHz:               800.000
+Virtualization:        AMD-V
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              512K
+L3 cache:              5118K

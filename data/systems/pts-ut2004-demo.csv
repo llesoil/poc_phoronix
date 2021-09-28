@@ -1,0 +1,18 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/MSI+NVIDIA+GeForce+GTX+1080+Ti,MSI NVIDIA GeForce GTX 1080 Ti,100th,84,278
+1,/s/MSI+NVIDIA+GeForce+GTX+1060+6GB,MSI NVIDIA GeForce GTX 1060 6GB,91st,84,251
+2,/s/Intel+HD+630,Intel HD 630,81st,84,232
+3,/s/NVIDIA+GeForce+GTX+560+Ti,NVIDIA GeForce GTX 560 Ti,81st,177,222 +/- 25
+4,/s/ASUS+NVIDIA+GeForce+GTX+570,ASUS NVIDIA GeForce GTX 570,81st,84,221
+6,/s/AMD+Radeon+HD+7900,AMD Radeon HD 7900,64th,3,133 +/- 13
+7,/s/MSI+NVIDIA+GeForce+GTX+550+Ti,MSI NVIDIA GeForce GTX 550 Ti,63rd,6,115 +/- 3
+8,/s/Intel+Iris+540,Intel Iris 540,57th,84,109
+9,/s/Intel+HD+530,Intel HD 530,57th,85,109
+11,/s/Gigabyte+NVIDIA+GeForce+GTX+750+Ti,Gigabyte NVIDIA GeForce GTX 750 Ti,47th,86,104
+12,/s/AMD+Radeon+HD+7660D,AMD Radeon HD 7660D,42nd,86,97 +/- 1
+13,/s/NVIDIA+Quadro+NVS+4200M,NVIDIA Quadro NVS 4200M,40th,3,81 +/- 3
+14,/s/Sapphire+AMD+Radeon+HD+7770,Sapphire AMD Radeon HD 7770,40th,7,77 +/- 8
+16,/s/ATI+Radeon+3000,ATI Radeon 3000,17th,85,35
+17,/s/NVIDIA+GeForce+210,NVIDIA GeForce 210,12th,5,31
+18,/s/Intel+2nd+Generation+Core+Family+IGP,Intel 2nd Generation Core Family IGP,11th,85,21
+19,/s/ATI+AMD+Radeon+HD+6310+ATI,ATI AMD Radeon HD 6310 ATI,6th,85,11

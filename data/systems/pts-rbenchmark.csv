@@ -1,0 +1,25 @@
+,idproc,descproc,percentile,nbproc,perf
+0,/s/Intel+Core+i9-10920X,Intel Core i9-10920X,98th,4,0.1183 +/- 0.0079
+1,/s/AMD+Ryzen+7+5800X+8-Core,AMD Ryzen 7 5800X 8-Core,97th,4,0.1202 +/- 0.0007
+2,/s/Intel+Core+i9-9900KS,Intel Core i9-9900KS,96th,3,0.1266 +/- 0.0171
+3,/s/Intel+Core+i7-7700K,Intel Core i7-7700K,94th,43,0.1332 +/- 0.0183
+4,/s/AMD+Ryzen+5+5600X+6-Core,AMD Ryzen 5 5600X 6-Core,92nd,5,0.1369 +/- 0.0082
+5,/s/Intel+Xeon+E3-1245+v5,Intel Xeon E3-1245 v5,86th,43,0.1522 +/- 0.0200
+6,/s/Intel+Xeon+E3-1260L+v5,Intel Xeon E3-1260L v5,84th,42,0.1578 +/- 0.0209
+7,/s/Intel+Core+i5-6500,Intel Core i5-6500,84th,41,0.1592 +/- 0.0170
+9,/s/Intel+Xeon+E3-1235L+v5,Intel Xeon E3-1235L v5,71st,46,0.1844 +/- 0.0210
+10,/s/AMD+EPYC+7232P+8-Core,AMD EPYC 7232P 8-Core,61st,3,0.2181 +/- 0.0051
+11,/s/Intel+Core+i7-4770K,Intel Core i7-4770K,57th,20,0.2322 +/- 0.0094
+12,/s/Intel+Xeon+E5-1620+v3,Intel Xeon E5-1620 v3,55th,3,0.2413 +/- 0.0106
+14,/s/Intel+Xeon+E5-2609+v4,Intel Xeon E5-2609 v4,49th,24,0.2567 +/- 0.0132
+15,/s/Intel+Core+i5-2500K,Intel Core i5-2500K,49th,28,0.2584 +/- 0.0251
+16,/s/Intel+Xeon+W-2295,Intel Xeon W-2295,45th,3,0.2832 +/- 0.0020
+17,/s/2+x+Intel+0000%25,2 x Intel 0000%,40th,5,0.3243 +/- 0.0126
+18,/s/Intel+Pentium+G4400,Intel Pentium G4400,39th,10,0.3388 +/- 0.0294
+19,/s/Intel+Core+i3-4130,Intel Core i3-4130,32nd,3,0.3962 +/- 0.0398
+20,/s/2+x+Intel+Xeon+Platinum+8173M,2 x Intel Xeon Platinum 8173M,31st,3,0.4025 +/- 0.0085
+21,/s/2+x+AMD+EPYC+7601+32-Core,2 x AMD EPYC 7601 32-Core,26th,4,0.4753 +/- 0.0374
+23,/s/Intel+Core+i7-5600U,Intel Core i7-5600U,12th,8,0.8640 +/- 0.0087
+24,/s/AMD+Athlon+II+X4+620,AMD Athlon II X4 620,8th,3,1.0162 +/- 0.1034
+25,/s/Intel+Core+i7+990X,Intel Core i7 990X,5th,10,1.1666 +/- 0.1453
+26,/s/ARMv7+Cortex-A72+4-Core,ARMv7 Cortex-A72 4-Core,2nd,3,1.9945 +/- 0.1795
