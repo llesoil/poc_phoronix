@@ -1,0 +1,16 @@
+LOAD CSV WITH HEADERS FROM 'file:///system.csv' AS row
+CREATE (suite:Suite {id: row.sys});
+
+LOAD CSV WITH HEADERS FROM 'file:///procs.csv' AS row
+CREATE (proc:Processor {id: row.descproc});
+
+LOAD CSV WITH HEADERS FROM 'file:///final.csv' AS row
+MATCH (s:Suite), (p:Processor)
+WHERE s.id = row.sys and p.id = row.descproc
+CREATE (s)-[r:Perf {name : row.perf}]->(p)
+RETURN r;
+
+MATCH p=()-[r:Perf]->() RETURN p LIMIT 300
+
+MATCH p=()-[r:Perf]->() delete p
+Match (n:Processor) delete n;
