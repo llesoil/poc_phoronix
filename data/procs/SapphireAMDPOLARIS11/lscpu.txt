@@ -1,8 +1,0 @@
-===========
-VULKAN INFO
-===========
-
-Vulkan API Version: 1.0.21
-
-Cannot create Vulkan instance.
-/build/vulkan-jbbABz/vulkan-1.0.21.0+dfsg1/demos/vulkaninfo.c:675: failed with VK_ERROR_INCOMPATIBLE_DRIVER

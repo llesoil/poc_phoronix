@@ -1,7 +1,0 @@
-/build/vulkan-tools-35Ffza/vulkan-tools-1.1.101.0+dfsg1/vulkaninfo/vulkaninfo.c:5028: failed with VK_ERROR_INITIALIZATION_FAILED
-==========
-VULKANINFO
-==========
-
-Vulkan Instance Version: 1.1.97
-

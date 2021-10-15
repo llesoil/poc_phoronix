@@ -1,3 +1,0 @@
-ERROR: [Loader Message] Code 0 : /usr/lib/i386-linux-gnu/libvulkan_intel.so: wrong ELF class: ELFCLASS32
-ERROR: [Loader Message] Code 0 : /usr/lib/i386-linux-gnu/libvulkan_radeon.so: wrong ELF class: ELFCLASS32
-ERROR at /build/vulkan-tools-A4vpMj/vulkan-tools-1.2.162.0+dfsg1/vulkaninfo/vulkaninfo.h:248:vkEnumerateInstanceExtensionProperties failed with ERROR_INITIALIZATION_FAILED

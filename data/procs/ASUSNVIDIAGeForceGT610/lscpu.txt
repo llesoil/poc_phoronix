@@ -1,8 +1,0 @@
-No protocol specified
-No protocol specified
-ERROR: [Loader Message] Code 0 : /usr/lib/i386-linux-gnu/libvulkan_intel.so: wrong ELF class: ELFCLASS32
-ERROR: [Loader Message] Code 0 : /usr/lib/i386-linux-gnu/libvulkan_radeon.so: wrong ELF class: ELFCLASS32
-No protocol specified
-error: XDG_RUNTIME_DIR not set in the environment.
-/build/vulkan-tools-KEbD_A/vulkan-tools-1.2.131.1+dfsg1/vulkaninfo/vulkaninfo.h:477: failed with ERROR_INITIALIZATION_FAILED
-Segmentation fault (core dumped)

@@ -1,8 +1,0 @@
-Cannot create Vulkan instance.
-/home/abuild/rpmbuild/BUILD/Vulkan-Tools-1.1.92/vulkaninfo/vulkaninfo.c:835: failed with VK_ERROR_INCOMPATIBLE_DRIVER
-==========
-VULKANINFO
-==========
-
-Vulkan Instance Version: 1.1.91
-
