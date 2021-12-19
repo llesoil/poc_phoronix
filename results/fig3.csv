@@ -1,0 +1,26 @@
+model,GeekBench,Phoronix,SPEC,TechPower,AMD
+AMD A,0,27,0,92,131
+AMD Athlon,0,28,0,298,47
+AMD E,0,5,0,13,14
+AMD EPYC,0,43,0,57,58
+AMD FX,0,13,0,29,30
+AMD Opteron,11,9,0,140,57
+AMD Phenom,0,20,0,88,28
+AMD Ryzen,0,70,0,128,163
+Intel Atom,0,17,1,74,0
+Intel Celeron,0,23,13,112,0
+Intel Core,3,38,58,0,0
+Intel Core-i3,4,31,29,0,0
+Intel Core-i5,12,70,52,0,0
+Intel Core-i7,30,92,37,0,0
+Intel Core-i9,0,8,0,0,0
+Intel Pentium,3,36,46,269,0
+Intel Xeon,115,97,402,355,0
+Intel Xeon Gold,0,9,0,0,0
+Intel Xeon Platinum,0,4,0,0,0
+Intel Xeon Silver,0,2,0,0,0
+AMD C,0,0,0,4,0
+Intel Cores,0,0,0,669,0
+AMD Sempron,0,0,0,78,3
+AMD Turion,0,0,0,26,4
+AMD Z,0,0,0,2,0
